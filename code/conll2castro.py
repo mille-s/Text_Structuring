@@ -13,6 +13,11 @@ print_debug = sys.argv[2]
 out_file_ord = sys.argv[3]
 out_file_struct = sys.argv[4]
 
+if print_debug == 'True':
+  print_debug = True
+elif print_debug == 'False':
+  print_debug = False
+
 sent_delim = '</SNT> <SNT>'
 
 conll_structures_file =  codecs.open(pathFile2process, 'r', 'utf-8').read()
