@@ -243,7 +243,7 @@ for list_properties_wdelim in lists_properties_ordered_struct:
   lists_properties_ordered.append(list_propertiesOnly)
 
 # Write ordering file and at the same time check that we didn't lose any property in the process
-with codecs.open('ordering_MFleNS-test.out.postprocessed', 'w', 'utf-8') as fo_ord:
+with codecs.open(out_file_ord, 'w', 'utf-8') as fo_ord:
   count_mismatches = 0
   for id_ord, (input, output_ord) in enumerate(zip(list_conlls_as_lineObjects, lists_properties_ordered)):
     if not len(input) == len(output_ord):
@@ -256,7 +256,7 @@ with codecs.open('ordering_MFleNS-test.out.postprocessed', 'w', 'utf-8') as fo_o
     print('The number of properties in the inputs looks good!')
 
 # Write srtructuring file
-with codecs.open('structuring_MFleNS-test.out.postprocessed', 'w', 'utf-8') as fo_struct:
+with codecs.open(out_file_struct, 'w', 'utf-8') as fo_struct:
   for id_struct, output_struct in enumerate(lists_properties_ordered_struct):
     fo_struct.write('<SNT> '+' '.join(output_struct)+' </SNT>')
     if id_struct < len(lists_properties_ordered_struct) - 1:
