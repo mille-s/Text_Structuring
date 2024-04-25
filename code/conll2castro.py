@@ -210,19 +210,19 @@ for i, conll_as_lineObjects in enumerate(list_conlls_as_lineObjects):
       index = 2
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
       fallback_node[str(index)].append('inter_'+str(i))
-    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-3])}_inter' in list_gov_deprel:
+    elif len(last_element_inter) > 2 and f'{str(last_element_inter[-3])}_inter' in list_gov_deprel:
       index = 3
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
       fallback_node[str(index)].append('inter_'+str(i))
-    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-4])}_inter' in list_gov_deprel:
+    elif len(last_element_inter) > 3 and f'{str(last_element_inter[-4])}_inter' in list_gov_deprel:
       index = 4
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
       fallback_node[str(index)].append('inter_'+str(i))
-    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-5])}_inter' in list_gov_deprel:
+    elif len(last_element_inter) > 4 and f'{str(last_element_inter[-5])}_inter' in list_gov_deprel:
       index = 5
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
       fallback_node[str(index)].append('inter_'+str(i))
-    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-6])}_inter' in list_gov_deprel:
+    elif len(last_element_inter) > 5 and f'{str(last_element_inter[-6])}_inter' in list_gov_deprel:
       index = 6
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
       fallback_node[str(index)].append('inter_'+str(i))
