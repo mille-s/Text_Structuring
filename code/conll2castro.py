@@ -166,7 +166,7 @@ for i, conll_as_lineObjects in enumerate(list_conlls_as_lineObjects):
       last_element_inter.append(conll_line0.id)
       list_gov_deprel.remove('0_ROOT')
   if print_debug == True:
-    print(list_gov_deprel)
+    print(f'{list_gov_deprel} (Input gov/deprel pairs)')
   # A well-formed structure should only have unique gov_deprel pairs (a node can have at most on inter and at most one intra relations below it) 
   # if not len(list_gov_deprel) == len(set(list_gov_deprel)):
   #   sys.exit(f'Duplicate linear order in {i}')
@@ -179,7 +179,7 @@ for i, conll_as_lineObjects in enumerate(list_conlls_as_lineObjects):
     # Index to use to retrieve the right preceding node
     index = 1
     # If the current (last to date) node has other "intra" dependents
-    if f'{str(last_element_intra[-1])}_intra' in list_gov_deprel:
+    if f'{str(last_element_intra[-index])}_intra' in list_gov_deprel:
       list_gov_deprel, last_element_intra = getNextItem_intra(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, index, print_debug)
     # Once the intra nodes are checked, check if the current node has an "inter" dependent
     elif f'{str(last_element_inter[-index])}_inter' in list_gov_deprel:
@@ -204,28 +204,53 @@ for i, conll_as_lineObjects in enumerate(list_conlls_as_lineObjects):
     elif len(last_element_intra) > 5 and f'{str(last_element_intra[-6])}_intra' in list_gov_deprel:
       index = 6
       list_gov_deprel, last_element_intra = getNextItem_intra(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, index, print_debug)
-      fallback_node[str(index)].append('intra_'+str(i))
+      fallback_node[str(index)].append('intra_'+str(i)) 
+    # For "inter" dependents, do the same as for intra (although there should be feer nodes in the "inter" list)
+    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-2])}_inter' in list_gov_deprel:
+      index = 2
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
+      fallback_node[str(index)].append('inter_'+str(i))
+    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-3])}_inter' in list_gov_deprel:
+      index = 3
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
+      fallback_node[str(index)].append('inter_'+str(i))
+    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-4])}_inter' in list_gov_deprel:
+      index = 4
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
+      fallback_node[str(index)].append('inter_'+str(i))
+    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-5])}_inter' in list_gov_deprel:
+      index = 5
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
+      fallback_node[str(index)].append('inter_'+str(i))
+    elif len(last_element_inter) > 1 and f'{str(last_element_inter[-6])}_inter' in list_gov_deprel:
+      index = 6
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug)
+      fallback_node[str(index)].append('inter_'+str(i))
     # For "inter" dependents, if the gorvernor does not appear in the list of potential last "inter" nodes, check in the "intra" list for a gov and place the new "inter" after the last property (index=1)
+    elif f'{str(last_element_intra[-1])}_inter' in list_gov_deprel:
+      index = 1
+      list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-1]))
+      fallback_node[str(index)].append('inter2intra_'+str(i))    
     elif len(last_element_intra) > 1 and f'{str(last_element_intra[-2])}_inter' in list_gov_deprel:
       index = 1
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-2]))
-      fallback_node[str(index)].append('inter_'+str(i))
+      fallback_node[str(index)].append('inter2intra_'+str(i))
     elif len(last_element_intra) > 2 and f'{str(last_element_intra[-3])}_inter' in list_gov_deprel:
       index = 1
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-3]))
-      fallback_node[str(index)].append('inter_'+str(i))
+      fallback_node[str(index)].append('inter2intra_'+str(i))
     elif len(last_element_intra) > 3 and f'{str(last_element_intra[-4])}_inter' in list_gov_deprel:
       index = 1
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-4]))
-      fallback_node[str(index)].append('inter_'+str(i))
+      fallback_node[str(index)].append('inter2intra_'+str(i))
     elif len(last_element_intra) > 4 and f'{str(last_element_intra[-5])}_inter' in list_gov_deprel:
       index = 1
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-5]))
-      fallback_node[str(index)].append('inter_'+str(i))
+      fallback_node[str(index)].append('inter2intra_'+str(i))
     elif len(last_element_intra) > 5 and f'{str(last_element_intra[-6])}_inter' in list_gov_deprel:
       index = 1
       list_gov_deprel, last_element_intra, last_element_inter = getNextItem_inter(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov=str(last_element_intra[-6]))
-      fallback_node[str(index)].append('inter_'+str(i))
+      fallback_node[str(index)].append('inter2intra_'+str(i))
     # Sometimes the parser retuns things like "0 intra" or "0 inter". Use the ID of the root to use as an anchor in case of bad parsing, and order immediately after the last available node.
     elif f'0_intra' in list_gov_deprel:
       list_gov_deprel, last_element_intra = getNextItem_intra(lists_properties_ordered_struct[i], conll_as_lineObjects, list_gov_deprel, last_element_intra, index, print_debug, altID_ToRemov='0')
