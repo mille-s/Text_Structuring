@@ -280,17 +280,19 @@ with codecs.open(out_file_ord, 'w', 'utf-8') as fo_ord:
       print(f'ERROR structure #{id_ord}')
       count_mismatches += 1
     fo_ord.write(' '.join(output_ord))
-    if id_ord < len(lists_properties_ordered) - 1:
-      fo_ord.write('\n')
+    # We need an empty line at the end for thiago's evaluations
+    # if id_ord < len(lists_properties_ordered) - 1:
+    fo_ord.write('\n')
   if count_mismatches == 0:
     print('The number of properties in the inputs looks good!')
 
-# Write srtructuring file
+# Write structuring file
 with codecs.open(out_file_struct, 'w', 'utf-8') as fo_struct:
   for id_struct, output_struct in enumerate(lists_properties_ordered_struct):
     fo_struct.write('<SNT> '+' '.join(output_struct)+' </SNT>')
-    if id_struct < len(lists_properties_ordered_struct) - 1:
-      fo_struct.write('\n')
+    # We need an empty line at the end for thiago's evaluations
+    # if id_struct < len(lists_properties_ordered_struct) - 1:
+    fo_struct.write('\n')
 
 print('Details of the structures on which fallback applied:')
 total_fallbacks = 0
