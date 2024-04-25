@@ -116,10 +116,6 @@ def getNextItem_inter(lists_ordered_properties, conll_as_lineObjects, list_gov_d
 class CoNLL_line:
   def __init__(self, conll_line):
     columns = conll_line.strip().split('\t')
-    # for column in columns:
-    #   if re.search('\ufeff', column):
-    #     print('Found BOM!')
-    # self.id = re.subn('\ufeff', '', columns[0])[0]
     # I convert everything to str to make comparisons safer
     self.id = str(columns[0])
     self.form = str(columns[1])
@@ -128,7 +124,11 @@ class CoNLL_line:
     self.cpos = str(columns[4])
     self.feats = str(columns[5])
     self.gov = str(columns[6])
-    self.deprel = str(columns[7])
+    # If a node has a deprel ROOT when it's not the root, change to "inter"
+    if str(columns[7]) == 'ROOT' and not str(columns[6]) == '0':
+      self.deprel = 'inter'
+    else:
+      self.deprel = str(columns[7])
     self.pgov = str(columns[8])
     self.pdeprel = str(columns[9])
     # To mark when a line was used in the output
@@ -158,7 +158,7 @@ for i, conll_as_lineObjects in enumerate(list_conlls_as_lineObjects):
   # Get the first node, and list all combinations of gov/deprel in the structure
   for conll_line0 in conll_as_lineObjects:
     list_gov_deprel.append(f'{conll_line0.gov}_{conll_line0.deprel}')
-    if conll_line0.deprel == 'ROOT':
+    if conll_line0.gov == '0' and conll_line0.deprel == 'ROOT':
       lists_properties_ordered_struct[i].append(conll_line0.form)
       if print_debug == True:
         print(f'  ->Added {conll_line0.form}!')
