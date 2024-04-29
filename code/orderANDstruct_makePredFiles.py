@@ -90,16 +90,16 @@ for j, (pred_ordering, pred_structurings) in enumerate(zip(pred_ordering_lines, 
     new_structuring = '<SNT> '+pred_ordering+' </SNT>'
     list_structurings_one_per_WebNLG_input.append(new_structuring)
 
-print(f'Created file for {model_name} model ({len(list_structuring_aligned_with_ordering)} data points).')
-
 if exist_oANDs_folder == True:
   with codecs.open(os.path.join(ordANDstruct_folder, 'test.out.postprocessed'), 'w', 'utf-8') as fo:
     for new_dtp in list_structurings_one_per_WebNLG_input:
       fo.write(new_dtp)
       fo.write('\n')
+  print(f'Created file for {model_name} model in {ordANDstruct_folder} ({len(list_structuring_aligned_with_ordering)} data points).')
 else:
   fo_name = 'orderANDstruct_'+model_name+'-test.out.postprocessed'
   with codecs.open(os.path.join(path_pred, fo_name), 'w', 'utf-8') as fo:
     for new_dtp in list_structurings_one_per_WebNLG_input:
       fo.write(new_dtp)
       fo.write('\n')
+  print(f'Created file for {model_name} model in {path_pred} ({len(list_structuring_aligned_with_ordering)} data points).')
