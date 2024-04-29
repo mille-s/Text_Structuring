@@ -42,8 +42,8 @@ filename_struct = None
 
 # Read predicted files and store the contents into a list
 for pred_filepath in sorted(pred_files_paths):
-  task = pred_filepath.split('_', 1)[0].rsplit('/', 1)[1]
-  filename = pred_filepath.split('_', 1)[1]
+  task = pred_filepath.rsplit('_', 1)[0].rsplit('/', 1)[1]
+  filename = pred_filepath.rsplit('_', 1)[1]
   # print(task, filename)
   if task == 'ordering':
     pred_ordering_lines = extract_lines(pred_filepath, task)
