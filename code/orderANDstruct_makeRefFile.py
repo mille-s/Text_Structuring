@@ -34,5 +34,19 @@ for datapoint in contents_gold_struct:
 
 print(f'The created file has {len(grouped_contents_gold_struct)} data points.')
 
-with open(os.path.join(head, 'orderingANDstructuring_gold-test.json'), 'w') as fp:
-  json.dump(grouped_contents_gold_struct, fp)
+ordANDstruct_folder = None
+exist_oANDs_folder = False
+if head.rsplit('/', 1)[1] == 'structing':
+  ordANDstruct_folder = os.path.join(head.rsplit('/', 1)[0], 'orderingANDstructing')
+  if not os.path.exists(ordANDstruct_folder):
+    os.makedirs(ordANDstruct_folder)
+  exist_oANDs_folder = True
+
+if exist_oANDs_folder == True:
+  with open(os.path.join(ordANDstruct_folder, 'test.json'), 'w') as fp:
+    json.dump(grouped_contents_gold_struct, fp)
+    print(f'Created file in {ordANDstruct_folder}.')
+else:
+  with open(os.path.join(head, 'orderingANDstructuring_gold-test.json'), 'w') as fp:
+    json.dump(grouped_contents_gold_struct, fp)
+    print(f'Created file in {head}.')
