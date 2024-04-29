@@ -12,15 +12,15 @@ import sys
 # The original structuring files have 2,774 data points. I want the structuring prediction of Thiago's modules given each of the 1,408 WebNLG inputs (instead of for each possible ordering).
 # For each predicted ordering, simply retrieve the corresponding predicted structuring
 
-input_folder = sys.argv[1]
-path_gold_structuring = os.path.join(input_folder, 'structuring_gold-test.json')
-pred_files_paths = glob.glob(os.path.join(input_folder, '*.postprocessed'))
+path_gold_structuring = sys.argv[1]
+path_pred = sys.argv[2]
+model_name = sys.argv[3]
 
 contents_gold_struct = ''
 with codecs.open(path_gold_structuring, 'r', 'utf-8') as json_file:
   contents_gold_struct = json.load(json_file)
 
-def extract_lines(filepath, task):
+def extract_lines(pred_filepath):
   pred_lines = []
   pred_ordering_lines_raw = codecs.open(pred_filepath, 'r', 'utf-8').readlines()
   for line_raw in pred_ordering_lines_raw:
@@ -35,21 +35,22 @@ def extract_properties_from_structuring(struct_predictions):
   struct_predictions_properties = struct_predictions_properties.strip()
   return struct_predictions_properties
 
-pred_ordering_lines = None
-pred_structuring_lines = None
 
-filename_struct = None
-
-# Read predicted files and store the contents into a list
-for pred_filepath in sorted(pred_files_paths):
-  task = pred_filepath.rsplit('_', 1)[0].rsplit('/', 1)[1]
-  filename = pred_filepath.rsplit('_', 1)[1]
-  # print(task, filename)
-  if task == 'ordering':
-    pred_ordering_lines = extract_lines(pred_filepath, task)
-  elif task == 'structuring':
-    pred_structuring_lines = extract_lines(pred_filepath, task)
-    filename_struct = filename
+pred_ordering_lines = []
+pred_structuring_lines = []
+head, tail = os.path.split(path_pred)
+exist_oANDs_folder = False
+ordANDstruct_folder = ''
+if tail == 'results':
+  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'steps','ordering', model_name, 'test.out.postprocessed'))
+  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'steps','structing', model_name, 'test.out.postprocessed'))
+  ordANDstruct_folder = os.path.join(path_pred, 'steps', 'orderingANDstructing', model_name)
+  if not os.path.exists(ordANDstruct_folder):
+    os.makedirs(ordANDstruct_folder)
+  exist_oANDs_folder = True
+else:
+  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'ordering_'+model_name+'-test.out.postprocessed'))
+  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'structuring_'+model_name+'-test.out.postprocessed'))
 
 # Build a list for predicted structurings aligned with the orderings list. This list this contains 1,408 elements; each element is 2 lists:
 # 1 list of the possible structurings for each of the 1,408 inputs, and 1 list of the same info stripped of the <SNT> and </SNT> tags, to align with the orderings.
@@ -89,10 +90,16 @@ for j, (pred_ordering, pred_structurings) in enumerate(zip(pred_ordering_lines, 
     new_structuring = '<SNT> '+pred_ordering+' </SNT>'
     list_structurings_one_per_WebNLG_input.append(new_structuring)
 
-print(f'Created file for {filename_struct} ({len(list_structuring_aligned_with_ordering)} data points).')
+print(f'Created file for {model_name} model ({len(list_structuring_aligned_with_ordering)} data points).')
 
-fo_name = 'orderANDstruct_'+filename_struct
-with codecs.open(os.path.join(input_folder, fo_name), 'w', 'utf-8') as fo:
-  for new_dtp in list_structurings_one_per_WebNLG_input:
-    fo.write(new_dtp)
-    fo.write('\n')
+if exist_oANDs_folder == True:
+  with codecs.open(os.path.join(ordANDstruct_folder, 'test.out.postprocessed'), 'w', 'utf-8') as fo:
+    for new_dtp in list_structurings_one_per_WebNLG_input:
+      fo.write(new_dtp)
+      fo.write('\n')
+else:
+  fo_name = 'orderANDstruct_'+model_name+'-test.out.postprocessed'
+  with codecs.open(os.path.join(path_pred, fo_name), 'w', 'utf-8') as fo:
+    for new_dtp in list_structurings_one_per_WebNLG_input:
+      fo.write(new_dtp)
+      fo.write('\n')
