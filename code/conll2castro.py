@@ -44,6 +44,8 @@ def getNextItem_intra(lists_ordered_properties, conll_as_lineObjects, list_gov_d
       print(f'  Found {str(last_element_intra[-index])}_intra!')
     else:
       print(f'  Found {str(altID_ToRemov)}_intra (altID)!')
+  # Make sure only one element is added per call to the function
+  item_found = False
   # Loop over the list of lines to find the line of the property that should follow
   for conll_line in conll_as_lineObjects:
     # if print_debug == True:
@@ -59,25 +61,27 @@ def getNextItem_intra(lists_ordered_properties, conll_as_lineObjects, list_gov_d
       #   print(f'  conll_line.deprel check OK')
       # if conll_line.used == False:
       #   print(f'  conll_line.used check OK')
-    if (conll_line.gov == last_element_intra[-index] or conll_line.gov == altID_ToRemov) and conll_line.deprel == 'intra' and conll_line.used == False:
-      # if print_debug == True:
-      #   print(f'  altID_ToRemov: {altID_ToRemov}')
-      conll_line.used = True
-      lists_ordered_properties.append(conll_line.form)
-      if print_debug == True:
-        print(f'  ->Added {conll_line.form}!')
-      # Remove the description of the last element from list_gov_deprel
-      if altID_ToRemov == None:
-        list_gov_deprel.remove(f'{str(last_element_intra[-index])}_intra')
+    if item_found == False:
+      if (conll_line.gov == last_element_intra[-index] or conll_line.gov == altID_ToRemov) and conll_line.deprel == 'intra' and conll_line.used == False:
+        # if print_debug == True:
+        #   print(f'  altID_ToRemov: {altID_ToRemov}')
+        conll_line.used = True
+        lists_ordered_properties.append(conll_line.form)
+        item_found = True
         if print_debug == True:
-          print(f'  ->Removed {str(last_element_intra[-index])}_intra')
-      # Or remove the description of another element in case the last one from list_gov_deprel could not be used
-      else:
-        list_gov_deprel.remove(f'{str(altID_ToRemov)}_intra')
-        if print_debug == True:
-          print(f'  ->Removed {str(altID_ToRemov)}_intra')
-      # Update the ID of the node that is now the last one for "intra"
-      last_element_intra.append(conll_line.id)
+          print(f'  ->Added {conll_line.form}!')
+        # Remove the description of the last element from list_gov_deprel
+        if altID_ToRemov == None:
+          list_gov_deprel.remove(f'{str(last_element_intra[-index])}_intra')
+          if print_debug == True:
+            print(f'  ->Removed {str(last_element_intra[-index])}_intra')
+        # Or remove the description of another element in case the last one from list_gov_deprel could not be used
+        else:
+          list_gov_deprel.remove(f'{str(altID_ToRemov)}_intra')
+          if print_debug == True:
+            print(f'  ->Removed {str(altID_ToRemov)}_intra')
+        # Update the ID of the node that is now the last one for "intra"
+        last_element_intra.append(conll_line.id)
   return list_gov_deprel, last_element_intra
 
 def getNextItem_inter(lists_ordered_properties, conll_as_lineObjects, list_gov_deprel, last_element_intra, last_element_inter, index, print_debug, altID_ToRemov = None):
@@ -86,31 +90,35 @@ def getNextItem_inter(lists_ordered_properties, conll_as_lineObjects, list_gov_d
       print(f'  Found {str(last_element_inter[-index])}_inter!')
     else:
       print(f'  Found {str(altID_ToRemov)}_inter (altID)!')
+  # Make sure only one element is added per call to the function
+  item_found = False
   # Loop over the list of lines to find the line of the property that should follow
   for conll_line in conll_as_lineObjects:
     # if print_debug == True:
     #   print(f'  Node gov in CoNLL: {conll_line.gov}')
-    if (conll_line.gov == last_element_inter[-index] or conll_line.gov == altID_ToRemov) and conll_line.deprel == 'inter' and conll_line.used == False:
-      # if print_debug == True:
-      #   print(f'  altID_ToRemov: {altID_ToRemov}')
-      conll_line.used = True
-      lists_ordered_properties.append(sent_delim)
-      lists_ordered_properties.append(conll_line.form)
-      if print_debug == True:
-        print(f'  ->Added {conll_line.form}!')
-      # Remove the description of the last element from list_gov_deprel
-      if altID_ToRemov == None:
-        list_gov_deprel.remove(f'{str(last_element_inter[-index])}_inter')
+    if item_found == False:
+      if (conll_line.gov == last_element_inter[-index] or conll_line.gov == altID_ToRemov) and conll_line.deprel == 'inter' and conll_line.used == False:
+        # if print_debug == True:
+        #   print(f'  altID_ToRemov: {altID_ToRemov}')
+        conll_line.used = True
+        lists_ordered_properties.append(sent_delim)
+        lists_ordered_properties.append(conll_line.form)
+        item_found = True
         if print_debug == True:
-          print(f'  ->Removed {str(last_element_intra[-index])}_inter')
-      # Or remove the description of another element in case the last one from list_gov_deprel could not be used
-      else:
-        list_gov_deprel.remove(f'{str(altID_ToRemov)}_inter')
-        if print_debug == True:
-          print(f'  ->Removed {str(altID_ToRemov)}_inter')
-      # Update the IDs of the nodes that are now the last one for "intra" and "inter"
-      last_element_intra.append(conll_line.id)
-      last_element_inter.append(conll_line.id)
+          print(f'  ->Added {conll_line.form}!')
+        # Remove the description of the last element from list_gov_deprel
+        if altID_ToRemov == None:
+          list_gov_deprel.remove(f'{str(last_element_inter[-index])}_inter')
+          if print_debug == True:
+            print(f'  ->Removed {str(last_element_intra[-index])}_inter')
+        # Or remove the description of another element in case the last one from list_gov_deprel could not be used
+        else:
+          list_gov_deprel.remove(f'{str(altID_ToRemov)}_inter')
+          if print_debug == True:
+            print(f'  ->Removed {str(altID_ToRemov)}_inter')
+        # Update the IDs of the nodes that are now the last one for "intra" and "inter"
+        last_element_intra.append(conll_line.id)
+        last_element_inter.append(conll_line.id)
   return list_gov_deprel, last_element_intra, last_element_inter
 
 class CoNLL_line:
