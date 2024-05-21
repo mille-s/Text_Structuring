@@ -135,6 +135,9 @@ class CoNLL_line:
     # If a node has a deprel ROOT when it's not the root, change to "inter"
     if str(columns[7]) == 'ROOT' and not str(columns[6]) == '0':
       self.deprel = 'inter'
+    # If a node has gov 0 and no ROOT dependency, change deprel to ROOT
+    elif str(columns[6]) == '0' and not str(columns[7]) == 'ROOT':
+      self.deprel = 'ROOT'
     else:
       self.deprel = str(columns[7])
     self.pgov = str(columns[8])
