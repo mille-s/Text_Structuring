@@ -15,6 +15,7 @@ import sys
 path_gold_structuring = sys.argv[1]
 path_pred = sys.argv[2]
 model_name = sys.argv[3]
+data_split = sys.argv[4]
 
 contents_gold_struct = ''
 with codecs.open(path_gold_structuring, 'r', 'utf-8') as json_file:
@@ -42,15 +43,15 @@ head, tail = os.path.split(path_pred)
 exist_oANDs_folder = False
 ordANDstruct_folder = ''
 if tail == 'results':
-  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'steps','ordering', model_name, 'test.out.postprocessed'))
-  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'steps','structing', model_name, 'test.out.postprocessed'))
+  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'steps','ordering', model_name, data_split+'.out.postprocessed'))
+  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'steps','structing', model_name, data_split+'.out.postprocessed'))
   ordANDstruct_folder = os.path.join(path_pred, 'steps', 'orderingANDstructing', model_name)
   if not os.path.exists(ordANDstruct_folder):
     os.makedirs(ordANDstruct_folder)
   exist_oANDs_folder = True
 else:
-  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'ordering_'+model_name+'-test.out.postprocessed'))
-  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'structuring_'+model_name+'-test.out.postprocessed'))
+  pred_ordering_lines = extract_lines(os.path.join(path_pred, 'ordering_'+model_name+'-'+data_split+'.out.postprocessed'))
+  pred_structuring_lines = extract_lines(os.path.join(path_pred, 'structuring_'+model_name+'-'+data_split+'.out.postprocessed'))
 
 # Build a list for predicted structurings aligned with the orderings list. This list this contains 1,408 elements; each element is 2 lists:
 # 1 list of the possible structurings for each of the 1,408 inputs, and 1 list of the same info stripped of the <SNT> and </SNT> tags, to align with the orderings.
@@ -91,13 +92,13 @@ for j, (pred_ordering, pred_structurings) in enumerate(zip(pred_ordering_lines, 
     list_structurings_one_per_WebNLG_input.append(new_structuring)
 
 if exist_oANDs_folder == True:
-  with codecs.open(os.path.join(ordANDstruct_folder, 'test.out.postprocessed'), 'w', 'utf-8') as fo:
+  with codecs.open(os.path.join(ordANDstruct_folder, data_split+'.out.postprocessed'), 'w', 'utf-8') as fo:
     for new_dtp in list_structurings_one_per_WebNLG_input:
       fo.write(new_dtp)
       fo.write('\n')
   print(f'Created file for {model_name} model in {ordANDstruct_folder} ({len(list_structuring_aligned_with_ordering)} data points).')
 else:
-  fo_name = 'orderANDstruct_'+model_name+'-test.out.postprocessed'
+  fo_name = 'orderANDstruct_'+model_name+'-'+data_split+'.out.postprocessed'
   with codecs.open(os.path.join(path_pred, fo_name), 'w', 'utf-8') as fo:
     for new_dtp in list_structurings_one_per_WebNLG_input:
       fo.write(new_dtp)
