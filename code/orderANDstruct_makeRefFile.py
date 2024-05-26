@@ -9,6 +9,7 @@ import os
 # The idea is simply to combine the entries that have the same ID in the original reference structuring file, so as to have a file with 1,408 inputs instead of 2,774 (the latter corresponds to one input per different ordering).
 
 path_gold_structuring = sys.argv[1]
+data_split = sys.argv[2]
 head, tail = os.path.split(path_gold_structuring)
 # The json looks like this inside:
 # [{"eid": "Id285", "category": "Airport", "size": "2", "source": ["<TRIPLE>", "Aarhus_Airport", "operatingOrganisation", "\"Aarhus_Lufthavn_A/S\"", "</TRIPLE>", "<TRIPLE>", "Aarhus_Airport", "runwayLength", "2777.0", "</TRIPLE>"], "targets": [{"lid": "Id1", "comment": "good", "output": ["<SNT>", "operatingOrganisation", "runwayLength", "</SNT>"]}, {"lid": "Id2", "comment": "good", "output": ["<SNT>", "operatingOrganisation", "runwayLength", "</SNT>"]}]}...]
@@ -43,10 +44,10 @@ if head.rsplit('/', 1)[1] == 'structing':
   exist_oANDs_folder = True
 
 if exist_oANDs_folder == True:
-  with open(os.path.join(ordANDstruct_folder, 'test.json'), 'w') as fp:
+  with open(os.path.join(ordANDstruct_folder, data_split+'.json'), 'w') as fp:
     json.dump(grouped_contents_gold_struct, fp)
     print(f'Created file in {ordANDstruct_folder}.')
 else:
-  with open(os.path.join(head, 'orderingANDstructuring_gold-test.json'), 'w') as fp:
+  with open(os.path.join(head, 'orderingANDstructuring_gold-'+data_split+'.json'), 'w') as fp:
     json.dump(grouped_contents_gold_struct, fp)
     print(f'Created file in {head}.')
