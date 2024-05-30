@@ -17,7 +17,9 @@
 		<feature>InputColumn(UPOSTAG, Lookahead[0])</feature>
 		<feature>InputColumn(UPOSTAG, Lookahead[1])</feature>
 		<feature>InputColumn(UPOSTAG, Lookahead[2])</feature>
-		<feature>InputColumn(UPOSTAG, Stack[0])</feature>
+		<feature>Split(InputColumn(FEATS, Stack[0]),\|)</feature>
+		<feature>Split(InputColumn(FEATS, Stack[1]),\|)</feature>
+		<feature>Split(InputColumn(FEATS, Lookahead[0]),\|)</feature>
 		<feature>OutputColumn(DEPREL, ldep(Stack[0]))</feature>
 		<feature>OutputColumn(DEPREL, rdep(Stack[0]))</feature>
 		<feature>OutputColumn(DEPREL, ldep(Stack[1]))</feature>
