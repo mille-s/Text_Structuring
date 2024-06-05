@@ -27,15 +27,14 @@
 		<feature>Merge(InputColumn(UPOSTAG, Right[0]), OutputColumn(DEPREL, Right[0]))</feature>
 		<feature>InputColumn(FORM, Left[0])</feature>
 		<feature>InputColumn(FORM, Right[0])</feature>
+		<feature>Merge(InputColumn(UPOSTAG, Right[0]), InputColumn(FORM, Right[0]))</feature>
 		<feature>InputColumn(FORM, Right[1])</feature>
 		<feature>InputColumn(FORM, head(Left[0]))</feature>
 		<feature>InputColumn(LEMMA, Right[0])</feature>
 		<feature>Split(InputColumn(FEATS, Right[0]),\|)</feature>
 		<feature>Split(InputColumn(FEATS, Right[1]),\|)</feature>
-		<feature>Split(InputColumn(FEATS, Right[2]),\|)</feature>
-		<feature>Split(InputColumn(FEATS, Right[3]),\|)</feature>
-		<feature>Split(InputColumn(FEATS, Left[0]),\|)</feature>
-		<feature>Split(InputColumn(FEATS, Left[1]),\|)</feature>
-		<feature>InputColumn(FEATS, Right[0])</feature>
+		<feature>InputColumn(FEATS, Left[0])</feature>
+		<feature>InputColumn(FEATS, Left[1])</feature>
+		<feature>InputColumn(FEATS, Left[2])</feature>
 	</featuremodel>
 </featuremodels>
