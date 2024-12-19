@@ -1,4 +1,4 @@
-# Text_Structuring
+# Introduction to the Text Structuring experiments
 
 This is the documentation of the repository that contains all the files used in the 2024 TextStructuring experiments.
 
