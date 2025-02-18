@@ -1,0 +1,2876 @@
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_feet)	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	1	intra	1	intra	
+
+1	battles	_	_	_	_	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	2	intra	2	intra	
+2	1st_runway_SurfaceType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	headquarter	_	_	_	_	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	4th_runway_SurfaceType	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	2	intra	2	intra	
+2	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	order	_	_	_	_	0	ROOT	0	ROOT	
+2	2nd_runway_SurfaceType	_	_	_	_	1	intra	1	intra	
+
+1	3rd_runway_SurfaceType	_	_	_	_	0	ROOT	0	ROOT	
+2	class	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	cityServed	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	runwayLength	_	_	_	_	2	intra	2	intra	
+2	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	was_a_crew_member_of	_	_	_	_	0	ROOT	0	ROOT	
+2	dateOfRetirement	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	nationality	_	_	_	_	1	intra	1	intra	
+
+1	status	_	_	_	_	2	intra	2	intra	
+2	occupation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	was_a_crew_member_of	_	_	_	_	0	ROOT	0	ROOT	
+2	operator	_	_	_	_	1	intra	1	intra	
+
+1	was_a_crew_member_of	_	_	_	_	2	intra	2	intra	
+2	occupation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	floorCount	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leaderTitle	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	floorCount	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	architect	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	owner	_	_	_	_	1	intra	1	intra	
+
+1	owner	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	floorCount	_	_	_	_	2	intra	2	intra	
+2	tenant	_	_	_	_	0	ROOT	0	ROOT	
+
+1	height	_	_	_	_	0	ROOT	0	ROOT	
+2	currentTenants	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	architecturalStyle	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	address	_	_	_	_	2	intra	2	intra	
+2	buildingStartDate	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	owner	_	_	_	_	1	intra	1	intra	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	tenant	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	added_to_the_National_Register_of_Historic_Places	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	2	intra	2	intra	
+2	yearOfConstruction	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	starring	_	_	_	_	2	intra	2	intra	
+2	broadcastedBy	_	_	_	_	0	ROOT	0	ROOT	
+
+1	starring	_	_	_	_	2	intra	2	intra	
+2	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+
+1	nationality	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	capital	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	genus	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	similarDish	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	division	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	order	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	1	intra	1	intra	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	dishVariation	_	_	_	_	2	intra	2	intra	
+2	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	inaugurationDate	_	_	_	_	1	intra	1	intra	
+
+1	material	_	_	_	_	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	_	1	intra	1	intra	
+
+1	nativeName	_	_	_	_	2	intra	2	intra	
+2	material	_	_	_	_	0	ROOT	0	ROOT	
+
+1	material	_	_	_	_	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	_	1	intra	1	intra	
+
+1	champions	_	_	_	_	2	intra	2	intra	
+2	league	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	_	2	intra	2	intra	
+2	league	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leader	_	_	_	_	2	intra	2	intra	
+2	ground	_	_	_	_	0	ROOT	0	ROOT	
+
+1	club	_	_	_	_	2	intra	2	intra	
+2	manager	_	_	_	_	0	ROOT	0	ROOT	
+
+1	league	_	_	_	_	2	intra	2	intra	
+2	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	1	intra	1	intra	
+
+1	club	_	_	_	_	2	intra	2	intra	
+2	manager	_	_	_	_	0	ROOT	0	ROOT	
+
+1	numberOfMembers	_	_	_	_	2	intra	2	intra	
+2	ground	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	_	2	intra	2	intra	
+2	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+
+1	club	_	_	_	_	2	intra	2	intra	
+2	manager	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	_	2	intra	2	intra	
+2	league	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	league	_	_	_	_	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	1	intra	1	intra	
+
+1	owner	_	_	_	_	2	intra	2	intra	
+2	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	leader	_	_	_	_	1	intra	1	intra	
+
+1	season	_	_	_	_	2	intra	2	intra	
+2	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	1	intra	1	intra	
+
+1	fullname	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	_	1	intra	1	intra	
+
+1	ground	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	numberOfMembers	_	_	_	_	2	intra	2	intra	
+2	fullname	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	ground	_	_	_	_	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	1	intra	1	intra	
+
+1	campus	_	_	_	_	0	ROOT	0	ROOT	
+2	director	_	_	_	_	1	intra	1	intra	
+
+1	officialSchoolColour	_	_	_	_	2	intra	2	intra	
+2	was_given_the_'Technical_Campus'_status_by	_	_	_	_	0	ROOT	0	ROOT	
+
+1	sportsGoverningBody	_	_	_	_	2	intra	2	intra	
+2	sportsOffered	_	_	_	_	0	ROOT	0	ROOT	
+
+1	affiliation	_	_	_	_	0	ROOT	0	ROOT	
+2	headquarters	_	_	_	_	1	intra	1	intra	
+
+1	state	_	_	_	_	0	ROOT	0	ROOT	
+2	has_to_its_west	_	_	_	_	1	intra	1	intra	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	_	1	intra	1	intra	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+2	CODEN_code	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	numberOfPages	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	OCLC_number	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	publisher	_	_	_	_	0	ROOT	0	ROOT	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	OCLC_number	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	numberOfPages	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	followedBy	_	_	_	_	1	intra	1	intra	
+
+1	precededBy	_	_	_	_	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	_	1	intra	1	intra	
+
+1	publisher	_	_	_	_	2	intra	2	intra	
+2	founder	_	_	_	_	0	ROOT	0	ROOT	
+
+1	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+2	CODEN_code	_	_	_	_	1	intra	1	intra	
+
+1	publisher	_	_	_	_	2	intra	2	intra	
+2	affiliation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	author	_	_	_	_	0	ROOT	0	ROOT	
+
+1	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	numberOfPages	_	_	_	_	0	ROOT	0	ROOT	
+
+1	family	_	_	_	_	2	intra	2	intra	
+2	academicDiscipline	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	_	3	intra	3	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+
+1	runwayName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	runwayLength	_	_	_	_	2	intra	2	intra	
+
+1	ICAO_Location_Identifier	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	battles	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	battles	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	3	intra	3	intra	
+3	battles	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	2	intra	2	intra	
+2	1st_runway_SurfaceType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	3	intra	3	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	3	intra	3	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	largestCity	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	runwayLength	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	runwayName	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	_	3	intra	3	intra	
+3	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	division	_	_	_	_	0	ROOT	0	ROOT	
+2	order	_	_	_	_	3	intra	3	intra	
+3	3rd_runway_SurfaceType	_	_	_	_	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	runwayLength	_	_	_	_	2	intra	2	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	runwayName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	2nd_runway_SurfaceType	_	_	_	_	0	ROOT	0	ROOT	
+2	order	_	_	_	_	3	intra	3	intra	
+3	class	_	_	_	_	1	intra	1	intra	
+
+1	was_a_crew_member_of	_	_	_	_	0	ROOT	0	ROOT	
+2	commander	_	_	_	_	3	intra	3	intra	
+3	operator	_	_	_	_	1	intra	1	intra	
+
+1	deathDate	_	_	_	_	2	intra	2	intra	
+2	senators	_	_	_	_	0	ROOT	0	ROOT	
+3	deathPlace	_	_	_	_	1	intra	1	intra	
+
+1	almaMater	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	3	intra	3	intra	
+3	alternativeNames	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	1	intra	1	intra	
+3	timeInSpace	_	_	_	_	2	intra	2	intra	
+
+1	awards	_	_	_	_	2	intra	2	intra	
+2	fossil	_	_	_	_	0	ROOT	0	ROOT	
+3	deathPlace	_	_	_	_	1	intra	1	intra	
+
+1	deathPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	deathDate	_	_	_	_	3	intra	3	intra	
+3	was_selected_by_NASA	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	birthDate	_	_	_	_	1	intra	1	intra	
+
+1	birthDate	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	capital	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	completionDate	_	_	_	_	3	intra	3	intra	
+3	architect	_	_	_	_	1	intra	1	intra	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	completionDate	_	_	_	_	1	intra	1	intra	
+
+1	owner	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	tenant	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	owner	_	_	_	_	0	ROOT	0	ROOT	
+2	architect	_	_	_	_	3	intra	3	intra	
+3	completionDate	_	_	_	_	1	intra	1	intra	
+
+1	currentTenants	_	_	_	_	0	ROOT	0	ROOT	
+2	height	_	_	_	_	3	intra	3	intra	
+3	floorArea	_	_	_	_	1	intra	1	intra	
+
+1	completionDate	_	_	_	_	0	ROOT	0	ROOT	
+2	architecturalStyle	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	inaugurationDate	_	_	_	_	0	ROOT	0	ROOT	
+2	floorArea	_	_	_	_	3	intra	3	intra	
+3	floorCount	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	buildingStartDate	_	_	_	_	0	ROOT	0	ROOT	
+2	owner	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	chancellor	_	_	_	_	3	intra	3	intra	
+3	owner	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	currentTenants	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	owner	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	buildingStartDate	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	bedCount	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	state	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	added_to_the_National_Register_of_Historic_Places	_	_	_	_	3	intra	3	intra	
+3	yearOfConstruction	_	_	_	_	1	intra	1	intra	
+
+1	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	3	intra	3	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	3	intra	3	intra	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	3	intra	3	intra	
+3	nationality	_	_	_	_	1	intra	1	intra	
+
+1	broadcastedBy	_	_	_	_	0	ROOT	0	ROOT	
+2	locationCity	_	_	_	_	3	intra	3	intra	
+3	keyPerson	_	_	_	_	1	intra	1	intra	
+
+1	firstAired	_	_	_	_	0	ROOT	0	ROOT	
+2	broadcastedBy	_	_	_	_	3	intra	3	intra	
+3	starring	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	3	intra	3	intra	
+3	firstAppearanceInFilm	_	_	_	_	1	intra	1	intra	
+
+1	fullName	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	3	intra	3	intra	
+3	creator	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	2	intra	2	intra	
+2	creator	_	_	_	_	3	intra	3	intra	
+3	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	alternativeName	_	_	_	_	3	intra	3	intra	
+3	creator	_	_	_	_	1	intra	1	intra	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	alternativeName	_	_	_	_	3	intra	3	intra	
+3	creator	_	_	_	_	1	intra	1	intra	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	mainIngredients	_	_	_	_	2	intra	2	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	mainIngredients	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	dishVariation	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	3	intra	3	intra	
+3	course	_	_	_	_	1	intra	1	intra	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	protein	_	_	_	_	0	ROOT	0	ROOT	
+2	carbohydrate	_	_	_	_	3	intra	3	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	currency	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	demonym	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+3	mainIngredients	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	3	intra	3	intra	
+3	course	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	genus	_	_	_	_	2	intra	2	intra	
+2	family	_	_	_	_	3	intra	3	intra	
+3	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	3	intra	3	intra	
+3	course	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	capital	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	has_to_its_southwest	_	_	_	_	3	intra	3	intra	
+3	has_to_its_west	_	_	_	_	1	intra	1	intra	
+
+1	dedicatedTo	_	_	_	_	0	ROOT	0	ROOT	
+2	leader	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	designer	_	_	_	_	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	designer	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	nativeName	_	_	_	_	3	intra	3	intra	
+3	designer	_	_	_	_	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	3	intra	3	intra	
+3	league	_	_	_	_	1	intra	1	intra	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	club	_	_	_	_	1	intra	1	intra	
+
+1	season	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	_	3	intra	3	intra	
+3	league	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leader	_	_	_	_	3	intra	3	intra	
+3	leader	_	_	_	_	1	intra	1	intra	
+
+1	club	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	manager	_	_	_	_	1	intra	1	intra	
+
+1	club	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	manager	_	_	_	_	1	intra	1	intra	
+
+1	club	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	manager	_	_	_	_	1	intra	1	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	_	3	intra	3	intra	
+3	fullname	_	_	_	_	1	intra	1	intra	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	club	_	_	_	_	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	3	intra	3	intra	
+3	fullname	_	_	_	_	1	intra	1	intra	
+
+1	league	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	3	intra	3	intra	
+3	numberOfMembers	_	_	_	_	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	1	intra	1	intra	
+3	season	_	_	_	_	2	intra	2	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	champions	_	_	_	_	3	intra	3	intra	
+3	league	_	_	_	_	1	intra	1	intra	
+
+1	fullname	_	_	_	_	0	ROOT	0	ROOT	
+2	season	_	_	_	_	3	intra	3	intra	
+3	numberOfMembers	_	_	_	_	1	intra	1	intra	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	3	intra	3	intra	
+3	club	_	_	_	_	1	intra	1	intra	
+
+1	champions	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	3	intra	3	intra	
+3	ground	_	_	_	_	1	intra	1	intra	
+
+1	champions	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	champions	_	_	_	_	3	intra	3	intra	
+3	league	_	_	_	_	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	1	intra	1	intra	
+3	champions	_	_	_	_	2	intra	2	intra	
+
+1	leader	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	1	intra	1	intra	
+3	demonym	_	_	_	_	2	intra	2	intra	
+
+1	mayor	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	ground	_	_	_	_	1	intra	1	intra	
+
+1	dean	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	numberOfStudents	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	city	_	_	_	_	1	intra	1	intra	
+3	motto	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	city	_	_	_	_	0	ROOT	0	ROOT	
+3	president	_	_	_	_	1	intra	1	intra	
+
+1	sportsOffered	_	_	_	_	0	ROOT	0	ROOT	
+2	sportsGoverningBody	_	_	_	_	3	intra	3	intra	
+3	established	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	largestCity	_	_	_	_	1	intra	1	intra	
+3	river	_	_	_	_	2	intra	2	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderTitle	_	_	_	_	1	intra	1	intra	
+
+1	patronSaint	_	_	_	_	0	ROOT	0	ROOT	
+2	latinName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	academicStaffSize	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfStudents	_	_	_	_	3	intra	3	intra	
+3	established	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	author	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	author	_	_	_	_	3	intra	3	intra	
+3	precededBy	_	_	_	_	1	intra	1	intra	
+
+1	numberOfPages	_	_	_	_	0	ROOT	0	ROOT	
+2	author	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	author	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	_	3	intra	3	intra	
+3	numberOfPages	_	_	_	_	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	academicDiscipline	_	_	_	_	3	intra	3	intra	
+3	abbreviation	_	_	_	_	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	abbreviation	_	_	_	_	1	intra	1	intra	
+3	academicDiscipline	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	publisher	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	editor	_	_	_	_	0	ROOT	0	ROOT	
+2	publisher	_	_	_	_	3	intra	3	intra	
+3	residence	_	_	_	_	1	intra	1	intra	
+
+1	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+2	CODEN_code	_	_	_	_	3	intra	3	intra	
+3	editor	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	OCLC_number	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	followedBy	_	_	_	_	0	ROOT	0	ROOT	
+2	spokenIn	_	_	_	_	3	intra	3	intra	
+3	language	_	_	_	_	1	intra	1	intra	
+
+1	publisher	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	publisher	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	LibraryofCongressClassification	_	_	_	_	0	ROOT	0	ROOT	
+2	OCLC_number	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	numberOfPages	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	OCLC_number	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	3	intra	3	intra	
+3	author	_	_	_	_	0	ROOT	0	ROOT	
+
+1	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	3	intra	3	intra	
+3	author	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	_	3	intra	3	intra	
+3	precededBy	_	_	_	_	1	intra	1	intra	
+
+1	LCCN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	ISSN_number	_	_	_	_	3	intra	3	intra	
+3	abbreviation	_	_	_	_	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	academicDiscipline	_	_	_	_	3	intra	3	intra	
+3	abbreviation	_	_	_	_	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	LCCN_number	_	_	_	_	3	intra	3	intra	
+3	abbreviation	_	_	_	_	1	intra	1	intra	
+
+1	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+2	ISSN_number	_	_	_	_	1	intra	1	intra	
+
+1	mediaType	_	_	_	_	0	ROOT	0	ROOT	
+2	author	_	_	_	_	1	intra	1	intra	
+3	OCLC_number	_	_	_	_	2	intra	2	intra	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	academicDiscipline	_	_	_	_	2	intra	2	intra	
+2	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+3	ISSN_number	_	_	_	_	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	_	2	intra	2	intra	
+2	firstPublicationYear	_	_	_	_	3	intra	3	intra	
+3	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	founder	_	_	_	_	2	inter	2	inter	
+2	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+3	publisher	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	publisher	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	3	intra	3	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+
+1	locationCity	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayName	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+4	runwayLength	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	4	intra	4	intra	
+3	isPartOf	_	_	_	_	2	intra	2	intra	
+4	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	isPartOf	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	attackAircraft	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	4	intra	4	intra	
+4	aircraftFighter	_	_	_	_	1	intra	1	intra	
+
+1	attackAircraft	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	4	intra	4	intra	
+3	aircraftFighter	_	_	_	_	2	intra	2	intra	
+4	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	attackAircraft	_	_	_	_	0	ROOT	0	ROOT	
+2	aircraftFighter	_	_	_	_	3	intra	3	intra	
+3	battles	_	_	_	_	4	intra	4	intra	
+4	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	battles	_	_	_	_	0	ROOT	0	ROOT	
+2	aircraftFighter	_	_	_	_	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	_	4	intra	4	intra	
+4	attackAircraft	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	_	1	intra	1	intra	
+3	headquarter	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	2	intra	2	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	4	intra	4	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+4	runwayLength	_	_	_	_	3	intra	3	intra	
+
+1	runwayLength	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	4	intra	4	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+4	runwayName	_	_	_	_	1	inter	1	inter	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	demonym	_	_	_	_	4	intra	4	intra	
+3	language	_	_	_	_	1	intra	1	intra	
+4	capital	_	_	_	_	3	intra	3	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	4	intra	4	intra	
+3	demonym	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	demonym	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	language	_	_	_	_	2	intra	2	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	4	intra	4	intra	
+3	largestCity	_	_	_	_	2	intra	2	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	isPartOf	_	_	_	_	1	inter	1	inter	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	_	4	intra	4	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+4	cityServed	_	_	_	_	1	inter	1	inter	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	4	intra	4	intra	
+3	cityServed	_	_	_	_	1	intra	1	intra	
+4	isPartOf	_	_	_	_	3	intra	3	intra	
+
+1	order	_	_	_	_	0	ROOT	0	ROOT	
+2	class	_	_	_	_	4	intra	4	intra	
+3	order	_	_	_	_	1	intra	1	intra	
+4	3rd_runway_SurfaceType	_	_	_	_	1	inter	1	inter	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	3rd_runway_SurfaceType	_	_	_	_	4	intra	4	intra	
+3	runwayLength	_	_	_	_	2	intra	2	intra	
+4	runwayName	_	_	_	_	1	intra	1	intra	
+
+1	runwayLength	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	locationCity	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	isPartOf	_	_	_	_	2	intra	2	intra	
+4	runwayLength	_	_	_	_	3	intra	3	intra	
+
+1	order	_	_	_	_	0	ROOT	0	ROOT	
+2	class	_	_	_	_	1	intra	1	intra	
+3	2nd_runway_SurfaceType	_	_	_	_	4	intra	4	intra	
+4	division	_	_	_	_	2	intra	2	intra	
+
+1	nationality	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	4	intra	4	intra	
+3	operator	_	_	_	_	2	intra	2	intra	
+4	commander	_	_	_	_	1	intra	1	intra	
+
+1	birthDate	_	_	_	_	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	_	4	intra	4	intra	
+3	dateOfRetirement	_	_	_	_	2	intra	2	intra	
+4	almaMater	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	occupation	_	_	_	_	1	intra	1	intra	
+3	deathPlace	_	_	_	_	2	intra	2	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	occupation	_	_	_	_	1	intra	1	intra	
+3	operator	_	_	_	_	4	intra	4	intra	
+4	was_a_crew_member_of	_	_	_	_	2	intra	2	intra	
+
+1	backup_pilot	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	1	intra	1	intra	
+3	commander	_	_	_	_	4	intra	4	intra	
+4	operator	_	_	_	_	2	intra	2	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	nationality	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	4	intra	4	intra	
+4	isPartOf	_	_	_	_	2	intra	2	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	1	intra	1	intra	
+3	birthDate	_	_	_	_	2	intra	2	intra	
+4	deathPlace	_	_	_	_	3	intra	3	intra	
+
+1	occupation	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	1	intra	1	intra	
+3	deathDate	_	_	_	_	4	intra	4	intra	
+4	deathPlace	_	_	_	_	2	intra	2	intra	
+
+1	affiliations	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	1	intra	1	intra	
+3	deathPlace	_	_	_	_	4	intra	4	intra	
+4	isPartOf	_	_	_	_	2	intra	2	intra	
+
+1	deathPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	birthDate	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	1	intra	1	intra	
+4	deathDate	_	_	_	_	2	intra	2	intra	
+
+1	commander	_	_	_	_	0	ROOT	0	ROOT	
+2	dateOfRetirement	_	_	_	_	1	intra	1	intra	
+3	was_a_crew_member_of	_	_	_	_	2	intra	2	intra	
+4	backup_pilot	_	_	_	_	3	intra	3	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	3	intra	3	intra	
+3	capital	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	capital	_	_	_	_	4	intra	4	intra	
+4	ethnicGroup	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	governingBody	_	_	_	_	3	intra	3	intra	
+3	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	floorCount	_	_	_	_	0	ROOT	0	ROOT	
+2	buildingStartDate	_	_	_	_	1	intra	1	intra	
+3	floorArea	_	_	_	_	4	intra	4	intra	
+4	architecturalStyle	_	_	_	_	2	intra	2	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+4	owner	_	_	_	_	3	intra	3	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	isPartOf	_	_	_	_	4	intra	4	intra	
+4	owner	_	_	_	_	2	intra	2	intra	
+
+1	tenant	_	_	_	_	4	inter	4	inter	
+2	owner	_	_	_	_	4	intra	4	intra	
+3	floorCount	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	owner	_	_	_	_	0	ROOT	0	ROOT	
+2	architect	_	_	_	_	1	intra	1	intra	
+3	tenant	_	_	_	_	4	intra	4	intra	
+4	floorCount	_	_	_	_	2	intra	2	intra	
+
+1	completionDate	_	_	_	_	0	ROOT	0	ROOT	
+2	architecturalStyle	_	_	_	_	3	intra	3	intra	
+3	buildingStartDate	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	4	intra	4	intra	
+3	language	_	_	_	_	2	intra	2	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	completionDate	_	_	_	_	0	ROOT	0	ROOT	
+2	buildingStartDate	_	_	_	_	1	intra	1	intra	
+3	architecturalStyle	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	currentTenants	_	_	_	_	4	intra	4	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	3	intra	3	intra	
+
+1	currentTenants	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	completionDate	_	_	_	_	2	intra	2	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	4	inter	4	inter	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	address	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	state	_	_	_	_	0	ROOT	0	ROOT	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	_	1	intra	1	intra	
+3	significantBuilding	_	_	_	_	4	intra	4	intra	
+4	significantBuilding	_	_	_	_	2	intra	2	intra	
+
+1	architect	_	_	_	_	0	ROOT	0	ROOT	
+2	significantBuilding	_	_	_	_	4	intra	4	intra	
+3	significantBuilding	_	_	_	_	2	intra	2	intra	
+4	birthPlace	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	isPartOf	_	_	_	_	1	intra	1	intra	
+
+1	hometown	_	_	_	_	0	ROOT	0	ROOT	
+2	postalCode	_	_	_	_	1	intra	1	intra	
+3	architect	_	_	_	_	4	intra	4	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+
+1	isPartOf	_	_	_	_	4	inter	4	inter	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	leaderTitle	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	4	intra	4	intra	
+4	capital	_	_	_	_	2	intra	2	intra	
+
+1	broadcastedBy	_	_	_	_	0	ROOT	0	ROOT	
+2	starring	_	_	_	_	4	intra	4	intra	
+3	firstAired	_	_	_	_	1	intra	1	intra	
+4	creator	_	_	_	_	1	inter	1	inter	
+
+1	creator	_	_	_	_	0	ROOT	0	ROOT	
+2	alternativeName	_	_	_	_	4	intra	4	intra	
+3	nationality	_	_	_	_	1	intra	1	intra	
+4	creator	_	_	_	_	3	intra	3	intra	
+
+1	series	_	_	_	_	0	ROOT	0	ROOT	
+2	nationality	_	_	_	_	1	intra	1	intra	
+3	starring	_	_	_	_	4	intra	4	intra	
+4	creator	_	_	_	_	2	intra	2	intra	
+
+1	nationality	_	_	_	_	0	ROOT	0	ROOT	
+2	creator	_	_	_	_	1	intra	1	intra	
+3	series	_	_	_	_	2	intra	2	intra	
+4	starring	_	_	_	_	3	intra	3	intra	
+
+1	series	_	_	_	_	0	ROOT	0	ROOT	
+2	nationality	_	_	_	_	1	intra	1	intra	
+3	starring	_	_	_	_	4	intra	4	intra	
+4	creator	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	3	intra	3	intra	
+3	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+3	alternativeName	_	_	_	_	4	intra	4	intra	
+4	region	_	_	_	_	2	intra	2	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+4	ingredient	_	_	_	_	1	inter	1	inter	
+
+1	course	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	4	intra	4	intra	
+3	mainIngredients	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	3	intra	3	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	1	intra	1	intra	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	4	intra	4	intra	
+4	mainIngredients	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	region	_	_	_	_	1	intra	1	intra	
+4	ethnicGroup	_	_	_	_	3	intra	3	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	1	intra	1	intra	
+3	region	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+4	capital	_	_	_	_	1	inter	1	inter	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	_	4	intra	4	intra	
+3	alternativeName	_	_	_	_	1	intra	1	intra	
+4	dishVariation	_	_	_	_	3	intra	3	intra	
+
+1	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	2	intra	2	intra	
+4	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	alternativeName	_	_	_	_	0	ROOT	0	ROOT	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	3	intra	3	intra	
+3	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	0	ROOT	0	ROOT	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	4	intra	4	intra	
+3	isPartOf	_	_	_	_	1	intra	1	intra	
+4	ingredient	_	_	_	_	1	inter	1	inter	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+4	course	_	_	_	_	3	intra	3	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	3	intra	3	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	language	_	_	_	_	3	intra	3	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	mainIngredients	_	_	_	_	2	intra	2	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	region	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	currency	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	leaderName	_	_	_	_	3	intra	3	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	demonym	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	dishVariation	_	_	_	_	0	ROOT	0	ROOT	
+2	order	_	_	_	_	4	intra	4	intra	
+3	ingredient	_	_	_	_	1	intra	1	intra	
+4	course	_	_	_	_	3	intra	3	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	mainIngredients	_	_	_	_	2	intra	2	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	capital	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	4	intra	4	intra	
+4	ingredient	_	_	_	_	1	intra	1	intra	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	1	inter	1	inter	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	3	intra	3	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	2	intra	2	intra	
+4	currency	_	_	_	_	1	intra	1	intra	
+
+1	has_to_its_north	_	_	_	_	0	ROOT	0	ROOT	
+2	municipality	_	_	_	_	1	intra	1	intra	
+3	has_to_its_southeast	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	2	intra	2	intra	
+
+1	has_to_its_southeast	_	_	_	_	4	inter	4	inter	
+2	has_to_its_west	_	_	_	_	4	intra	4	intra	
+3	category	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	_	4	intra	4	intra	
+3	capital	_	_	_	_	1	intra	1	intra	
+4	designer	_	_	_	_	3	intra	3	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	legislature	_	_	_	_	4	intra	4	intra	
+3	leader	_	_	_	_	1	intra	1	intra	
+4	capital	_	_	_	_	3	intra	3	intra	
+
+1	leader	_	_	_	_	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	_	4	intra	4	intra	
+3	material	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	3	intra	3	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	4	intra	4	intra	
+4	dedicatedTo	_	_	_	_	2	intra	2	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	fullname	_	_	_	_	1	intra	1	intra	
+3	numberOfMembers	_	_	_	_	4	intra	4	intra	
+4	season	_	_	_	_	2	intra	2	intra	
+
+1	placeOfBirth	_	_	_	_	0	ROOT	0	ROOT	
+2	manager	_	_	_	_	1	intra	1	intra	
+3	club	_	_	_	_	4	intra	4	intra	
+4	club	_	_	_	_	2	intra	2	intra	
+
+1	club	_	_	_	_	2	intra	2	intra	
+2	placeOfBirth	_	_	_	_	4	intra	4	intra	
+3	club	_	_	_	_	1	intra	1	intra	
+4	manager	_	_	_	_	0	ROOT	0	ROOT	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	leader	_	_	_	_	2	intra	2	intra	
+4	leader	_	_	_	_	1	intra	1	intra	
+
+1	season	_	_	_	_	2	intra	2	intra	
+2	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+3	fullname	_	_	_	_	4	intra	4	intra	
+4	ground	_	_	_	_	2	inter	2	inter	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	season	_	_	_	_	4	intra	4	intra	
+3	fullname	_	_	_	_	1	intra	1	intra	
+4	numberOfMembers	_	_	_	_	1	inter	1	inter	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	fullname	_	_	_	_	1	intra	1	intra	
+3	numberOfMembers	_	_	_	_	4	intra	4	intra	
+4	season	_	_	_	_	2	intra	2	intra	
+
+1	season	_	_	_	_	0	ROOT	0	ROOT	
+2	fullname	_	_	_	_	1	intra	1	intra	
+3	numberOfMembers	_	_	_	_	4	intra	4	intra	
+4	ground	_	_	_	_	2	intra	2	intra	
+
+1	champions	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	ground	_	_	_	_	1	intra	1	intra	
+4	league	_	_	_	_	3	intra	3	intra	
+
+1	numberOfMembers	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	1	inter	1	inter	
+3	ground	_	_	_	_	1	intra	1	intra	
+4	champions	_	_	_	_	2	intra	2	intra	
+
+1	club	_	_	_	_	2	intra	2	intra	
+2	owner	_	_	_	_	4	intra	4	intra	
+3	club	_	_	_	_	1	intra	1	intra	
+4	manager	_	_	_	_	0	ROOT	0	ROOT	
+
+1	league	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	nickname	_	_	_	_	2	intra	2	intra	
+4	champions	_	_	_	_	3	intra	3	intra	
+
+1	league	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	season	_	_	_	_	2	intra	2	intra	
+4	champions	_	_	_	_	1	intra	1	intra	
+
+1	fullname	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	_	1	intra	1	intra	
+3	manager	_	_	_	_	2	intra	2	intra	
+4	season	_	_	_	_	3	intra	3	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	league	_	_	_	_	3	inter	3	inter	
+3	champions	_	_	_	_	1	inter	1	inter	
+4	country	_	_	_	_	3	intra	3	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	4	intra	4	intra	
+3	ground	_	_	_	_	1	intra	1	intra	
+4	leader	_	_	_	_	3	intra	3	intra	
+
+1	leader	_	_	_	_	0	ROOT	0	ROOT	
+2	ground	_	_	_	_	4	intra	4	intra	
+3	capital	_	_	_	_	2	intra	2	intra	
+4	officialLanguage	_	_	_	_	1	intra	1	intra	
+
+1	champions	_	_	_	_	2	intra	2	intra	
+2	league	_	_	_	_	4	intra	4	intra	
+3	ground	_	_	_	_	1	intra	1	intra	
+4	fullname	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	dean	_	_	_	_	0	ROOT	0	ROOT	
+3	academicStaffSize	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	_	1	intra	1	intra	
+3	established	_	_	_	_	2	intra	2	intra	
+4	numberOfStudents	_	_	_	_	3	intra	3	intra	
+
+1	established	_	_	_	_	2	intra	2	intra	
+2	dean	_	_	_	_	0	ROOT	0	ROOT	
+3	city	_	_	_	_	1	intra	1	intra	
+4	academicStaffSize	_	_	_	_	3	intra	3	intra	
+
+1	was_given_the_'Technical_Campus'_status_by	_	_	_	_	0	ROOT	0	ROOT	
+2	city	_	_	_	_	1	intra	1	intra	
+3	location	_	_	_	_	4	intra	4	intra	
+4	affiliation	_	_	_	_	2	intra	2	intra	
+
+1	campus	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	numberOfPostgraduateStudents	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	director	_	_	_	_	4	intra	4	intra	
+3	affiliation	_	_	_	_	2	intra	2	intra	
+4	established	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	capital	_	_	_	_	1	intra	1	intra	
+4	ethnicGroup	_	_	_	_	1	inter	1	inter	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	established	_	_	_	_	0	ROOT	0	ROOT	
+3	affiliation	_	_	_	_	1	intra	1	intra	
+4	academicStaffSize	_	_	_	_	3	intra	3	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfStudents	_	_	_	_	4	intra	4	intra	
+3	academicStaffSize	_	_	_	_	1	intra	1	intra	
+4	established	_	_	_	_	3	intra	3	intra	
+
+1	followedBy	_	_	_	_	4	inter	4	inter	
+2	language	_	_	_	_	4	intra	4	intra	
+3	precededBy	_	_	_	_	1	intra	1	intra	
+4	author	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfPages	_	_	_	_	3	intra	3	intra	
+3	author	_	_	_	_	4	intra	4	intra	
+4	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	publisher	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	capital	_	_	_	_	1	intra	1	intra	
+
+1	author	_	_	_	_	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	_	3	intra	3	intra	
+3	mediaType	_	_	_	_	4	intra	4	intra	
+4	OCLC_number	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	publisher	_	_	_	_	4	intra	4	intra	
+3	followedBy	_	_	_	_	1	intra	1	intra	
+4	precededBy	_	_	_	_	1	inter	1	inter	
+
+1	ISBN_number	_	_	_	_	0	ROOT	0	ROOT	
+2	LibraryofCongressClassification	_	_	_	_	1	intra	1	intra	
+3	OCLC_number	_	_	_	_	2	inter	2	inter	
+4	mediaType	_	_	_	_	2	intra	2	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	spokenIn	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	language	_	_	_	_	1	intra	1	intra	
+
+1	OCLC_number	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfPages	_	_	_	_	4	intra	4	intra	
+3	ISBN_number	_	_	_	_	2	intra	2	intra	
+4	mediaType	_	_	_	_	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	_	2	intra	2	intra	
+2	mediaType	_	_	_	_	4	intra	4	intra	
+3	OCLC_number	_	_	_	_	1	intra	1	intra	
+4	author	_	_	_	_	0	ROOT	0	ROOT	
+
+1	abbreviation	_	_	_	_	0	ROOT	0	ROOT	
+2	LCCN_number	_	_	_	_	4	intra	4	intra	
+3	ISSN_number	_	_	_	_	1	intra	1	intra	
+4	academicDiscipline	_	_	_	_	1	inter	1	inter	
+
+1	publisher	_	_	_	_	0	ROOT	0	ROOT	
+2	affiliation	_	_	_	_	3	intra	3	intra	
+3	city	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	2	intra	2	intra	
+4	language	_	_	_	_	1	intra	1	intra	
+
+1	frequency	_	_	_	_	0	ROOT	0	ROOT	
+2	academicDiscipline	_	_	_	_	4	intra	4	intra	
+3	abbreviation	_	_	_	_	1	intra	1	intra	
+4	ISSN_number	_	_	_	_	1	inter	1	inter	
+
+1	academicDiscipline	_	_	_	_	2	intra	2	intra	
+2	firstPublicationYear	_	_	_	_	0	ROOT	0	ROOT	
+
+1	language	_	_	_	_	4	inter	4	inter	
+2	publisher	_	_	_	_	4	intra	4	intra	
+3	spokenIn	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	spokenIn	_	_	_	_	3	intra	3	intra	
+3	language	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	4	inter	4	inter	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	language	_	_	_	_	1	intra	1	intra	
+4	spokenIn	_	_	_	_	0	ROOT	0	ROOT	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	publisher	_	_	_	_	1	intra	1	intra	
+4	leaderName	_	_	_	_	1	inter	1	inter	
+
+1	spokenIn	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	2	intra	2	intra	
+4	language	_	_	_	_	1	intra	1	intra	
+
+1	spokenIn	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	language	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	ethnicGroup	_	_	_	_	1	inter	1	inter	
+
+1	runwayLength	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ICAO_Location_Identifier	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+3	cityServed	_	_	_	_	2	intra	2	intra	
+4	runwayName	_	_	_	_	3	intra	3	intra	
+5	runwayLength	_	_	_	_	4	intra	4	intra	
+
+1	runwayName	_	_	_	_	5	inter	5	inter	
+2	ICAO_Location_Identifier	_	_	_	_	4	intra	4	intra	
+3	runwayLength	_	_	_	_	5	intra	5	intra	
+4	cityServed	_	_	_	_	1	intra	1	intra	
+5	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	4	inter	4	inter	
+2	runwayName	_	_	_	_	4	intra	4	intra	
+3	runwayLength	_	_	_	_	1	intra	1	intra	
+4	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	inter	1	inter	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+4	ICAO_Location_Identifier	_	_	_	_	2	intra	2	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	3	intra	3	intra	
+3	location	_	_	_	_	5	intra	5	intra	
+4	isPartOf	_	_	_	_	2	intra	2	intra	
+5	nativeName	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	transportAircraft	_	_	_	_	1	intra	1	intra	
+3	aircraftFighter	_	_	_	_	5	intra	5	intra	
+4	attackAircraft	_	_	_	_	2	inter	2	inter	
+5	battles	_	_	_	_	2	intra	2	intra	
+
+1	aircraftFighter	_	_	_	_	0	ROOT	0	ROOT	
+2	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+3	battles	_	_	_	_	5	intra	5	intra	
+4	transportAircraft	_	_	_	_	2	intra	2	intra	
+5	attackAircraft	_	_	_	_	4	intra	4	intra	
+
+1	battles	_	_	_	_	5	inter	5	inter	
+2	transportAircraft	_	_	_	_	3	intra	3	intra	
+3	battles	_	_	_	_	5	intra	5	intra	
+4	attackAircraft	_	_	_	_	1	intra	1	intra	
+5	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	battles	_	_	_	_	4	intra	4	intra	
+3	attackAircraft	_	_	_	_	1	intra	1	intra	
+4	transportAircraft	_	_	_	_	3	intra	3	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	cityServed	_	_	_	_	5	intra	5	intra	
+4	location	_	_	_	_	3	intra	3	intra	
+5	operatingOrganisation	_	_	_	_	1	intra	1	intra	
+
+1	cityServed	_	_	_	_	5	intra	5	intra	
+2	operatingOrganisation	_	_	_	_	5	inter	5	inter	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	2	intra	2	intra	
+5	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	_	1	intra	1	intra	
+3	runwayLength	_	_	_	_	4	intra	4	intra	
+4	runwayName	_	_	_	_	5	intra	5	intra	
+5	location	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	5	intra	5	intra	
+4	largestCity	_	_	_	_	2	intra	2	intra	
+5	language	_	_	_	_	1	intra	1	intra	
+
+1	largestCity	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	4	inter	4	inter	
+3	capital	_	_	_	_	5	intra	5	intra	
+4	location	_	_	_	_	1	ROOT	1	ROOT	
+5	demonym	_	_	_	_	4	intra	4	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	_	4	intra	4	intra	
+3	isPartOf	_	_	_	_	2	intra	2	intra	
+4	location	_	_	_	_	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	location	_	_	_	_	2	intra	2	intra	
+4	runwayLength	_	_	_	_	5	intra	5	intra	
+5	isPartOf	_	_	_	_	3	intra	3	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+3	runwayLength	_	_	_	_	4	inter	4	inter	
+4	cityServed	_	_	_	_	2	inter	2	inter	
+5	owner	_	_	_	_	4	intra	4	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	runwayName	_	_	_	_	4	intra	4	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+4	location	_	_	_	_	5	intra	5	intra	
+5	runwayLength	_	_	_	_	1	inter	1	inter	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	isPartOf	_	_	_	_	4	intra	4	intra	
+4	isPartOf	_	_	_	_	5	intra	5	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	3rd_runway_SurfaceType	_	_	_	_	1	intra	1	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	2	intra	2	intra	
+4	runwayLength	_	_	_	_	5	intra	5	intra	
+5	runwayName	_	_	_	_	3	intra	3	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	3	intra	3	intra	
+3	runwayName	_	_	_	_	5	intra	5	intra	
+4	runwayLength	_	_	_	_	2	intra	2	intra	
+5	location	_	_	_	_	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	_	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	_	1	intra	1	intra	
+3	runwayName	_	_	_	_	2	intra	2	intra	
+4	ICAO_Location_Identifier	_	_	_	_	5	intra	5	intra	
+5	runwayLength	_	_	_	_	3	intra	3	intra	
+
+1	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+
+1	isPartOf	_	_	_	_	5	intra	5	intra	
+2	cityServed	_	_	_	_	5	inter	5	inter	
+3	country	_	_	_	_	5	intra	5	intra	
+4	isPartOf	_	_	_	_	2	intra	2	intra	
+5	cityServed	_	_	_	_	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	operator	_	_	_	_	4	intra	4	intra	
+3	occupation	_	_	_	_	1	intra	1	intra	
+4	was_a_crew_member_of	_	_	_	_	5	intra	5	intra	
+5	nationality	_	_	_	_	3	intra	3	intra	
+
+1	almaMater	_	_	_	_	0	ROOT	0	ROOT	
+2	deathPlace	_	_	_	_	4	intra	4	intra	
+3	birthDate	_	_	_	_	5	intra	5	intra	
+4	deathDate	_	_	_	_	3	intra	3	intra	
+5	birthPlace	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	occupation	_	_	_	_	3	intra	3	intra	
+3	almaMater	_	_	_	_	1	intra	1	intra	
+4	deathPlace	_	_	_	_	2	intra	2	intra	
+
+1	was_selected_by_NASA	_	_	_	_	0	ROOT	0	ROOT	
+2	operator	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	4	intra	4	intra	
+4	was_a_crew_member_of	_	_	_	_	1	intra	1	intra	
+
+1	operator	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	1	intra	1	intra	
+3	timeInSpace	_	_	_	_	2	intra	2	intra	
+4	commander	_	_	_	_	5	intra	5	intra	
+5	backup_pilot	_	_	_	_	3	intra	3	intra	
+
+1	higher	_	_	_	_	2	intra	2	intra	
+2	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+3	birthDate	_	_	_	_	2	inter	2	inter	
+4	deathPlace	_	_	_	_	5	intra	5	intra	
+5	awards	_	_	_	_	3	intra	3	intra	
+
+1	compete_in	_	_	_	_	0	ROOT	0	ROOT	
+2	president	_	_	_	_	5	intra	5	intra	
+3	affiliation	_	_	_	_	2	intra	2	intra	
+4	almaMater	_	_	_	_	3	intra	3	intra	
+5	birthPlace	_	_	_	_	1	intra	1	intra	
+
+1	deathPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	deathDate	_	_	_	_	3	inter	3	inter	
+3	almaMater	_	_	_	_	1	inter	1	inter	
+4	birthPlace	_	_	_	_	3	intra	3	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	1	intra	1	intra	
+3	compete_in	_	_	_	_	4	intra	4	intra	
+4	affiliations	_	_	_	_	2	intra	2	intra	
+
+1	affiliations	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	4	intra	4	intra	
+3	birthPlace	_	_	_	_	1	intra	1	intra	
+4	deathPlace	_	_	_	_	1	inter	1	inter	
+
+1	dateOfRetirement	_	_	_	_	0	ROOT	0	ROOT	
+2	backup_pilot	_	_	_	_	5	intra	5	intra	
+3	commander	_	_	_	_	4	intra	4	intra	
+4	operator	_	_	_	_	1	inter	1	inter	
+5	was_a_crew_member_of	_	_	_	_	4	inter	4	inter	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	currency	_	_	_	_	2	inter	2	inter	
+5	capital	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	3	intra	3	intra	
+2	floorArea	_	_	_	_	5	intra	5	intra	
+3	buildingStartDate	_	_	_	_	0	ROOT	0	ROOT	
+4	cost	_	_	_	_	3	intra	3	intra	
+5	floorCount	_	_	_	_	3	inter	3	inter	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	3	intra	3	intra	
+3	floorCount	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	location	_	_	_	_	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	isPartOf	_	_	_	_	4	intra	4	intra	
+4	owner	_	_	_	_	5	intra	5	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	architecturalStyle	_	_	_	_	0	ROOT	0	ROOT	
+2	buildingStartDate	_	_	_	_	1	intra	1	intra	
+3	address	_	_	_	_	2	intra	2	intra	
+4	location	_	_	_	_	5	intra	5	intra	
+5	completionDate	_	_	_	_	3	intra	3	intra	
+
+1	currency	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+3	language	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	2	intra	2	intra	
+5	capital	_	_	_	_	2	inter	2	inter	
+
+1	country	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	currency	_	_	_	_	2	intra	2	intra	
+5	capital	_	_	_	_	2	inter	2	inter	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	5	intra	5	intra	
+4	ethnicGroup	_	_	_	_	3	intra	3	intra	
+5	isPartOf	_	_	_	_	2	intra	2	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	5	intra	5	intra	
+3	location	_	_	_	_	5	inter	5	inter	
+4	country	_	_	_	_	3	intra	3	intra	
+5	leaderTitle	_	_	_	_	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	location	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	3	intra	3	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	bedCount	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	state	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+
+1	significantProject	_	_	_	_	0	ROOT	0	ROOT	
+2	significantBuilding	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	5	intra	5	intra	
+4	significantBuilding	_	_	_	_	2	intra	2	intra	
+5	architect	_	_	_	_	1	intra	1	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	architect	_	_	_	_	1	intra	1	intra	
+3	significantProject	_	_	_	_	2	intra	2	intra	
+4	significantBuilding	_	_	_	_	5	intra	5	intra	
+5	significantBuilding	_	_	_	_	3	intra	3	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	architecturalStyle	_	_	_	_	1	intra	1	intra	
+3	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	4	intra	4	intra	
+4	added_to_the_National_Register_of_Historic_Places	_	_	_	_	5	intra	5	intra	
+5	yearOfConstruction	_	_	_	_	2	intra	2	intra	
+
+1	yearOfConstruction	_	_	_	_	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	_	3	intra	3	intra	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	5	intra	5	intra	
+5	architecturalStyle	_	_	_	_	1	intra	1	intra	
+
+1	isPartOf	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	architect	_	_	_	_	5	inter	5	inter	
+2	leaderName	_	_	_	_	5	intra	5	intra	
+3	postalCode	_	_	_	_	1	intra	1	intra	
+4	governingBody	_	_	_	_	3	intra	3	intra	
+5	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	language	_	_	_	_	2	intra	2	intra	
+5	location	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	1	intra	1	intra	
+3	ethnicGroup	_	_	_	_	4	intra	4	intra	
+4	location	_	_	_	_	5	intra	5	intra	
+5	leaderTitle	_	_	_	_	2	intra	2	intra	
+
+1	firstAired	_	_	_	_	5	inter	5	inter	
+2	starring	_	_	_	_	5	intra	5	intra	
+3	broadcastedBy	_	_	_	_	1	intra	1	intra	
+4	lastAired	_	_	_	_	2	intra	2	intra	
+5	creator	_	_	_	_	0	ROOT	0	ROOT	
+
+1	starring	_	_	_	_	0	ROOT	0	ROOT	
+2	series	_	_	_	_	1	intra	1	intra	
+3	creator	_	_	_	_	4	intra	4	intra	
+4	creator	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	alternativeName	_	_	_	_	4	intra	4	intra	
+3	mainIngredients	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	1	inter	1	inter	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	course	_	_	_	_	3	intra	3	intra	
+3	region	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	1	intra	1	intra	
+3	region	_	_	_	_	5	intra	5	intra	
+4	currency	_	_	_	_	3	intra	3	intra	
+5	leaderName	_	_	_	_	2	intra	2	intra	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+5	demonym	_	_	_	_	1	inter	1	inter	
+
+1	demonym	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	4	intra	4	intra	
+4	region	_	_	_	_	5	intra	5	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	5	intra	5	intra	
+5	capital	_	_	_	_	3	intra	3	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	ethnicGroup	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	5	intra	5	intra	
+5	leaderName	_	_	_	_	3	intra	3	intra	
+
+1	mainIngredients	_	_	_	_	2	intra	2	intra	
+2	region	_	_	_	_	0	ROOT	0	ROOT	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	5	intra	5	intra	
+5	capital	_	_	_	_	3	intra	3	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	region	_	_	_	_	1	intra	1	intra	
+
+1	dishVariation	_	_	_	_	5	intra	5	intra	
+2	ingredient	_	_	_	_	5	inter	5	inter	
+3	isPartOf	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	region	_	_	_	_	0	ROOT	0	ROOT	
+
+1	family	_	_	_	_	0	ROOT	0	ROOT	
+2	region	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	ingredient	_	_	_	_	5	intra	5	intra	
+5	genus	_	_	_	_	2	intra	2	intra	
+
+1	family	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	order	_	_	_	_	2	intra	2	intra	
+4	ingredient	_	_	_	_	5	intra	5	intra	
+5	region	_	_	_	_	1	intra	1	intra	
+
+1	ingredient	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	language	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	foundationPlace	_	_	_	_	1	intra	1	intra	
+3	creator	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	5	intra	5	intra	
+5	language	_	_	_	_	3	intra	3	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	3	intra	3	intra	
+3	language	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	4	intra	4	intra	
+3	alternativeName	_	_	_	_	1	intra	1	intra	
+4	region	_	_	_	_	3	intra	3	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	demonym	_	_	_	_	1	intra	1	intra	
+3	region	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	2	intra	2	intra	
+5	leaderName	_	_	_	_	4	intra	4	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	_	1	intra	1	intra	
+3	course	_	_	_	_	2	intra	2	intra	
+4	region	_	_	_	_	5	intra	5	intra	
+5	leaderName	_	_	_	_	3	intra	3	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	intra	4	intra	
+3	dishVariation	_	_	_	_	1	intra	1	intra	
+4	ingredient	_	_	_	_	1	inter	1	inter	
+
+1	dishVariation	_	_	_	_	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	_	1	intra	1	intra	
+3	ingredient	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	5	intra	5	intra	
+5	region	_	_	_	_	3	intra	3	intra	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	language	_	_	_	_	5	intra	5	intra	
+4	capital	_	_	_	_	2	intra	2	intra	
+5	country	_	_	_	_	1	intra	1	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	5	intra	5	intra	
+4	demonym	_	_	_	_	2	intra	2	intra	
+5	leaderName	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	region	_	_	_	_	5	intra	5	intra	
+4	language	_	_	_	_	3	intra	3	intra	
+5	ethnicGroup	_	_	_	_	2	intra	2	intra	
+
+1	country	_	_	_	_	5	intra	5	intra	
+2	officialLanguage	_	_	_	_	5	inter	5	inter	
+3	ethnicGroup	_	_	_	_	5	intra	5	intra	
+4	ethnicGroup	_	_	_	_	2	intra	2	intra	
+5	language	_	_	_	_	0	ROOT	0	ROOT	
+
+1	region	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	3	intra	3	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	country	_	_	_	_	1	intra	1	intra	
+
+1	currency	_	_	_	_	0	ROOT	0	ROOT	
+2	demonym	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+5	language	_	_	_	_	4	inter	4	inter	
+
+1	has_to_its_north	_	_	_	_	0	ROOT	0	ROOT	
+2	municipality	_	_	_	_	4	intra	4	intra	
+3	location	_	_	_	_	2	intra	2	intra	
+4	has_to_its_west	_	_	_	_	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	_	2	intra	2	intra	
+2	location	_	_	_	_	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	capital	_	_	_	_	2	intra	2	intra	
+5	legislature	_	_	_	_	2	inter	2	inter	
+
+1	designer	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	4	inter	4	inter	
+3	dedicatedTo	_	_	_	_	5	intra	5	intra	
+4	location	_	_	_	_	1	inter	1	inter	
+5	nativeName	_	_	_	_	4	intra	4	intra	
+
+1	designer	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	3	intra	3	intra	
+3	material	_	_	_	_	5	intra	5	intra	
+4	dedicatedTo	_	_	_	_	2	intra	2	intra	
+5	nativeName	_	_	_	_	1	intra	1	intra	
+
+1	designer	_	_	_	_	5	intra	5	intra	
+2	material	_	_	_	_	5	inter	5	inter	
+3	dedicatedTo	_	_	_	_	5	intra	5	intra	
+4	leaderTitle	_	_	_	_	2	intra	2	intra	
+5	location	_	_	_	_	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	_	0	ROOT	0	ROOT	
+2	club	_	_	_	_	1	intra	1	intra	
+3	ground	_	_	_	_	5	intra	5	intra	
+4	club	_	_	_	_	3	intra	3	intra	
+5	leader	_	_	_	_	2	intra	2	intra	
+
+1	league	_	_	_	_	5	intra	5	intra	
+2	manager	_	_	_	_	5	inter	5	inter	
+3	club	_	_	_	_	5	intra	5	intra	
+4	club	_	_	_	_	2	intra	2	intra	
+5	champions	_	_	_	_	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	league	_	_	_	_	5	intra	5	intra	
+5	champions	_	_	_	_	2	intra	2	intra	
+
+1	ground	_	_	_	_	0	ROOT	0	ROOT	
+2	champions	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	1	intra	1	intra	
+4	league	_	_	_	_	5	intra	5	intra	
+5	location	_	_	_	_	3	intra	3	intra	
+
+1	league	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	_	4	intra	4	intra	
+3	champions	_	_	_	_	1	intra	1	intra	
+4	country	_	_	_	_	5	intra	5	intra	
+5	manager	_	_	_	_	1	inter	1	inter	
+
+1	academicStaffSize	_	_	_	_	0	ROOT	0	ROOT	
+2	dean	_	_	_	_	1	intra	1	intra	
+3	numberOfStudents	_	_	_	_	4	intra	4	intra	
+4	city	_	_	_	_	5	intra	5	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	established	_	_	_	_	3	intra	3	intra	
+5	numberOfStudents	_	_	_	_	4	intra	4	intra	
+
+1	affiliation	_	_	_	_	3	inter	3	inter	
+2	state	_	_	_	_	5	intra	5	intra	
+3	city	_	_	_	_	0	ROOT	0	ROOT	
+4	has_to_its_northeast	_	_	_	_	1	intra	1	intra	
+5	has_to_its_west	_	_	_	_	3	intra	3	intra	
+
+1	campus	_	_	_	_	0	ROOT	0	ROOT	
+2	numberOfPostgraduateStudents	_	_	_	_	4	intra	4	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	established	_	_	_	_	1	intra	1	intra	
+
+1	affiliation	_	_	_	_	2	intra	2	intra	
+2	city	_	_	_	_	0	ROOT	0	ROOT	
+3	state	_	_	_	_	2	intra	2	intra	
+4	founder	_	_	_	_	5	intra	5	intra	
+5	has_to_its_west	_	_	_	_	2	inter	2	inter	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	city	_	_	_	_	1	intra	1	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	academicStaffSize	_	_	_	_	1	intra	1	intra	
+3	numberOfStudents	_	_	_	_	4	intra	4	intra	
+4	affiliation	_	_	_	_	5	intra	5	intra	
+5	established	_	_	_	_	2	intra	2	intra	
+
+1	followedBy	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	ethnicGroup	_	_	_	_	4	intra	4	intra	
+4	publisher	_	_	_	_	5	intra	5	intra	
+5	country	_	_	_	_	2	intra	2	intra	
+
+1	precededBy	_	_	_	_	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	_	3	intra	3	intra	
+3	publisher	_	_	_	_	1	inter	1	inter	
+4	country	_	_	_	_	5	intra	5	intra	
+5	followedBy	_	_	_	_	3	inter	3	inter	
+
+1	followedBy	_	_	_	_	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	precededBy	_	_	_	_	5	intra	5	intra	
+5	followedBy	_	_	_	_	3	intra	3	intra	
+
+1	affiliation	_	_	_	_	0	ROOT	0	ROOT	
+2	city	_	_	_	_	1	intra	1	intra	
+3	nickname	_	_	_	_	4	intra	4	intra	
+4	publisher	_	_	_	_	2	intra	2	intra	
+
+1	publisher	_	_	_	_	0	ROOT	0	ROOT	
+2	state	_	_	_	_	3	intra	3	intra	
+3	city	_	_	_	_	5	intra	5	intra	
+4	affiliation	_	_	_	_	2	intra	2	intra	
+5	nickname	_	_	_	_	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	spokenIn	_	_	_	_	4	intra	4	intra	
+4	language	_	_	_	_	5	intra	5	intra	
+5	leaderName	_	_	_	_	2	intra	2	intra	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	1	intra	1	intra	
+3	spokenIn	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	5	intra	5	intra	
+5	ethnicGroup	_	_	_	_	2	intra	2	intra	
+
+1	ethnicGroup	_	_	_	_	0	ROOT	0	ROOT	
+2	country	_	_	_	_	1	intra	1	intra	
+3	spokenIn	_	_	_	_	4	intra	4	intra	
+4	language	_	_	_	_	5	intra	5	intra	
+5	leaderName	_	_	_	_	2	intra	2	intra	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	language	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	1	inter	1	inter	
+5	capital	_	_	_	_	4	inter	4	inter	
+
+1	parentCompany	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	3	intra	3	intra	
+3	publisher	_	_	_	_	5	intra	5	intra	
+4	leaderName	_	_	_	_	2	intra	2	intra	
+5	country	_	_	_	_	1	intra	1	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	spokenIn	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	5	intra	5	intra	
+5	ethnicGroup	_	_	_	_	2	intra	2	intra	
+
+1	language	_	_	_	_	0	ROOT	0	ROOT	
+2	spokenIn	_	_	_	_	4	intra	4	intra	
+3	leaderName	_	_	_	_	5	intra	5	intra	
+4	country	_	_	_	_	1	intra	1	intra	
+5	ethnicGroup	_	_	_	_	1	inter	1	inter	
+
+1	nationality	_	_	_	_	2	intra	2	intra	
+2	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+3	operator	_	_	_	_	6	intra	6	intra	
+4	was_a_crew_member_of	_	_	_	_	2	intra	2	intra	
+5	status	_	_	_	_	2	inter	2	inter	
+6	commander	_	_	_	_	5	intra	5	intra	
+
+1	birthPlace	_	_	_	_	6	intra	6	intra	
+2	deathPlace	_	_	_	_	4	intra	4	intra	
+3	almaMater	_	_	_	_	6	inter	6	inter	
+4	birthDate	_	_	_	_	6	intra	6	intra	
+5	was_selected_by_NASA	_	_	_	_	3	intra	3	intra	
+6	nationality	_	_	_	_	0	ROOT	0	ROOT	
+
+1	deathPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	birthDate	_	_	_	_	5	intra	5	intra	
+3	was_selected_by_NASA	_	_	_	_	2	intra	2	intra	
+4	almaMater	_	_	_	_	1	intra	1	intra	
+5	birthPlace	_	_	_	_	4	intra	4	intra	
+
+1	was_a_crew_member_of	_	_	_	_	0	ROOT	0	ROOT	
+2	operator	_	_	_	_	6	intra	6	intra	
+3	deathPlace	_	_	_	_	2	intra	2	intra	
+4	birthPlace	_	_	_	_	6	inter	6	inter	
+5	dateOfRetirement	_	_	_	_	4	intra	4	intra	
+6	birthDate	_	_	_	_	1	intra	1	intra	
+
+1	was_awarded	_	_	_	_	3	intra	3	intra	
+2	higher	_	_	_	_	4	intra	4	intra	
+3	awards	_	_	_	_	0	ROOT	0	ROOT	
+4	birthPlace	_	_	_	_	5	intra	5	intra	
+5	deathDate	_	_	_	_	3	inter	3	inter	
+
+1	almaMater	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	3	intra	3	intra	
+3	birthDate	_	_	_	_	5	intra	5	intra	
+4	occupation	_	_	_	_	1	intra	1	intra	
+5	birthPlace	_	_	_	_	6	intra	6	intra	
+6	alternativeNames	_	_	_	_	4	intra	4	intra	
+
+1	almaMater	_	_	_	_	0	ROOT	0	ROOT	
+2	birthDate	_	_	_	_	6	intra	6	intra	
+3	was_selected_by_NASA	_	_	_	_	1	intra	1	intra	
+4	birthPlace	_	_	_	_	2	intra	2	intra	
+5	was_a_crew_member_of	_	_	_	_	4	intra	4	intra	
+6	status	_	_	_	_	3	intra	3	intra	
+
+1	occupation	_	_	_	_	0	ROOT	0	ROOT	
+2	operator	_	_	_	_	5	intra	5	intra	
+3	was_selected_by_NASA	_	_	_	_	4	intra	4	intra	
+4	almaMater	_	_	_	_	1	intra	1	intra	
+5	was_a_crew_member_of	_	_	_	_	3	intra	3	intra	
+
+1	nationality	_	_	_	_	0	ROOT	0	ROOT	
+2	deathPlace	_	_	_	_	4	intra	4	intra	
+3	almaMater	_	_	_	_	1	intra	1	intra	
+4	birthPlace	_	_	_	_	5	intra	5	intra	
+5	deathDate	_	_	_	_	3	intra	3	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	affiliations	_	_	_	_	4	intra	4	intra	
+3	deathPlace	_	_	_	_	2	intra	2	intra	
+4	birthDate	_	_	_	_	5	intra	5	intra	
+5	almaMater	_	_	_	_	1	intra	1	intra	
+
+1	was_a_crew_member_of	_	_	_	_	0	ROOT	0	ROOT	
+2	occupation	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	1	intra	1	intra	
+4	almaMater	_	_	_	_	2	intra	2	intra	
+5	dateOfRetirement	_	_	_	_	6	intra	6	intra	
+6	birthDate	_	_	_	_	4	intra	4	intra	
+
+1	material	_	_	_	_	0	ROOT	0	ROOT	
+2	capital	_	_	_	_	1	intra	1	intra	
+3	location	_	_	_	_	2	intra	2	intra	
+4	leaderName	_	_	_	_	3	intra	3	intra	
+5	designer	_	_	_	_	4	intra	4	intra	
+6	inaugurationDate	_	_	_	_	5	intra	5	intra	
+
+1	designer	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	leaderTitle	_	_	_	_	2	intra	2	intra	
+4	dedicatedTo	_	_	_	_	5	intra	5	intra	
+5	leaderName	_	_	_	_	3	intra	3	intra	
+
+1	nearestCity	_	_	_	_	0	ROOT	0	ROOT	
+2	district	_	_	_	_	1	intra	1	intra	
+3	established	_	_	_	_	2	intra	2	intra	
+4	category	_	_	_	_	5	intra	5	intra	
+5	owningOrganisation	_	_	_	_	3	intra	3	intra	
+
+1	country	_	_	_	_	5	intra	5	intra	
+2	location	_	_	_	_	1	intra	1	intra	
+3	district	_	_	_	_	2	intra	2	intra	
+4	category	_	_	_	_	6	intra	6	intra	
+5	established	_	_	_	_	0	ROOT	0	ROOT	
+6	owningOrganisation	_	_	_	_	3	intra	3	intra	
+
+1	location	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	_	3	intra	3	intra	
+3	numberOfStudents	_	_	_	_	6	intra	6	intra	
+4	country	_	_	_	_	2	intra	2	intra	
+5	leaderName	_	_	_	_	1	intra	1	intra	
+6	established	_	_	_	_	5	intra	5	intra	
+
+1	established	_	_	_	_	0	ROOT	0	ROOT	
+2	campus	_	_	_	_	4	intra	4	intra	
+3	state	_	_	_	_	2	inter	2	inter	
+4	city	_	_	_	_	1	intra	1	intra	
+5	director	_	_	_	_	3	intra	3	intra	
+6	country	_	_	_	_	2	intra	2	intra	
+
+1	city	_	_	_	_	0	ROOT	0	ROOT	
+2	affiliation	_	_	_	_	5	intra	5	intra	
+3	president	_	_	_	_	1	intra	1	intra	
+4	director	_	_	_	_	3	inter	3	inter	
+5	country	_	_	_	_	6	intra	6	intra	
+6	established	_	_	_	_	3	intra	3	intra	
+
+1	state	_	_	_	_	0	ROOT	0	ROOT	
+2	was_given_the_'Technical_Campus'_status_by	_	_	_	_	1	intra	1	intra	
+3	sportsGoverningBody	_	_	_	_	5	intra	5	intra	
+4	has_to_its_west	_	_	_	_	2	intra	2	intra	
+5	sportsOffered	_	_	_	_	6	intra	6	intra	
+6	location	_	_	_	_	4	intra	4	intra	
+
+1	was_given_the_'Technical_Campus'_status_by	_	_	_	_	0	ROOT	0	ROOT	
+2	sportsGoverningBody	_	_	_	_	4	intra	4	intra	
+3	location	_	_	_	_	1	intra	1	intra	
+4	sportsOffered	_	_	_	_	5	intra	5	intra	
+5	city	_	_	_	_	6	intra	6	intra	
+6	affiliation	_	_	_	_	3	intra	3	intra	
+
+1	patronSaint	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	leaderTitle	_	_	_	_	4	intra	4	intra	
+4	country	_	_	_	_	6	intra	6	intra	
+5	capital	_	_	_	_	3	intra	3	intra	
+6	ethnicGroup	_	_	_	_	2	intra	2	intra	
+
+1	city	_	_	_	_	0	ROOT	0	ROOT	
+2	academicStaffSize	_	_	_	_	4	intra	4	intra	
+3	established	_	_	_	_	1	intra	1	intra	
+4	affiliation	_	_	_	_	6	intra	6	intra	
+5	country	_	_	_	_	3	inter	3	inter	
+6	leaderName	_	_	_	_	3	intra	3	intra	
+
+1	numberOfStudents	_	_	_	_	3	intra	3	intra	
+2	affiliation	_	_	_	_	4	inter	4	inter	
+3	established	_	_	_	_	0	ROOT	0	ROOT	
+4	city	_	_	_	_	1	intra	1	intra	
+5	country	_	_	_	_	4	intra	4	intra	
+6	academicStaffSize	_	_	_	_	2	intra	2	intra	
+
+1	occupation	_	_	_	_	0	ROOT	0	ROOT	
+2	status	_	_	_	_	3	intra	3	intra	
+3	nationality	_	_	_	_	1	intra	1	intra	
+4	was_a_crew_member_of	_	_	_	_	5	intra	5	intra	
+5	birthDate	_	_	_	_	7	intra	7	intra	
+6	operator	_	_	_	_	4	intra	4	intra	
+7	birthPlace	_	_	_	_	2	intra	2	intra	
+
+1	operator	_	_	_	_	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	_	1	intra	1	intra	
+3	occupation	_	_	_	_	2	intra	2	intra	
+4	almaMater	_	_	_	_	3	intra	3	intra	
+5	commander	_	_	_	_	6	intra	6	intra	
+6	was_a_crew_member_of	_	_	_	_	4	intra	4	intra	
+
+1	nationality	_	_	_	_	2	intra	2	intra	
+2	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+3	almaMater	_	_	_	_	4	intra	4	intra	
+4	birthDate	_	_	_	_	2	inter	2	inter	
+5	deathPlace	_	_	_	_	7	intra	7	intra	
+6	was_selected_by_NASA	_	_	_	_	4	intra	4	intra	
+7	was_a_crew_member_of	_	_	_	_	4	inter	4	inter	
+
+1	birthDate	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	4	inter	4	inter	
+3	occupation	_	_	_	_	5	intra	5	intra	
+4	deathPlace	_	_	_	_	1	inter	1	inter	
+5	nationality	_	_	_	_	2	intra	2	intra	
+6	birthPlace	_	_	_	_	4	intra	4	intra	
+
+1	higher	_	_	_	_	5	intra	5	intra	
+2	awards	_	_	_	_	5	inter	5	inter	
+3	birthDate	_	_	_	_	5	intra	5	intra	
+4	deathPlace	_	_	_	_	2	intra	2	intra	
+5	occupation	_	_	_	_	0	ROOT	0	ROOT	
+
+1	status	_	_	_	_	4	inter	4	inter	
+2	was_a_crew_member_of	_	_	_	_	3	intra	3	intra	
+3	birthPlace	_	_	_	_	6	intra	6	intra	
+4	alternativeNames	_	_	_	_	0	ROOT	0	ROOT	
+5	occupation	_	_	_	_	6	inter	6	inter	
+6	nationality	_	_	_	_	1	inter	1	inter	
+7	almaMater	_	_	_	_	6	inter	6	inter	
+
+1	leaderName	_	_	_	_	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	_	1	intra	1	intra	
+3	backup_pilot	_	_	_	_	4	intra	4	intra	
+4	isPartOf	_	_	_	_	5	inter	5	inter	
+5	nationality	_	_	_	_	2	ROOT	2	ROOT	
+6	operator	_	_	_	_	7	intra	7	intra	
+7	birthPlace	_	_	_	_	5	intra	5	intra	
+
+1	was_selected_by_NASA	_	_	_	_	7	intra	7	intra	
+2	birthPlace	_	_	_	_	7	inter	7	inter	
+3	operator	_	_	_	_	6	intra	6	intra	
+4	status	_	_	_	_	7	intra	7	intra	
+5	was_a_crew_member_of	_	_	_	_	2	intra	2	intra	
+6	almaMater	_	_	_	_	7	intra	7	intra	
+7	birthDate	_	_	_	_	0	ROOT	0	ROOT	
+
+1	was_selected_by_NASA	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	1	inter	1	inter	
+3	backup_pilot	_	_	_	_	4	intra	4	intra	
+4	birthPlace	_	_	_	_	2	inter	2	inter	
+5	was_a_crew_member_of	_	_	_	_	6	intra	6	intra	
+6	operator	_	_	_	_	4	inter	4	inter	
+
+1	almaMater	_	_	_	_	0	ROOT	0	ROOT	
+2	occupation	_	_	_	_	1	intra	1	intra	
+3	affiliation	_	_	_	_	4	intra	4	intra	
+4	birthDate	_	_	_	_	6	intra	6	intra	
+5	deathPlace	_	_	_	_	3	intra	3	intra	
+6	birthPlace	_	_	_	_	2	intra	2	intra	
+
+1	occupation	_	_	_	_	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	_	1	intra	1	intra	
+3	almaMater	_	_	_	_	2	intra	2	intra	
+4	birthDate	_	_	_	_	5	intra	5	intra	
+5	status	_	_	_	_	3	intra	3	intra	
+6	deathDate	_	_	_	_	4	intra	4	intra	
+
+1	birthPlace	_	_	_	_	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	_	4	intra	4	intra	
+3	birthDate	_	_	_	_	5	intra	5	intra	
+4	nationality	_	_	_	_	1	intra	1	intra	
+5	occupation	_	_	_	_	2	intra	2	intra	
+
+1	has_to_its_north	_	_	_	_	0	ROOT	0	ROOT	
+2	category	_	_	_	_	5	intra	5	intra	
+3	municipality	_	_	_	_	1	intra	1	intra	
+4	has_to_its_southeast	_	_	_	_	6	inter	6	inter	
+5	established	_	_	_	_	1	inter	1	inter	
+6	location	_	_	_	_	5	inter	5	inter	
+7	country	_	_	_	_	6	intra	6	intra	
+
+1	material	_	_	_	_	0	ROOT	0	ROOT	
+2	location	_	_	_	_	1	intra	1	intra	
+3	leaderName	_	_	_	_	2	intra	2	intra	
+4	currency	_	_	_	_	3	intra	3	intra	
+5	designer	_	_	_	_	4	intra	4	intra	
+6	capital	_	_	_	_	5	intra	5	intra	
+7	inaugurationDate	_	_	_	_	6	intra	6	intra	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	legislature	_	_	_	_	6	intra	6	intra	
+3	dedicatedTo	_	_	_	_	5	intra	5	intra	
+4	leaderTitle	_	_	_	_	1	intra	1	intra	
+5	material	_	_	_	_	4	intra	4	intra	
+6	location	_	_	_	_	7	intra	7	intra	
+7	designer	_	_	_	_	3	intra	3	intra	
+
+1	affiliation	_	_	_	_	2	intra	2	intra	
+2	campus	_	_	_	_	0	ROOT	0	ROOT	
+3	established	_	_	_	_	1	intra	1	intra	
+4	president	_	_	_	_	3	intra	3	intra	
+
+1	campus	_	_	_	_	0	ROOT	0	ROOT	
+2	motto	_	_	_	_	3	intra	3	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	numberOfPostgraduateStudents	_	_	_	_	6	intra	6	intra	
+5	affiliation	_	_	_	_	2	intra	2	intra	
+6	established	_	_	_	_	1	intra	1	intra	
+
+1	campus	_	_	_	_	0	ROOT	0	ROOT	
+2	director	_	_	_	_	6	inter	6	inter	
+3	established	_	_	_	_	6	inter	6	inter	
+4	president	_	_	_	_	1	inter	1	inter	
+5	country	_	_	_	_	3	intra	3	intra	
+6	city	_	_	_	_	4	inter	4	inter	
+7	affiliation	_	_	_	_	6	intra	6	intra	
+
+1	established	_	_	_	_	0	ROOT	0	ROOT	
+2	campus	_	_	_	_	4	intra	4	intra	
+3	affiliation	_	_	_	_	4	inter	4	inter	
+4	city	_	_	_	_	1	intra	1	intra	
+5	president	_	_	_	_	6	intra	6	intra	
+6	numberOfPostgraduateStudents	_	_	_	_	3	intra	3	intra	
+
+1	country	_	_	_	_	0	ROOT	0	ROOT	
+2	has_to_its_northwest	_	_	_	_	3	intra	3	intra	
+3	city	_	_	_	_	1	intra	1	intra	
+4	state	_	_	_	_	2	intra	2	intra	
+5	academicStaffSize	_	_	_	_	7	intra	7	intra	
+6	river	_	_	_	_	4	intra	4	intra	
+7	largestCity	_	_	_	_	6	intra	6	intra	
+
+1	capital	_	_	_	_	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	2	intra	2	intra	
+4	leaderTitle	_	_	_	_	7	intra	7	intra	
+5	anthem	_	_	_	_	7	inter	7	inter	
+6	ethnicGroup	_	_	_	_	5	inter	5	inter	
+7	city	_	_	_	_	3	intra	3	intra	
+
+1	established	_	_	_	_	0	ROOT	0	ROOT	
+2	campus	_	_	_	_	1	intra	1	intra	
+3	country	_	_	_	_	4	intra	4	intra	
+4	city	_	_	_	_	2	inter	2	inter	
+5	affiliation	_	_	_	_	2	intra	2	intra	
+6	director	_	_	_	_	7	intra	7	intra	
+7	state	_	_	_	_	4	inter	4	inter	
+
