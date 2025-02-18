@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<featuremodels>
+	<featuremodel name="stackswap">
+		<feature>InputColumn(FORM, Stack[0])</feature>
+		<feature>InputColumn(FORM, Stack[1])</feature>
+		<feature>InputColumn(FORM, Input[0])</feature>
+		<feature>InputColumn(FORM, Lookahead[0])</feature>
+		<feature>InputColumn(LEMMA, Stack[0])</feature>
+		<feature>InputColumn(LEMMA, Stack[1])</feature>
+		<feature>InputColumn(LEMMA, Input[0])</feature>
+		<feature>InputColumn(LEMMA, Lookahead[0])</feature>
+		<feature>InputColumn(UPOSTAG, Stack[0])</feature>
+		<feature>InputColumn(UPOSTAG, Stack[1])</feature>
+		<feature>InputColumn(UPOSTAG, Stack[2])</feature>
+		<feature>InputColumn(UPOSTAG, Input[0])</feature>
+		<feature>InputColumn(UPOSTAG, Lookahead[0])</feature>
+		<feature>InputColumn(UPOSTAG, Lookahead[1])</feature>
+		<feature>InputColumn(UPOSTAG, Lookahead[2])</feature>
+		<feature>OutputColumn(DEPREL, Stack[0])</feature>
+		<feature>OutputColumn(DEPREL, Stack[1])</feature>
+		<feature>OutputColumn(DEPREL, Input[0])</feature>
+		<feature>OutputColumn(DEPREL, head(Stack[0]))</feature>
+		<feature>OutputColumn(DEPREL, ldep(Stack[0]))</feature>
+		<feature>OutputColumn(DEPREL, rdep(Stack[0]))</feature>
+		<feature>OutputColumn(DEPREL, head(Stack[1]))</feature>
+		<feature>OutputColumn(DEPREL, ldep(Stack[1]))</feature>
+		<feature>OutputColumn(DEPREL, rdep(Stack[1]))</feature>
+		<feature>OutputColumn(DEPREL, head(Stack[2]))</feature>
+		<feature>OutputColumn(DEPREL, ldep(Stack[2]))</feature>
+		<feature>OutputColumn(DEPREL, rdep(Stack[2]))</feature>
+		<feature>OutputColumn(DEPREL, head(Input[0]))</feature>
+		<feature>OutputColumn(DEPREL, ldep(Input[0]))</feature>
+		<feature>OutputColumn(DEPREL, rdep(Input[0]))</feature>
+	</featuremodel>
+</featuremodels>
