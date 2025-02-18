@@ -47,8 +47,17 @@ In the CoNLL-U format:
 
 ## ipynb files
 
+### WebNLG_TextStructuring.ipynb
+Code to enrich (in particular with class information) and convert the WebNLG data to the CoNLL-U or CoNLL-09 format. CoNLL-U is used as training data for MaltParser (see below).
+
+### Parsers_training.ipynb
+Code for training, running and evaluating intrinsically MaltParser (LAS), and converting the output to the format needed for Castro's text structuring evaluation (see below).
+
+### MaltOptimizer.ipynb
+Code for running MaltOptimizer and finding optimal settings for MaltParser.
+
 ### Thiago_Pipeline_Eal.ipynb
-Code adapted from Castro et al's evaluation code. It replicates exactly their results, and allows for evaluating the modules created for the present experiments. 
+Code adapted from Castro et al's evaluation code. It replicates exactly their results, and allows for evaluating the text structuring modules created for the present experiments. 
 
 ## code
 - conll2castro.py: to convert parser outputs to the format used in Castro et al's evaluation.
@@ -82,5 +91,5 @@ Contains files from the original Castro et al's experiments, and some files extr
 
 - orderingANDstructuring_gold-test.json:
   - 1,408 data points
-  - created with this Colab: https://colab.research.google.com/drive/17eZyXCT3NyAqHGkynWt8kAqj9uI-cC_F?usp=sharing (Cell “Make reference file structuring grouped”); I just combined the outputs of the datatpoints that have the same ID in structuring_gold-test.json.
+  - created with the [notebook in this repo](https://github.com/mille-s/Text_Structuring/blob/main/Parsers_training.ipynb): (Cell “Make reference file structuring grouped”); I just combined the outputs of the datatpoints that have the same ID in structuring_gold-test.json.
   - all possible orderings/structurings given a WebNLG input.
