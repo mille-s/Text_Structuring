@@ -1,0 +1,3 @@
+- Size 2 to 7.
+- All inputs.
+- Original property label values.
