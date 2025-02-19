@@ -135,7 +135,7 @@ Code adapted from Castro et al's evaluation code. It replicates exactly their re
 ## data
 
 ### malt_feats
-Contains all feature configuration files for the different parsers used in the experiments.
+Contains all MaltFeature configuration files for the different parsers used in the experiments. The features are internal features that MaltParser uses at training and inference time (e.g. which parts of the CoNLL-U are used and how); in other words, these are different from the features inside the CoNLL-U files, which can be found in column 6 of a CoNLL-U structure. 
 
 ### webnlg
 Contains one folder for each series of experiments (e.g. _Parsing4_). Each folder contains the WebNLG dataset converted to CoNLL-U format for training (all folders whose name starts with a 2 or a 3) and evaluating (folder whose name starts with a 0) parsers on it. It also contains a folder with the parser outputs converted to the format needed to evaluate the ordering and structuring (_Files4CastroEval_).
@@ -160,3 +160,6 @@ Contains files from the original Castro et al's experiments, and some files extr
   - 1,408 data points
   - created with [this code](https://github.com/mille-s/Text_Structuring/blob/main/code/orderANDstruct_makeRefFile.py); I just combined the outputs of the datatpoints that have the same ID in structuring_gold-test.json.
   - all possible orderings/structurings given a WebNLG input.
+  
+## models
+Contains folders for each MaltParser+MaltFeatures combinations explored; each folder contains one or more parser(s) trained on one or more dataset(s), using the codes describes at the top of this readme.
