@@ -1,0 +1,1408 @@
+operatingOrganisation runwayLength
+location elevationAboveTheSeaLevel_(in_metres)
+runwayLength
+location isPartOf
+location runwayLength
+location language
+operatingOrganisation battles
+class 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+location leaderName
+location runwayLength
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthMetre
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType
+cityServed runwayLength
+cityServed runwayLength
+location largestCity
+cityServed runwayLength
+runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+operatingOrganisation headquarter
+location country
+operatingOrganisation runwayName
+operatingOrganisation runwayLength
+operatingOrganisation location
+genre instrument
+origin origin
+genre associatedBand/associatedMusicalArtist
+genre
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+birthDate birthPlace
+birthPlace birthPlace
+genre stylisticOrigin
+recordLabel background
+birthPlace recordLabel
+genre musicFusionGenre
+genre stylisticOrigin
+genre stylisticOrigin
+genre background
+genre stylisticOrigin
+genre activeYearsStartYear
+genre
+birthPlace birthYear
+genre background
+genre background
+birthPlace deathPlace
+birthPlace deathPlace
+genre background
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre recordLabel
+instrument genre
+genre background
+genre musicSubgenre
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre recordLabel
+genre recordLabel
+genre activeYearsStartYear
+genre stylisticOrigin
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre stylisticOrigin
+genre instrument
+location recordLabel
+birthDate status
+status occupation
+birthPlace birthDate
+birthPlace isPartOf
+birthPlace was_a_crew_member_of
+status almaMater
+birthPlace club
+manager club
+club club
+club club
+club club
+club club
+manager club
+club club
+formerTeam draftPick
+formerTeam draftPick
+birthDate birthYear
+club club
+club club
+ground club
+manager club
+club club
+ground club
+birthDate club
+birthPlace club
+manager club
+club club
+club league
+club club
+birthYear birthPlace
+birthDate club
+league club
+birthPlace leaderName
+birthPlace anthem
+birthPlace language
+manager club
+ground club
+club league
+ground club
+completionDate floorCount
+location floorCount
+floorCount floorArea
+floorCount location
+architect country
+architect location
+architect location
+location tenant
+architect completionDate
+location location
+location country
+architecturalStyle location
+location architecturalStyle
+country ethnicGroup
+floorCount address
+address location
+state leaderName
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+escapeVelocity apoapsis
+minimumTemperature apoapsis
+discoverer periapsis
+epoch escapeVelocity
+epoch orbitalPeriod
+rotationPeriod epoch
+discoverer deathCause
+apoapsis averageSpeed
+birthPlace discoverer
+nationality discoverer
+discoverer deathCause
+nationality discoverer
+discoverer birthPlace
+formerName epoch
+apoapsis temperature
+epoch periapsis
+apoapsis temperature
+periapsis epoch
+epoch rotationPeriod
+temperature apoapsis
+epoch formerName
+epoch mass
+orbitalPeriod epoch
+country ethnicGroup
+isPartOf capital
+country leaderTitle
+isPartOf country
+isPartOf leaderTitle
+isPartOf country
+isPartOf country
+areaTotal elevationAboveTheSeaLevel
+areaTotal elevationAboveTheSeaLevel
+isPartOf country
+isPartOf country
+isPartOf country
+country capital
+isPartOf country
+areaTotal populationDensity
+isPartOf country
+isPartOf capital
+country capital
+country ethnicGroup
+isPartOf ethnicGroup
+country ethnicGroup
+country language
+country leaderTitle
+creator nationality
+starring broadcastedBy
+starring broadcastedBy
+starring birthPlace
+firstAppearanceInFilm starring
+firstAppearanceInFilm starring
+creator series
+fullName creator
+creator creator
+fullName creator
+ingredient country
+country leaderName
+country language
+country leaderName
+ingredient country
+country region
+country mainIngredients
+country region
+dishVariation dishVariation
+mainIngredients ingredient
+ingredient alternativeName
+ingredient dishVariation
+ingredient country
+country leaderName
+ingredient country
+dishVariation ingredient
+ingredient country
+family ingredient
+ingredient country
+country leaderName
+ingredient country
+dishVariation ingredient
+country ingredient
+leaderName country
+country mainIngredients
+demonym country
+country leaderName
+country ethnicGroup
+country mainIngredients
+mainIngredients ingredient
+country leaderName
+ingredient region
+course dishVariation
+country leaderName
+dishVariation ingredient
+shipClass length
+shipOrdered length
+location operator
+location operator
+topSpeed length
+length christeningDate
+builder powerType
+diameter rocketStages
+assembly modelYears
+employer designer
+country length
+relatedMeanOfTransportation assembly
+relatedMeanOfTransportation assembly
+relatedMeanOfTransportation assembly
+manufacturer locationCity
+transmission engine
+engine
+manufacturer successor
+maidenFlight launchSite
+country leaderName
+launchSite manufacturer
+manufacturer parentCompany
+relatedMeanOfTransportation assembly
+successor manufacturer
+relatedMeanOfTransportation successor
+successor manufacturer
+finalFlight diameter
+launchSite manufacturer
+division manufacturer
+manufacturer subsidiary
+manufacturer subsidiary
+powerType keyPerson
+comparable launchSite
+builder leaderName
+builder parentCompany
+owner powerType
+assembly leaderName
+established category
+district nearestCity
+location dedicatedTo
+dedicatedTo nativeName
+award battles
+award battles
+hasDeputy successor
+birthPlace party
+birthPlace almaMater
+birthPlace office_(workedAt,_workedAs)
+office_(workedAt,_workedAs) successor
+successor activeYearsEndDate
+successor inOfficeWhileVicePresident
+battles commander
+militaryBranch battles
+almaMater birthPlace
+residence birthPlace
+award battles
+office_(workedAt,_workedAs) birthPlace
+birthPlace birthPlace
+office_(workedAt,_workedAs) birthPlace
+office_(workedAt,_workedAs) birthPlace
+unit award
+battles activeYearsStartDate
+battles commander
+birthPlace battles
+battles commander
+battles commander
+birthDate deathYear
+birthDate profession
+birthPlace deathPlace
+inOfficeWhileVicePresident deathPlace
+party birthPlace
+successor office_(workedAt,_workedAs)
+birthPlace
+birthPlace birthPlace
+successor office_(workedAt,_workedAs)
+almaMater successor
+birthPlace office_(workedAt,_workedAs)
+militaryBranch battles
+battles commander
+birthPlace office_(workedAt,_workedAs)
+successor office_(workedAt,_workedAs)
+birthDate office_(workedAt,_workedAs)
+country currency
+country leaderName
+deathPlace country
+numberOfMembers season
+numberOfMembers ground
+manager placeOfBirth
+manager club
+numberOfMembers season
+manager club
+manager club
+numberOfMembers ground
+numberOfMembers ground
+league ground
+manager club
+manager club
+numberOfMembers fullname
+ground numberOfMembers
+league ground
+tenant ground
+location ground
+numberOfMembers season
+ground region
+ground leader
+manager club
+nickname state
+affiliation city
+city president
+was_given_the_'Technical_Campus'_status_by location
+state leaderName
+author precededBy
+mediaType author
+abbreviation EISSN_number
+author mediaType
+numberOfPages ISBN_number
+followedBy author
+OCLC_number mediaType
+numberOfPages ISBN_number
+publisher parentCompany
+author mediaType
+OCLC_number ISBN_number
+OCLC_number mediaType
+language spokenIn
+mediaType ISBN_number
+founder publisher
+literaryGenre ISBN_number
+OCLC_number ISBN_number
+author followedBy
+abbreviation academicDiscipline
+publisher parentCompany
+country capital
+country capital
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+operatingOrganisation runwayLength
+cityServed cityServed runwayLength
+location isPartOf country
+operatingOrganisation location ICAO_Location_Identifier
+runwayLength location operatingOrganisation
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+cityServed 1st_runway_SurfaceType runwayLength
+location operatingOrganisation headquarter
+location runwayName runwayLength
+location country elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location capital language
+location country demonym
+cityServed country language
+location isPartOf country
+operatingOrganisation regionServed headquarter
+location country runwayLength
+cityServed country leaderName
+location isPartOf leaderParty
+location country leaderParty
+location country leaderParty
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+origin origin genre
+origin genre origin
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+musicFusionGenre instrument genre
+genre musicFusionGenre
+birthDate associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+origin associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+stylisticOrigin stylisticOrigin genre
+birthPlace birthPlace leaderName
+genre associatedBand/associatedMusicalArtist
+musicFusionGenre stylisticOrigin genre
+genre stylisticOrigin musicFusionGenre
+genre birthPlace derivative
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+stylisticOrigin stylisticOrigin genre
+birthPlace birthPlace deathPlace
+nationality deathPlace
+nationality birthPlace deathPlace
+leaderName birthPlace deathPlace
+deathPlace deathPlace leaderName
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre instrument derivative
+genre recordLabel derivative
+birthPlace genre background
+birthPlace genre background
+musicFusionGenre stylisticOrigin genre
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre musicFusionGenre recordLabel
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+genre derivative background
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist recordLabel
+genre stylisticOrigin associatedBand/associatedMusicalArtist
+birthPlace birthPlace ethnicGroup
+status birthPlace nationality
+nationality birthPlace leaderName
+nationality was_selected_by_NASA almaMater
+nationality birthPlace almaMater
+almaMater was_selected_by_NASA deathPlace
+almaMater deathPlace leaderName
+isPartOf deathPlace deathDate
+birthPlace bird timeInSpace
+youthclub club club
+club manager club
+club club youthclub
+youthclub club club
+birthPlace club club
+ground club club
+draftPick formerTeam draftRound
+formerTeam draftRound draftPick
+birthPlace birthDate debutTeam
+birthPlace club club
+club club ground
+birthDate club club
+club ground club
+birthDate birthPlace club
+draftTeam birthDate birthPlace
+deathPlace birthPlace leaderName
+birthDate club club
+birthDate club club
+ground club club
+ground club club
+manager club club
+club manager club
+club club coach
+birthPlace club club
+birthPlace height club
+birthPlace height club
+coach league club
+club league coach
+club ground club
+ground club youthclub
+club manager season
+manager club club
+leaderName birthPlace deathPlace
+club manager club
+manager club club
+birthPlace isPartOf leaderName
+city debutTeam formerTeam
+ground club club
+architect birthPlace
+location isPartOf leaderName
+location floorArea floorCount
+location isPartOf leaderName
+country architect floorCount
+location architect completionDate
+location tenant floorCount
+floorCount architect tenant
+birthPlace architect significantBuilding
+owner architect completionDate
+location completionDate architecturalStyle
+location completionDate architecturalStyle
+leaderName country location
+country capital currency
+buildingStartDate currentTenants country
+birthPlace architect significantBuilding
+birthPlace architect significantBuilding
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+architect hometown leaderName
+leaderName birthPlace architect
+location country leaderName
+location location leaderName
+keyPerson location tenant
+escapeVelocity mass apoapsis
+orbitalPeriod periapsis discoverer
+maximumTemperature minimumTemperature apoapsis
+density averageSpeed apoapsis
+periapsis epoch orbitalPeriod
+formerName epoch periapsis
+mass escapeVelocity apoapsis
+nationality almaMater discoverer
+discoverer epoch deathPlace
+discoverer deathPlace deathCause
+apoapsis epoch orbitalPeriod
+temperature apoapsis escapeVelocity
+nationality discoverer birthPlace
+formerName epoch orbitalPeriod
+periapsis epoch apoapsis
+formerName periapsis epoch
+epoch mass orbitalPeriod
+apoapsis orbitalPeriod epoch
+averageSpeed apoapsis orbitalPeriod
+apoapsis averageSpeed surfaceArea
+apoapsis surfaceArea temperature
+periapsis epoch mass
+apoapsis periapsis epoch
+ethnicGroup country isPartOf
+populationDensity areaTotal leaderTitle
+isPartOf country ethnicGroup
+ethnicGroup country isPartOf
+country capital ethnicGroup
+areaTotal UTCOffset areaCode
+isPartOf leaderTitle location
+isPartOf isPartOf country
+ethnicGroup country isPartOf
+isPartOf isPartOf leaderTitle
+countySeat isPartOf country
+country capital ethnicGroup
+areaTotal areaCode populationDensity
+largestCity isPartOf country
+largestCity isPartOf country
+isPartOf isPartOf country
+isPartOf country capital
+capital isPartOf country
+isPartOf isPartOf capital
+largestCity isPartOf country
+isPartOf country capital
+isPartOf largestCity language
+isPartOf country capital
+isPartOf country capital
+country capital language
+ethnicGroup country isPartOf
+isPartOf ethnicGroup country
+country leader ethnicGroup
+country ethnicGroup language
+ethnicGroup language country
+nationality creator creator
+starring broadcastedBy lastAired
+distributor starring firstAppearanceInFilm
+distributor starring series
+distributor starring series
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+ingredient region country
+region mainIngredients
+ingredient family division
+ingredient region country
+ingredient country region
+region country mainIngredients
+country leaderName capital
+region country ethnicGroup
+ingredient dishVariation dishVariation
+country leaderName ethnicGroup
+country leaderName capital
+dishVariation dishVariation ingredient
+ingredient region country
+country currency leaderName
+ingredient region country
+dishVariation course ingredient
+region course mainIngredients
+dishVariation region mainIngredients
+ingredient region
+region country ingredient
+ingredient country region
+country leaderName leaderName
+country mainIngredients
+country mainIngredients
+country region leaderName
+ingredient region country
+ingredient region country
+country currency leaderName
+ingredient course dishVariation
+ingredient course dishVariation
+dishVariation course ingredient
+mainIngredients order ingredient
+country ingredient course
+region country ingredient
+country currency leaderName
+country leaderName capital
+country ethnicGroup language
+country leaderName language
+ingredient order family
+transmission alternativeName engine
+length shipOrdered shipClass
+shipDisplacement topSpeed length
+location owner operator
+shipInService length christeningDate
+builder length engine
+builder length engine
+builder foundationPlace length
+countryOrigin demonym ethnicGroup
+capital countryOrigin ethnicGroup
+diameter totalLaunches rocketStages
+engine productionEndYear
+bodyStyle wheelbase width
+builder builder shipBeam
+relatedMeanOfTransportation assembly capital
+relatedMeanOfTransportation assembly capital
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+shipLaunch length shipBeam
+status shipBeam shipLaunch
+foundationPlace engine manufacturer
+keyPerson manufacturer fate
+comparable countryOrigin manufacturer
+manufacturer function
+manufacturer launchSite site
+engine relatedMeanOfTransportation assembly
+relatedMeanOfTransportation engine assembly
+launchSite countryOrigin launchSite
+countryOrigin ethnicGroup leaderTitle
+launchSite countryOrigin launchSite
+assembly bodyStyle engine
+relatedMeanOfTransportation manufacturer relatedMeanOfTransportation
+foundationPlace location powerType
+location owner powerType
+location operator owner
+countryOrigin comparable launchSite
+site headquarter launchSite
+location launchSite site
+locationCity locationCountry builder
+countryOrigin demonym ethnicGroup
+has_to_its_southeast location country
+municipality location has_to_its_southeast
+nativeName location capital
+location legislature leader
+location leaderName capital
+birthPlace battles award
+birthPlace party almaMater
+hasDeputy birthPlace successor
+residence birthPlace party
+office_(workedAt,_workedAs) birthPlace almaMater
+militaryBranch inOfficeWhileVicePresident successor
+inOfficeWhileVicePresident successor militaryBranch
+birthPlace birthPlace office_(workedAt,_workedAs)
+birthPlace birthPlace party
+militaryBranch battles commander
+birthPlace party office_(workedAt,_workedAs)
+commander battles militaryBranch
+almaMater birthPlace party
+birthPlace battles commander
+isPartOfMilitaryConflict battles commander
+birthPlace birthPlace office_(workedAt,_workedAs)
+birthPlace birthPlace office_(workedAt,_workedAs)
+party inOfficeWhilePrimeMinister colour
+leaderName nationality office_(workedAt,_workedAs)
+nationality party leaderName
+birthPlace office_(workedAt,_workedAs) almaMater
+activeYearsEndDate activeYearsStartDate battles
+activeYearsEndDate battles activeYearsStartDate
+birthDate dateOfDeath deathYear
+birthPlace successor spouse
+deathPlace birthPlace ethnicGroup
+birthPlace birthPlace deathPlace
+birthPlace birthPlace deathPlace
+deathPlace leaderName governingBody
+birthPlace successor profession
+birthPlace birthPlace deathPlace
+successor birthPlace office_(workedAt,_workedAs)
+birthPlace successor office_(workedAt,_workedAs)
+successor party office_(workedAt,_workedAs)
+region activeYearsEndDate largestCity
+birthDate leaderName party
+birthPlace party leaderName
+birthPlace battles commander
+isPartOfMilitaryConflict battles commander
+birthPlace deathPlace leaderName
+birthPlace deathPlace leaderName
+deathPlace deathPlace leaderName
+battles commander isPartOfMilitaryConflict
+birthPlace nationality currency
+nationality language ethnicGroup
+manager club club
+manager club club
+league numberOfMembers fullname
+club manager club
+chairman numberOfMembers ground
+fullname numberOfMembers ground
+manager club club
+manager club club
+fullname numberOfMembers ground
+manager league champions
+club manager club
+ground league champions
+club manager club
+part leader ground
+part leader ground
+club manager club
+league country ground
+club manager club
+manager club club
+club manager club
+club manager club
+country state academicStaffSize
+city numberOfPostgraduateStudents affiliation
+state has_to_its_northwest leaderName
+country anthem ethnicGroup
+country leaderName ethnicGroup
+established affiliation headquarters
+established city country
+author mediaType numberOfPages
+precededBy language spokenIn
+headquarter publisher leaderName
+ISSN_number academicDiscipline
+academicDiscipline academicDiscipline ISSN_number
+residence editor almaMater
+author OCLC_number ISBN_number
+author OCLC_number ISBN_number
+country language publisher
+country language spokenIn
+mediaType numberOfPages OCLC_number
+abbreviation LCCN_number ISSN_number
+country language followedBy
+author followedBy language
+author mediaType numberOfPages
+abbreviation LCCN_number ISSN_number
+abbreviation academicDiscipline ISSN_number
+ISSN_number publisher parentCompany
+state publisher affiliation
+language followedBy author
+country language spokenIn
+numberOfPages mediaType OCLC_number
+country language spokenIn
+deathPlace birthPlace author
+ISSN_number founder publisher
+country ethnicGroup capital
+country language ethnicGroup
+country capital ethnicGroup
+country leaderName ethnicGroup
+country leaderTitle ethnicGroup
+country ethnicGroup leaderTitle
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+location operatingOrganisation runwayName runwayLength
+ICAO_Location_Identifier location IATA_Location_Identifier operatingOrganisation
+location operatingOrganisation runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation aircraftFighter attackAircraft battles
+operatingOrganisation runwayLength location cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country capital demonym
+location country capital language
+location cityServed isPartOf country
+elevationAboveTheSeaLevel_(in_metres) runwayLength owner operatingOrganisation
+operatingOrganisation headquarter headquarter hubAirport
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed country leaderName
+location leaderName country owner
+cityServed country leaderName language
+leaderName language country cityServed
+cityServed isPartOf isPartOf country
+cityServed country leaderName language
+cityServed country language leaderName
+cityServed location country leaderName
+order 1st_runway_SurfaceType class division
+genre bandMember associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+origin background origin genre
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre instrument
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre activeYearsStartYear
+instrument musicFusionGenre associatedBand/associatedMusicalArtist genre
+birthDate birthYear background birthPlace
+birthYear birthDate birthPlace background
+birthPlace occupation birthYear background
+birthPlace occupation birthYear background
+origin genre background
+origin genre ethnicGroup stylisticOrigin
+genre derivative stylisticOrigin activeYearsEndYear
+birthPlace ethnicGroup stylisticOrigin genre
+birthPlace genre birthYear background
+birthPlace genre birthYear background
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre activeYearsStartYear
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre activeYearsStartYear
+birthPlace deathPlace birthPlace birthYear
+deathPlace demonym leaderName country
+birthPlace recordLabel genre background
+associatedBand/associatedMusicalArtist activeYearsStartYear associatedBand/associatedMusicalArtist genre
+genre activeYearsStartYear associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+recordLabel recordLabel location genre
+recordLabel recordLabel location genre
+birthYear background genre birthPlace
+birthPlace genre background
+associatedBand/associatedMusicalArtist stylisticOrigin genre musicFusionGenre
+genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+location recordLabel recordLabel genre
+birthPlace background genre
+genre stylisticOrigin derivative derivative
+associatedBand/associatedMusicalArtist activeYearsStartYear genre associatedBand/associatedMusicalArtist
+genre stylisticOrigin associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist activeYearsStartYear associatedBand/associatedMusicalArtist genre
+recordLabel associatedBand/associatedMusicalArtist activeYearsStartYear associatedBand/associatedMusicalArtist
+deathPlace isPartOf deathPlace leaderName
+associatedBand/associatedMusicalArtist instrument genre associatedBand/associatedMusicalArtist
+stylisticOrigin derivative genre stylisticOrigin
+leaderName birthPlace birthPlace isPartOf
+instrument associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre
+associatedBand/associatedMusicalArtist instrument genre musicFusionGenre
+birthPlace ethnicGroup genre stylisticOrigin
+birthPlace nationality was_selected_by_NASA timeInSpace
+was_a_crew_member_of operator awards higher
+birthPlace representative was_a_crew_member_of crewMembers
+birthPlace almaMater was_a_crew_member_of status
+birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+birthName awards was_a_crew_member_of operator
+birthPlace deathPlace awards higher
+deathPlace senators awards higher
+nationality birthPlace deathPlace almaMater
+was_selected_by_NASA occupation was_a_crew_member_of operator
+league manager club club
+manager club club
+youthclub club club manager
+manager league club youthclub
+birthPlace birthDate weight birthYear
+city draftTeam club generalManager
+formerTeam birthDate debutTeam birthYear
+birthDate birthPlace birthYear formerTeam
+birthPlace formerTeam birthDate debutTeam
+manager club ground
+ground manager club club
+ground manager club club
+birthDate height club club
+birthDate height club club
+birthDate height club club
+birthDate height club club
+birthPlace height club club
+birthDate birthPlace club
+birthPlace height club birthYear
+birthPlace language leaderName anthem
+birthPlace leaderName anthem ethnicGroup
+birthPlace leaderName anthem language
+ground manager club club
+club season manager chairman
+city city formerTeam debutTeam
+club youthclub league manager
+location buildingStartDate completionDate floorCount
+location capital ethnicGroup ethnicGroup
+isPartOf country governingBody location
+location floorCount floorArea cost
+location isPartOf country leaderName
+location completionDate floorArea floorCount
+location owner isPartOf isPartOf
+location tenant architect floorCount
+location isPartOf location governmentType
+location country isPartOf ethnicGroup
+ethnicGroup country location isPartOf
+location location country ethnicGroup
+location location country ethnicGroup
+completionDate address location owner
+location country leaderName leaderName
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location isPartOf isPartOf leaderName
+leaderName location isPartOf country
+postalCode leaderName birthPlace architect
+postalCode leaderName birthPlace architect
+location country leaderName leaderName
+location country leaderName leaderName
+ethnicGroup country location location
+location capital leaderName leaderTitle
+location language leaderTitle leaderName
+periapsis epoch orbitalPeriod
+apoapsis escapeVelocity epoch orbitalPeriod
+apoapsis meanTemperature orbitalPeriod epoch
+periapsis escapeVelocity orbitalPeriod epoch
+periapsis formerName epoch discoverer
+birthPlace doctoralStudent almaMater discoverer
+birthPlace almaMater discoverer doctoralStudent
+discoverer doctoralStudent deathPlace
+almaMater deathCause deathPlace discoverer
+deathPlace nationality discoverer apoapsis
+nationality deathPlace discoverer deathCause
+deathPlace birthPlace discoverer periapsis
+discovered discoverer birthPlace deathPlace
+epoch formerName orbitalPeriod periapsis
+orbitalPeriod apoapsis escapeVelocity epoch
+orbitalPeriod mass epoch apoapsis
+periapsis orbitalPeriod epoch escapeVelocity
+epoch orbitalPeriod periapsis formerName
+epoch orbitalPeriod escapeVelocity apoapsis
+periapsis formerName orbitalPeriod epoch
+orbitalPeriod escapeVelocity epoch periapsis
+country ethnicGroup language
+areaTotal areaCode areaOfLand populationDensity
+countySeat isPartOf isPartOf country
+isPartOf country capital ethnicGroup
+capital isPartOf state country
+location leaderTitle isPartOf language
+isPartOf elevationAboveTheSeaLevel populationDensity areaTotal
+isPartOf isPartOf country areaTotal
+areaTotal populationTotal UTCOffset areaCode
+areaTotal populationDensity areaCode leaderTitle
+state isPartOf ethnicGroup country
+state country isPartOf ethnicGroup
+country capital isPartOf isPartOf
+isPartOf isPartOf capital country
+countySeat largestCity isPartOf isPartOf
+location isPartOf leaderTitle language
+countySeat isPartOf isPartOf country
+country isPartOf isPartOf capital
+isPartOf country language largestCity
+capital ethnicGroup country isPartOf
+isPartOf country largestCity capital
+ethnicGroup country leaderTitle leader
+country leader leaderTitle ethnicGroup
+isPartOf country capital ethnicGroup
+ethnicGroup country leader leaderTitle
+country isPartOf ethnicGroup language
+isPartOf country language ethnicGroup
+ethnicGroup country isPartOf language
+locationCity broadcastedBy product keyPerson
+starring creator broadcastedBy firstAired
+nationality creator series starring
+alternativeName creator creator nationality
+mainIngredients country region
+country leaderName leaderName capital
+region country mainIngredients
+mainIngredients region country
+region leaderName country ethnicGroup
+country region ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+country capital ethnicGroup leaderName
+leaderName capital country ethnicGroup
+dishVariation country ingredient dishVariation
+country mainIngredients alternativeName
+dishVariation course country ethnicGroup
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+ingredient region isPartOf dishVariation
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country leaderName leaderName language
+ingredient country dishVariation dishVariation
+region country mainIngredients
+course country mainIngredients
+region mainIngredients
+country region leaderName language
+region country mainIngredients
+alternativeName region country ingredient
+mainIngredients region alternativeName
+mainIngredients division order ingredient
+country region mainIngredients ingredient
+ingredient course country region
+region country mainIngredients ingredient
+course dishVariation country leaderName
+ingredient region country leaderName
+region country leaderName ethnicGroup
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+country language course dishVariation
+dishVariation course country language
+transmission manufacturer wheelbase engine
+manufacturer successor relatedMeanOfTransportation relatedMeanOfTransportation
+location builder owner operator
+builder owner length
+builder buildDate powerType engine
+buildDate builder engine length
+builder foundationPlace locationCountry length
+buildDate powerType engine builder
+engine cylinderCount builder buildDate
+assembly alternativeName engine bodyStyle
+alternativeName assembly class engine
+assembly engine class
+engine class assembly
+builder builder shipBeam status
+builder builder leaderName demonym
+builder builder shipBeam status
+relatedMeanOfTransportation engine relatedMeanOfTransportation assembly
+assembly relatedMeanOfTransportation engine relatedMeanOfTransportation
+status shipBeam shipLaunch
+successor manufacturer engine foundationPlace
+manufacturer engine successor foundationPlace
+successor manufacturer fate
+topSpeed shipBeam builder shipLaunch
+shipLaunch topSpeed shipBeam length
+manufacturer finalFlight maidenFlight launchSite
+manufacturer finalFlight maidenFlight launchSite
+assembly capital successor
+relatedMeanOfTransportation assembly engine relatedMeanOfTransportation
+relatedMeanOfTransportation engine manufacturer successor
+launchSite finalFlight diameter launchSite
+assembly engine class layout
+subsidiary foundedBy division manufacturer
+location powerType owner foundationPlace
+location owner operator builder
+launchSite countryOrigin comparable launchSite
+launchSite countryOrigin comparable launchSite
+assembly bodyStyle relatedMeanOfTransportation relatedMeanOfTransportation
+bodyStyle relatedMeanOfTransportation assembly relatedMeanOfTransportation
+locationCity parentCompany builder shipBeam
+country leaderName locationCity builder
+language countryOrigin ethnicGroup capital
+countryOrigin capital demonym ethnicGroup
+state country established category
+leaderName leaderTitle capital location
+dedicatedTo capital location nativeName
+established location district nearestCity
+material location capital leaderName
+designer leaderTitle inaugurationDate location
+birthPlace deathPlace battles award
+birthPlace deathPlace battles award
+office_(workedAt,_workedAs) birthPlace almaMater affiliation
+residence birthPlace region party
+birthPlace party region residence
+birthPlace successor residence party
+birthPlace residence successor party
+successor predecessor inOfficeWhileVicePresident militaryBranch
+successor militaryBranch predecessor inOfficeWhileVicePresident
+inOfficeWhilePrimeMinister birthPlace predecessor inOfficeWhileMonarch
+birthPlace party birthPlace office_(workedAt,_workedAs)
+nationality birthPlace spouse ethnicGroup
+activeYearsStartDate almaMater birthPlace battles
+nationality language battles commander
+deathPlace battles commander isPartOfMilitaryConflict
+birthPlace birthPlace successor office_(workedAt,_workedAs)
+birthPlace office_(workedAt,_workedAs) successor birthPlace
+birthPlace office_(workedAt,_workedAs) successor birthPlace
+currency nationality party
+party office_(workedAt,_workedAs) nationality leaderName
+nationality leaderName party
+nationality party colour leaderName
+activeYearsStartDate birthPlace activeYearsEndDate battles
+birthPlace activeYearsEndDate activeYearsStartDate battles
+unit garrison battles commander
+birthPlace deathPlace birthPlace successor
+activeYearsEndDate birthPlace activeYearsStartDate
+commander language birthPlace battles
+birthPlace commander battles deathPlace
+birthPlace birthPlace deathPlace deathPlace
+inOfficeWhilePresident deathPlace leaderName party
+office_(workedAt,_workedAs) birthPlace profession successor
+birthPlace successor party office_(workedAt,_workedAs)
+birthPlace militaryBranch office_(workedAt,_workedAs) battles
+birthPlace party successor office_(workedAt,_workedAs)
+birthPlace party office_(workedAt,_workedAs)
+office_(workedAt,_workedAs) birthPlace successor party
+birthPlace party successor office_(workedAt,_workedAs)
+office_(workedAt,_workedAs) region state largestCity
+region largestCity party leaderName
+commander award battles isPartOfMilitaryConflict
+nationality inOfficeWhilePresident party language
+party birthPlace inOfficeWhilePresident successor
+manager club club club
+placeOfBirth club club manager
+placeOfBirth club club manager
+league numberOfMembers chairman ground
+manager club ground leader
+ground leader manager club
+fullname season numberOfMembers ground
+fullname season numberOfMembers ground
+manager club club club
+numberOfMembers league ground season
+owner tenant operator ground
+fullname nickname numberOfMembers season
+manager club club club
+location ground league champions
+location country ground league
+league ground location country
+ground city isPartOf country
+leader leader capital ground
+manager club club club
+established city country river
+country affiliation city campus
+city country director affiliation
+was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody
+city capital isPartOf country
+city country governmentType leaderName
+city academicStaffSize state leaderName
+country anthem capital ethnicGroup
+city capital country leaderName
+birthPlace author precededBy precededBy
+mediaType author numberOfPages ISBN_number
+publisher parentCompany country leaderName
+author mediaType OCLC_number ISBN_number
+author mediaType OCLC_number ISBN_number
+language spokenIn country ethnicGroup
+publisher country ethnicGroup language
+author numberOfPages mediaType ISBN_number
+academicDiscipline abbreviation ISSN_number LCCN_number
+academicDiscipline abbreviation LCCN_number ISSN_number
+abbreviation LCCN_number ISSN_number publisher
+affiliation state publisher affiliation
+city state affiliation publisher
+ISBN_number numberOfPages author
+country ethnicGroup language spokenIn
+firstPublicationYear parentCompany publisher country
+country language spokenIn ethnicGroup
+language spokenIn country leaderName
+language country leaderName ethnicGroup
+country leaderName language spokenIn
+country language leaderName ethnicGroup
+location country isPartOf leaderName language
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation location ICAO_Location_Identifier
+location operatingOrganisation ICAO_Location_Identifier runwayLength runwayName
+location runwayName operatingOrganisation runwayLength ICAO_Location_Identifier
+operatingOrganisation battles transportAircraft attackAircraft aircraftFighter
+operatingOrganisation battles battles attackAircraft transportAircraft
+1st_runway_SurfaceType runwayName cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed location operatingOrganisation runwayName runwayLength
+operatingOrganisation location cityServed runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed country
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed location country runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed country leaderName leaderName language
+cityServed country leaderName leaderName language
+location isPartOf leaderName country cityServed
+cityServed leaderName capital country leaderName
+isPartOf ICAO_Location_Identifier location isPartOf country
+cityServed cityServed isPartOf isPartOf country
+cityServed cityServed isPartOf isPartOf country
+location isPartOf isPartOf aircraftHelicopter operatingOrganisation
+location aircraftHelicopter operatingOrganisation leaderName isPartOf
+cityServed country language leaderName leaderName
+associatedBand/associatedMusicalArtist bandMember stylisticOrigin genre associatedBand/associatedMusicalArtist
+genre origin background origin associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist activeYearsStartYear associatedBand/associatedMusicalArtist origin genre
+associatedBand/associatedMusicalArtist activeYearsStartYear genre origin associatedBand/associatedMusicalArtist
+birthPlace birthDate associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist birthPlace
+birthPlace birthDate background birthYear
+birthPlace birthDate occupation birthYear background
+derivative stylisticOrigin genre stylisticOrigin musicSubgenre
+birthPlace genre stylisticOrigin stylisticOrigin derivative
+birthPlace associatedBand/associatedMusicalArtist genre activeYearsStartYear associatedBand/associatedMusicalArtist
+genre instrument stylisticOrigin associatedBand/associatedMusicalArtist musicFusionGenre
+background origin origin birthPlace occupation
+birthPlace background musicFusionGenre birthYear genre
+genre activeYearsStartYear associatedBand/associatedMusicalArtist background associatedBand/associatedMusicalArtist
+birthYear birthPlace nationality birthPlace deathPlace
+birthPlace leaderName leaderTitle deathPlace deathPlace
+birthPlace leaderTitle leaderName deathPlace deathPlace
+associatedBand/associatedMusicalArtist genre activeYearsStartYear associatedBand/associatedMusicalArtist recordLabel
+location genre derivative recordLabel recordLabel
+musicFusionGenre genre derivative instrument stylisticOrigin
+musicFusionGenre genre derivative instrument stylisticOrigin
+birthPlace birthPlace background birthYear
+activeYearsStartYear associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist genre activeYearsStartYear associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+birthPlace genre birthYear occupation background
+birthPlace background genre birthYear occupation
+associatedBand/associatedMusicalArtist genre stylisticOrigin
+associatedBand/associatedMusicalArtist birthPlace genre activeYearsStartYear associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist activeYearsStartYear birthPlace associatedBand/associatedMusicalArtist genre
+associatedBand/associatedMusicalArtist instrument associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre
+associatedBand/associatedMusicalArtist recordLabel recordLabel associatedBand/associatedMusicalArtist activeYearsStartYear
+derivative birthPlace stylisticOrigin genre stylisticOrigin
+stylisticOrigin birthYear derivative genre stylisticOrigin
+birthPlace leaderName deathPlace deathPlace leaderTitle
+deathPlace language birthPlace leaderName ethnicGroup
+location recordLabel genre musicFusionGenre recordLabel
+location genre recordLabel recordLabel musicFusionGenre
+genre musicFusionGenre stylisticOrigin stylisticOrigin instrument
+stylisticOrigin stylisticOrigin musicFusionGenre instrument genre
+associatedBand/associatedMusicalArtist instrument musicFusionGenre associatedBand/associatedMusicalArtist genre
+leaderName deathPlace country language leaderName
+birthPlace nationality status occupation was_selected_by_NASA
+birthPlace higher awards was_a_crew_member_of operator
+nationality birthPlace was_a_crew_member_of operator commander
+birthPlace nationality birthDate occupation was_a_crew_member_of
+nationality birthPlace occupation was_a_crew_member_of operator
+birthPlace almaMater status was_a_crew_member_of occupation
+status birthPlace was_a_crew_member_of operator backup_pilot
+birthDate operator was_a_crew_member_of backup_pilot status
+was_a_crew_member_of operator deathPlace senators gemstone
+nationality birthPlace awards higher deathPlace
+birthPlace was_a_crew_member_of dateOfRetirement nationality occupation
+manager youthclub club league club
+deathPlace club club manager
+ground chairman club manager club
+league position manager club club
+chairman currentclub manager club club
+youthclub club club league manager
+club club chairman ground manager
+manager ground chairman club club
+club ground manager youthclub club
+birthPlace club manager season club
+ground manager chairman club club
+ground chairman club club manager
+location isPartOf isPartOf country completionDate
+buildingStartDate architecturalStyle location floorCount floorArea
+location isPartOf country capital leaderName
+tenant location leaderName language foundationPlace
+tenant location language keyPerson foundationPlace
+location tenant foundationPlace language leaderName
+leaderName significantBuilding country architect birthPlace
+completionDate currentTenants buildingStartDate height floorArea
+location country address location floorCount
+location isPartOf country leaderName ethnicGroup
+currentTenants architect location country owner
+leaderName leaderTitle country location location
+region state country leaderName leaderName
+governingBody country state leaderName capital
+birthPlace architect significantProject significantBuilding significantBuilding
+birthPlace architect significantProject significantBuilding significantBuilding
+location isPartOf isPartOf country leaderName
+postalCode governingBody leaderName birthPlace architect
+leaderName location capital leaderName leaderTitle
+apoapsis orbitalPeriod mass periapsis epoch
+nationality almaMater discoverer discovered deathPlace
+stateOfOrigin almaMater discoverer deathCause deathPlace
+birthPlace discoverer almaMater doctoralStudent deathPlace
+birthPlace discoverer doctoralStudent almaMater doctoralStudent
+nationality birthPlace doctoralStudent almaMater discoverer
+nationality deathPlace almaMater discovered discoverer
+periapsis discoverer almaMater nationality deathPlace
+periapsis apoapsis epoch orbitalPeriod discoverer
+discoverer orbitalPeriod periapsis apoapsis epoch
+discoverer apoapsis orbitalPeriod periapsis epoch
+nationality discoverer absoluteMagnitude birthPlace deathPlace
+orbitalPeriod formerName epoch escapeVelocity apoapsis
+escapeVelocity mass apoapsis orbitalPeriod epoch
+periapsis apoapsis temperature orbitalPeriod epoch
+country isPartOf leaderTitle ethnicGroup demonym
+ethnicGroup largestCity isPartOf country
+language capital isPartOf state country
+state capital isPartOf country language
+capital state isPartOf country language
+areaTotal populationDensity isPartOf isPartOf country
+leaderTitle isPartOf isPartOf isPartOf language
+areaOfLand areaTotal isPartOf areaCode populationDensity
+isPartOf populationDensity areaTotal isPartOf elevationAboveTheSeaLevel
+country capital isPartOf state ethnicGroup
+populationDensity isPartOf country areaTotal isPartOf
+largestCity isPartOf countySeat isPartOf language
+largestCity isPartOf isPartOf countySeat language
+language largestCity isPartOf isPartOf countySeat
+country isPartOf isPartOf language capital
+language largestCity isPartOf isPartOf countySeat
+largestCity isPartOf capital isPartOf country
+isPartOf country largestCity capital ethnicGroup
+demonym isPartOf country ethnicGroup capital
+isPartOf country capital ethnicGroup
+isPartOf demonym language country ethnicGroup
+isPartOf country state ethnicGroup capital
+isPartOf ethnicGroup countySeat isPartOf country
+isPartOf country capital ethnicGroup largestCity
+isPartOf language leader country leaderTitle
+isPartOf ethnicGroup language country demonym
+leader capital ethnicGroup isPartOf country
+ethnicGroup isPartOf country leaderTitle demonym
+nationality series creator creator starring
+country currency language leaderName
+country capital region ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup capital region
+country region ethnicGroup ethnicGroup capital
+region country leaderName ethnicGroup ethnicGroup
+region country mainIngredients
+leaderName ethnicGroup language capital country
+dishVariation country mainIngredients alternativeName
+region country language leaderName leaderName
+ingredient family order country region
+country ingredient leaderName leaderName language
+ingredient dishVariation dishVariation country leaderName
+dishVariation country leaderName ingredient dishVariation
+ingredient dishVariation dishVariation leaderName country
+region country mainIngredients alternativeName
+region country leaderName leaderName
+region country demonym leaderName leaderName
+course region country mainIngredients
+course dishVariation leaderName language country
+region leaderName country dishVariation course
+region country leaderName leaderName ethnicGroup
+country capital leaderName leaderName language
+leaderName leaderName country demonym capital
+country leaderName capital leaderName language
+ingredient country region ethnicGroup
+region ethnicGroup leaderName language country
+language language ethnicGroup ethnicGroup country
+country region leaderName language ethnicGroup
+leaderName country region leaderName demonym
+builder owner location operator parentCompany
+shipBeam length builder
+builder length cylinderCount engine buildDate
+cylinderCount engine length builder buildDate
+countryOrigin demonym ethnicGroup capital anthem
+engine assembly alternativeName bodyStyle class
+location shipBeam builder powerType owner
+successor fate keyPerson subsidiary manufacturer
+length shipLaunch shipBeam topSpeed shipDraft
+associatedRocket countryOrigin comparable launchSite
+manufacturer launchSite finalFlight maidenFlight diameter
+diameter launchSite finalFlight manufacturer maidenFlight
+diameter launchSite maidenFlight finalFlight manufacturer
+headquarter site operator locationCity launchSite
+engine relatedMeanOfTransportation manufacturer successor assembly
+relatedMeanOfTransportation assembly engine relatedMeanOfTransportation bodyStyle
+successor relatedMeanOfTransportation assembly manufacturer leaderName
+bodyStyle assembly layout engine class
+subsidiary subsidiary foundedBy division manufacturer
+owner foundationPlace foundationPlace location powerType
+foundationPlace powerType keyPerson owner location
+location foundationPlace powerType owner keyPerson
+parentCompany builder location owner operator
+builder builder language demonym leaderName
+builder locationCity country capital leaderName
+leaderName locationCity builder country capital
+ethnicGroup capital countryOrigin language demonym
+municipality location country established category
+location category has_to_its_north has_to_its_southeast has_to_its_southwest
+location dedicatedTo leaderTitle leaderName capital
+leaderName legislature capital location dedicatedTo
+leader largestCity location leaderTitle capital
+birthPlace birthDate region party residence
+successor birthPlace residence almaMater party
+predecessor successor inOfficeWhileVicePresident militaryBranch activeYearsEndDate
+inOfficeWhileVicePresident predecessor militaryBranch successor activeYearsEndDate
+nationality birthPlace deathPlace party office_(workedAt,_workedAs)
+office_(workedAt,_workedAs) nationality birthPlace party deathPlace
+nationality birthPlace deathPlace spouse ethnicGroup
+office_(workedAt,_workedAs) birthPlace militaryBranch activeYearsStartDate almaMater
+activeYearsStartDate birthPlace almaMater party militaryBranch
+birthPlace birthPlace inOfficeWhilePrimeMinister inOfficeWhilePrimeMinister successor
+nationality leaderName office_(workedAt,_workedAs) party
+residence nationality leaderName leaderName office_(workedAt,_workedAs)
+residence nationality party leaderName
+birthDate deathYear birthYear deathPlace dateOfDeath
+birthPlace birthPlace spouse successor deathPlace
+office_(workedAt,_workedAs) activeYearsEndDate successor birthPlace spouse
+successor party birthPlace activeYearsEndDate activeYearsStartDate
+inOfficeWhilePresident spouse party deathPlace leaderName
+birthDate profession successor office_(workedAt,_workedAs) birthPlace
+deathPlace birthPlace party birthPlace deathPlace
+birthPlace deathPlace deathPlace birthPlace party
+state deathPlace activeYearsEndDate largestCity region
+state birthPlace largestCity deathPlace region
+country isPartOfMilitaryConflict battles ethnicGroup commander
+country isPartOfMilitaryConflict battles ethnicGroup commander
+inOfficeWhilePresident party spouse nationality language
+manager ground leader club club
+leader ground manager club club
+champions league language ground leader
+club location club manager ground
+capital ground leader demonym language
+ground capital leader demonym officialLanguage
+city has_to_its_northwest state academicStaffSize established
+affiliation campus director numberOfPostgraduateStudents
+city country numberOfPostgraduateStudents president affiliation
+leaderTitle leaderName country affiliation headquarters
+city established largestCity country academicStaffSize
+state country leaderName largestCity river
+city country established academicStaffSize leaderName
+headquarters has_to_its_northeast governmentType affiliation city
+language author precededBy followedBy
+city president publisher affiliation affiliation
+publisher country language spokenIn ethnicGroup
+spokenIn language country publisher ethnicGroup
+spokenIn publisher country ethnicGroup language
+country ethnicGroup capital language spokenIn
+country precededBy precededBy followedBy followedBy
+country leaderName ethnicGroup language spokenIn
+country leaderName ethnicGroup language spokenIn
+country capital leaderName ethnicGroup
+country capital leaderName demonym ethnicGroup
+language spokenIn country ethnicGroup leaderTitle
+nationality status birthPlace birthDate occupation timeInSpace
+birthPlace was_a_crew_member_of higher deathPlace awards operator
+birthName dateOfRetirement was_a_crew_member_of operator commander backup_pilot
+nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace birthDate was_a_crew_member_of almaMater operator backup_pilot
+nationality operator birthPlace occupation was_a_crew_member_of backup_pilot
+birthDate birthPlace occupation was_a_crew_member_of almaMater was_selected_by_NASA
+deathPlace gemstone fossil senators awards higher
+birthPlace occupation was_a_crew_member_of almaMater nationality dateOfRetirement
+birthPlace dateOfRetirement was_a_crew_member_of operator crewMembers backup_pilot
+status almaMater operator was_a_crew_member_of crewMembers backup_pilot
+location state location country category established
+category location has_to_its_southeast has_to_its_north has_to_its_southwest has_to_its_west
+dedicatedTo designer material location capital leader
+leaderName location material dedicatedTo nativeName designer
+established category district location country
+city location country dean academicStaffSize established
+campus affiliation numberOfPostgraduateStudents
+city country affiliation president established campus
+country religion affiliation leaderTitle headquarters leaderName
+city affiliation headquarters dean country leaderName
+state established largestCity country leaderName river
+country ethnicGroup anthem patronSaint leaderName capital
+city leaderName established academicStaffSize numberOfStudents country
+nationality birthPlace occupation birthDate almaMater was_a_crew_member_of status
+birthDate birthPlace almaMater deathPlace occupation was_selected_by_NASA
+was_a_crew_member_of birthPlace nationality occupation operator backup_pilot commander
+alternativeNames birthDate birthPlace was_selected_by_NASA almaMater occupation was_a_crew_member_of
+nationality occupation birthPlace birthDate timeInSpace was_a_crew_member_of almaMater
+birthPlace nationality awards status was_a_crew_member_of almaMater birthDate
+birthDate status nationality was_a_crew_member_of operator birthPlace was_selected_by_NASA
+birthPlace almaMater nationality was_a_crew_member_of operator backup_pilot status
+birthPlace birthDate dateOfRetirement occupation was_a_crew_member_of
+crewMembers was_a_crew_member_of nationality birthPlace dateOfRetirement backup_pilot operator
+birthPlace occupation was_selected_by_NASA dateOfRetirement birthDate was_a_crew_member_of timeInSpace
+inaugurationDate material largestCity capital leaderName location
+location material leader capital leaderTitle designer inaugurationDate
+location largestCity currency capital leaderName inaugurationDate
+leaderTitle dean numberOfStudents city country academicStaffSize established
+country state director city president established motto
+was_given_the_'Technical_Campus'_status_by location sportsOffered state has_to_its_northeast has_to_its_west sportsGoverningBody
+city ethnicGroup country leaderName anthem leaderTitle capital
+academicStaffSize dean affiliation leaderName country established city
+leaderTitle leaderName governmentType country city affiliation headquarters
+numberOfStudents latinName dean city country established affiliation
