@@ -24,7 +24,7 @@ In the CoNLL-U format:
 ![image](https://github.com/mille-s/Text_Structuring/blob/main/images/textStruct2.png)
 
 ## Data description
-I describe here the data that can be produced by the [WebNLG_TextStructuring.ipynb](https://github.com/mille-s/Text_Structuring/blob/main/WebNLG_TextStructuring.ipynb) code. Each produced train/dev/test file has an extension that keeps track of what is inside, e.g. train_2AO, dev_2TOcad1r2. Codes are explained below:
+I describe here the data that can be produced by the [WebNLG_TextStructuring.ipynb](https://github.com/mille-s/Text_Structuring/blob/main/WebNLG_TextStructuring.ipynb) code and found in [this folder](https://github.com/mille-s/Text_Structuring/tree/main/data/webnlg/Parsing4). Each produced train/dev/test file has an extension that keeps track of what is inside, e.g. train_2AO, dev_2TOcad1r2. Codes are explained below:
 - Input Size (mandatory)
   - Description: the size of the inputs in the data.
   - Possible values/Codes: 2-7 (**2**), 3-7 (**3**).
