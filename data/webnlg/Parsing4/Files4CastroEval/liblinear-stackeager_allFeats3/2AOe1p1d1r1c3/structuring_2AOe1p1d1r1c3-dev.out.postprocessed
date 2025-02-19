@@ -1,0 +1,644 @@
+<SNT> cityServed isPartOf </SNT>
+<SNT> location runwayLength </SNT>
+<SNT> location runwayLength </SNT>
+<SNT> location leaderName </SNT>
+<SNT> location elevationAboveTheSeaLevel_(in_feet) </SNT>
+<SNT> operatingOrganisation battles </SNT>
+<SNT> operatingOrganisation battles </SNT>
+<SNT> location isPartOf </SNT>
+<SNT> 1st_runway_SurfaceType runwayLength </SNT>
+<SNT> operatingOrganisation headquarter </SNT>
+<SNT> location isPartOf </SNT>
+<SNT> operatingOrganisation elevationAboveTheSeaLevel_(in_metres) </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) 4th_runway_SurfaceType </SNT>
+<SNT> location capital </SNT>
+<SNT> cityServed elevationAboveTheSeaLevel_(in_metres) </SNT>
+<SNT> location country </SNT>
+<SNT> operatingOrganisation elevationAboveTheSeaLevel_(in_metres) </SNT>
+<SNT> cityServed isPartOf </SNT>
+<SNT> order 2nd_runway_SurfaceType </SNT>
+<SNT> 3rd_runway_SurfaceType class </SNT>
+<SNT> location runwayLength </SNT>
+<SNT> location cityServed </SNT>
+<SNT> cityServed runwayLength </SNT>
+<SNT> location isPartOf </SNT>
+<SNT> was_a_crew_member_of dateOfRetirement </SNT>
+<SNT> nationality birthPlace </SNT>
+<SNT> occupation status </SNT>
+<SNT> was_a_crew_member_of operator </SNT>
+<SNT> occupation was_a_crew_member_of </SNT>
+<SNT> location ethnicGroup </SNT>
+<SNT> location floorCount </SNT>
+<SNT> location leaderTitle </SNT>
+<SNT> location leaderName </SNT>
+<SNT> floorCount location </SNT>
+<SNT> location architect </SNT>
+<SNT> location owner </SNT>
+<SNT> location owner </SNT>
+<SNT> tenant floorCount </SNT>
+<SNT> height currentTenants </SNT>
+<SNT> location architecturalStyle </SNT>
+<SNT> country language </SNT>
+<SNT> address buildingStartDate </SNT>
+<SNT> location owner </SNT>
+<SNT> tenant architect </SNT>
+<SNT> country region </SNT>
+<SNT> country capital </SNT>
+<SNT> location ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> location ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> location added_to_the_National_Register_of_Historic_Places </SNT>
+<SNT> yearOfConstruction location </SNT>
+<SNT> location leaderName </SNT>
+<SNT> creator creator </SNT>
+<SNT> creator </SNT>
+<SNT> alternativeName creator </SNT>
+<SNT> broadcastedBy starring </SNT>
+<SNT> birthPlace starring </SNT>
+<SNT> nationality creator </SNT>
+<SNT> alternativeName creator </SNT>
+<SNT> creator creator </SNT>
+<SNT> creator creator </SNT>
+<SNT> ingredient country </SNT>
+<SNT> region ingredient </SNT>
+<SNT> ingredient region </SNT>
+<SNT> region country </SNT>
+<SNT> ingredient region </SNT>
+<SNT> ingredient country </SNT>
+<SNT> capital country </SNT>
+<SNT> ingredient country </SNT>
+<SNT> country ingredient </SNT>
+<SNT> region ingredient </SNT>
+<SNT> country mainIngredients </SNT>
+<SNT> ingredient country </SNT>
+<SNT> country leaderName </SNT>
+<SNT> course ingredient </SNT>
+<SNT> ingredient alternativeName </SNT>
+<SNT> ingredient country </SNT>
+<SNT> country language </SNT>
+<SNT> course dishVariation </SNT>
+<SNT> creator mainIngredients </SNT>
+<SNT> dishVariation ingredient </SNT>
+<SNT> ingredient genus </SNT>
+<SNT> ingredient country </SNT>
+<SNT> country ethnicGroup </SNT>
+<SNT> region language </SNT>
+<SNT> region leaderName </SNT>
+<SNT> country leaderName </SNT>
+<SNT> ingredient similarDish </SNT>
+<SNT> mainIngredients ingredient </SNT>
+<SNT> ingredient mainIngredients </SNT>
+<SNT> ingredient division </SNT>
+<SNT> order mainIngredients </SNT>
+<SNT> course ingredient </SNT>
+<SNT> course dishVariation </SNT>
+<SNT> course dishVariation </SNT>
+<SNT> dishVariation ingredient </SNT>
+<SNT> location inaugurationDate </SNT>
+<SNT> material dedicatedTo </SNT>
+<SNT> material nativeName </SNT>
+<SNT> material dedicatedTo </SNT>
+<SNT> league champions </SNT>
+<SNT> league ground </SNT>
+<SNT> ground leader </SNT>
+<SNT> manager club </SNT>
+<SNT> league numberOfMembers </SNT>
+<SNT> manager club </SNT>
+<SNT> manager club </SNT>
+<SNT> numberOfMembers ground </SNT>
+<SNT> numberOfMembers ground </SNT>
+<SNT> manager club </SNT>
+<SNT> league ground </SNT>
+<SNT> league country </SNT>
+<SNT> manager club </SNT>
+<SNT> numberOfMembers owner </SNT>
+<SNT> ground leader </SNT>
+<SNT> numberOfMembers season </SNT>
+<SNT> ground location </SNT>
+<SNT> fullname numberOfMembers </SNT>
+<SNT> ground location </SNT>
+<SNT> fullname numberOfMembers </SNT>
+<SNT> ground country </SNT>
+<SNT> manager club </SNT>
+<SNT> campus director </SNT>
+<SNT> was_given_the_'Technical_Campus'_status_by officialSchoolColour </SNT>
+<SNT> sportsOffered sportsGoverningBody </SNT>
+<SNT> affiliation headquarters </SNT>
+<SNT> state has_to_its_west </SNT>
+<SNT> author precededBy </SNT>
+<SNT> author mediaType </SNT>
+<SNT> author mediaType </SNT>
+<SNT> abbreviation CODEN_code </SNT>
+<SNT> country leaderName </SNT>
+<SNT> author ISBN_number </SNT>
+<SNT> mediaType ISBN_number </SNT>
+<SNT> mediaType ISBN_number </SNT>
+<SNT> numberOfPages mediaType </SNT>
+<SNT> OCLC_number ISBN_number </SNT>
+<SNT> country ethnicGroup </SNT>
+<SNT> country publisher </SNT>
+<SNT> author OCLC_number </SNT>
+<SNT> mediaType ISBN_number </SNT>
+<SNT> numberOfPages ISBN_number </SNT>
+<SNT> precededBy country </SNT>
+<SNT> language followedBy </SNT>
+<SNT> precededBy precededBy </SNT>
+<SNT> founder publisher </SNT>
+<SNT> abbreviation CODEN_code </SNT>
+<SNT> publisher affiliation </SNT>
+<SNT> author ISBN_number </SNT>
+<SNT> mediaType ISBN_number </SNT>
+<SNT> numberOfPages ISBN_number </SNT>
+<SNT> academicDiscipline family </SNT>
+<SNT> country language </SNT>
+<SNT> cityServed isPartOf country </SNT>
+<SNT> cityServed cityServed </SNT> <SNT> runwayLength </SNT>
+<SNT> location runwayName runwayLength </SNT>
+<SNT> ICAO_Location_Identifier operatingOrganisation location </SNT>
+<SNT> location operatingOrganisation runwayLength </SNT>
+<SNT> operatingOrganisation battles battles </SNT>
+<SNT> battles operatingOrganisation battles </SNT>
+<SNT> operatingOrganisation battles battles </SNT>
+<SNT> 1st_runway_SurfaceType runwayLength </SNT>
+<SNT> location elevationAboveTheSeaLevel_(in_metres) runwayLength </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength </SNT>
+<SNT> largestCity location country </SNT>
+<SNT> country location runwayLength </SNT>
+<SNT> location runwayName country </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) operatingOrganisation </SNT>
+<SNT> operatingOrganisation cityServed </SNT>
+<SNT> isPartOf cityServed isPartOf </SNT>
+<SNT> location country isPartOf </SNT>
+<SNT> 3rd_runway_SurfaceType division order </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) location runwayLength </SNT>
+<SNT> leaderName country cityServed </SNT>
+<SNT> location runwayName country </SNT>
+<SNT> cityServed country leaderName </SNT>
+<SNT> 2nd_runway_SurfaceType class order </SNT>
+<SNT> was_a_crew_member_of operator commander </SNT>
+<SNT> deathDate senators deathPlace </SNT>
+<SNT> almaMater alternativeNames was_a_crew_member_of </SNT>
+<SNT> birthPlace was_a_crew_member_of timeInSpace </SNT>
+<SNT> fossil awards deathPlace </SNT>
+<SNT> deathPlace was_selected_by_NASA deathDate </SNT>
+<SNT> birthPlace birthDate </SNT>
+<SNT> birthDate birthPlace was_a_crew_member_of </SNT>
+<SNT> location capital leaderName </SNT>
+<SNT> location ethnicGroup leaderName </SNT>
+<SNT> leaderName location ethnicGroup </SNT>
+<SNT> location country leaderName </SNT>
+<SNT> location isPartOf </SNT>
+<SNT> leaderName location country </SNT>
+<SNT> location architect completionDate </SNT>
+<SNT> architect completionDate location </SNT>
+<SNT> owner location country </SNT>
+<SNT> architect location tenant </SNT>
+<SNT> owner completionDate architect </SNT>
+<SNT> currentTenants height floorArea </SNT>
+<SNT> completionDate location architecturalStyle </SNT>
+<SNT> inaugurationDate floorCount floorArea </SNT>
+<SNT> location </SNT>
+<SNT> buildingStartDate location owner </SNT>
+<SNT> chancellor location owner </SNT>
+<SNT> location currentTenants country </SNT>
+<SNT> owner buildingStartDate location </SNT>
+<SNT> region bedCount country </SNT>
+<SNT> country leaderName state </SNT>
+<SNT> location yearOfConstruction added_to_the_National_Register_of_Historic_Places </SNT>
+<SNT> location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> country location isPartOf </SNT>
+<SNT> country leaderName leaderName </SNT>
+<SNT> creator nationality creator </SNT>
+<SNT> broadcastedBy locationCity keyPerson </SNT>
+<SNT> firstAired starring broadcastedBy </SNT>
+<SNT> firstAppearanceInFilm creator creator </SNT>
+<SNT> fullName creator creator </SNT>
+<SNT> alternativeName creator creator </SNT>
+<SNT> creator creator alternativeName </SNT>
+<SNT> alternativeName creator creator </SNT>
+<SNT> alternativeName country ingredient </SNT>
+<SNT> region country ingredient </SNT>
+<SNT> country leaderName leaderName </SNT>
+<SNT> region leaderName country </SNT>
+<SNT> leaderName country language </SNT>
+<SNT> ingredient country region </SNT>
+<SNT> country ingredient region </SNT>
+<SNT> region ingredient country </SNT>
+<SNT> country ingredient region </SNT>
+<SNT> country region </SNT> <SNT> mainIngredients </SNT>
+<SNT> mainIngredients country region </SNT>
+<SNT> ingredient mainIngredients country </SNT>
+<SNT> country </SNT>
+<SNT> leaderName country capital </SNT>
+<SNT> country ethnicGroup leaderName </SNT>
+<SNT> ingredient dishVariation country </SNT>
+<SNT> country ingredient region </SNT>
+<SNT> ingredient country region </SNT>
+<SNT> dishVariation course ingredient </SNT>
+<SNT> course ingredient dishVariation </SNT>
+<SNT> region ingredient country </SNT>
+<SNT> leaderName country leaderName </SNT>
+<SNT> protein dishVariation carbohydrate </SNT>
+<SNT> currency country leaderName </SNT>
+<SNT> ingredient country </SNT>
+<SNT> country leaderName region </SNT>
+<SNT> country mainIngredients </SNT>
+<SNT> country demonym leaderName </SNT>
+<SNT> leaderName country leaderName </SNT>
+<SNT> region mainIngredients </SNT>
+<SNT> country ingredient mainIngredients </SNT>
+<SNT> country course ingredient </SNT>
+<SNT> region country ingredient </SNT>
+<SNT> ingredient genus family </SNT>
+<SNT> ingredient course dishVariation </SNT>
+<SNT> leaderName capital country </SNT>
+<SNT> ethnicGroup country region </SNT>
+<SNT> ethnicGroup country region </SNT>
+<SNT> country language leaderName </SNT>
+<SNT> location has_to_its_west has_to_its_southwest </SNT>
+<SNT> dedicatedTo location leader </SNT>
+<SNT> dedicatedTo designer location </SNT>
+<SNT> location leaderName designer </SNT>
+<SNT> location designer nativeName </SNT>
+<SNT> numberOfMembers league ground </SNT>
+<SNT> manager club club </SNT>
+<SNT> league numberOfMembers season </SNT>
+<SNT> location leader leader </SNT>
+<SNT> club manager club </SNT>
+<SNT> club manager club </SNT>
+<SNT> club manager club </SNT>
+<SNT> ground fullname numberOfMembers </SNT>
+<SNT> manager club club </SNT>
+<SNT> fullname numberOfMembers ground </SNT>
+<SNT> league numberOfMembers ground </SNT>
+<SNT> numberOfMembers league season </SNT>
+<SNT> ground league champions </SNT>
+<SNT> fullname numberOfMembers season </SNT>
+<SNT> manager club club </SNT>
+<SNT> ground league champions </SNT>
+<SNT> champions league country </SNT>
+<SNT> ground league champions </SNT>
+<SNT> league numberOfMembers champions </SNT>
+<SNT> ground leader demonym </SNT>
+<SNT> location mayor ground </SNT>
+<SNT> dean numberOfStudents country </SNT>
+<SNT> country city motto </SNT>
+<SNT> city country president </SNT>
+<SNT> established sportsOffered sportsGoverningBody </SNT>
+<SNT> river country largestCity </SNT>
+<SNT> leaderName leaderTitle country </SNT>
+<SNT> latinName patronSaint country </SNT>
+<SNT> academicStaffSize established numberOfStudents </SNT>
+<SNT> ISBN_number mediaType author </SNT>
+<SNT> birthPlace precededBy author </SNT>
+<SNT> numberOfPages mediaType author </SNT>
+<SNT> ISBN_number mediaType author </SNT>
+<SNT> author numberOfPages mediaType </SNT>
+<SNT> ISSN_number abbreviation academicDiscipline </SNT>
+<SNT> abbreviation ISSN_number academicDiscipline </SNT>
+<SNT> country leaderName publisher </SNT>
+<SNT> editor residence publisher </SNT>
+<SNT> abbreviation editor CODEN_code </SNT>
+<SNT> ISBN_number mediaType OCLC_number </SNT>
+<SNT> followedBy language spokenIn </SNT>
+<SNT> publisher country ethnicGroup </SNT>
+<SNT> publisher leaderName country </SNT>
+<SNT> LibraryofCongressClassification mediaType OCLC_number </SNT>
+<SNT> numberOfPages mediaType ISBN_number </SNT>
+<SNT> author mediaType OCLC_number </SNT>
+<SNT> mediaType author ISBN_number </SNT>
+<SNT> country precededBy precededBy </SNT>
+<SNT> abbreviation ISSN_number LCCN_number </SNT>
+<SNT> ISSN_number abbreviation academicDiscipline </SNT>
+<SNT> ISSN_number abbreviation LCCN_number </SNT>
+<SNT> abbreviation ISSN_number </SNT>
+<SNT> mediaType author OCLC_number </SNT>
+<SNT> author mediaType ISBN_number </SNT>
+<SNT> academicDiscipline ISSN_number abbreviation </SNT>
+<SNT> abbreviation firstPublicationYear ISSN_number </SNT>
+<SNT> abbreviation publisher </SNT> <SNT> founder </SNT>
+<SNT> country publisher leaderName </SNT>
+<SNT> leaderName country ethnicGroup </SNT>
+<SNT> country language ethnicGroup </SNT>
+<SNT> cityServed country </SNT> <SNT> runwayLength </SNT>
+<SNT> locationCity location operatingOrganisation country </SNT>
+<SNT> operatingOrganisation location </SNT> <SNT> runwayName runwayLength </SNT>
+<SNT> isPartOf location isPartOf elevationAboveTheSeaLevel_(in_metres) </SNT>
+<SNT> location leaderName </SNT> <SNT> isPartOf isPartOf </SNT>
+<SNT> operatingOrganisation battles </SNT> <SNT> attackAircraft aircraftFighter </SNT>
+<SNT> attackAircraft operatingOrganisation battles aircraftFighter </SNT>
+<SNT> attackAircraft operatingOrganisation aircraftFighter battles </SNT>
+<SNT> operatingOrganisation battles </SNT> <SNT> attackAircraft aircraftFighter </SNT>
+<SNT> operatingOrganisation </SNT> <SNT> headquarter location </SNT> <SNT> leaderTitle </SNT>
+<SNT> cityServed </SNT> <SNT> location elevationAboveTheSeaLevel_(in_metres) </SNT> <SNT> runwayLength </SNT>
+<SNT> runwayName elevationAboveTheSeaLevel_(in_metres) </SNT> <SNT> runwayLength cityServed </SNT>
+<SNT> location demonym capital language </SNT>
+<SNT> location demonym </SNT> <SNT> country language </SNT>
+<SNT> country location demonym language </SNT>
+<SNT> country largestCity location capital </SNT>
+<SNT> location elevationAboveTheSeaLevel_(in_metres) isPartOf country </SNT>
+<SNT> cityServed leaderName country </SNT>
+<SNT> location runwayLength cityServed elevationAboveTheSeaLevel_(in_metres) </SNT>
+<SNT> cityServed location isPartOf isPartOf </SNT>
+<SNT> 3rd_runway_SurfaceType class order order </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) runwayName 3rd_runway_SurfaceType runwayLength </SNT>
+<SNT> runwayLength isPartOf location country </SNT>
+<SNT> location operatingOrganisation country locationCity </SNT>
+<SNT> country location isPartOf runwayLength </SNT>
+<SNT> order class division 2nd_runway_SurfaceType </SNT>
+<SNT> operator nationality was_a_crew_member_of commander </SNT>
+<SNT> birthDate dateOfRetirement </SNT> <SNT> almaMater birthPlace </SNT>
+<SNT> birthPlace occupation deathPlace </SNT>
+<SNT> birthPlace occupation was_a_crew_member_of operator </SNT>
+<SNT> was_a_crew_member_of backup_pilot operator </SNT> <SNT> commander </SNT>
+<SNT> birthPlace nationality isPartOf leaderName </SNT>
+<SNT> birthDate birthPlace almaMater deathPlace </SNT>
+<SNT> occupation almaMater deathPlace deathDate </SNT>
+<SNT> almaMater affiliations </SNT> <SNT> deathPlace isPartOf </SNT>
+<SNT> birthDate deathPlace birthPlace deathDate </SNT>
+<SNT> dateOfRetirement was_a_crew_member_of backup_pilot commander </SNT>
+<SNT> location ethnicGroup </SNT> <SNT> leaderName capital </SNT>
+<SNT> ethnicGroup location ethnicGroup </SNT> <SNT> capital </SNT>
+<SNT> location isPartOf governingBody </SNT>
+<SNT> floorCount buildingStartDate architecturalStyle floorArea </SNT>
+<SNT> isPartOf location country </SNT> <SNT> leaderName </SNT>
+<SNT> owner leaderName location country </SNT>
+<SNT> owner location leaderName isPartOf </SNT>
+<SNT> tenant owner location </SNT> <SNT> floorCount </SNT>
+<SNT> owner architect floorCount tenant </SNT>
+<SNT> completionDate location buildingStartDate architecturalStyle </SNT>
+<SNT> location country language capital </SNT>
+<SNT> completionDate location architecturalStyle buildingStartDate </SNT>
+<SNT> ethnicGroup country </SNT>
+<SNT> architect country currentTenants location </SNT>
+<SNT> currentTenants location completionDate country </SNT>
+<SNT> location leaderName </SNT> <SNT> leaderName country </SNT>
+<SNT> address location location country </SNT>
+<SNT> location location country leaderName </SNT>
+<SNT> state </SNT>
+<SNT> birthPlace architect significantBuilding significantBuilding </SNT>
+<SNT> architect birthPlace significantBuilding significantBuilding </SNT>
+<SNT> isPartOf location isPartOf </SNT> <SNT> country </SNT>
+<SNT> architect hometown postalCode leaderName </SNT>
+<SNT> isPartOf leaderName location country </SNT>
+<SNT> leaderTitle location capital </SNT> <SNT> leaderName </SNT>
+<SNT> broadcastedBy firstAired </SNT> <SNT> creator starring </SNT>
+<SNT> creator alternativeName creator nationality </SNT>
+<SNT> series starring creator nationality </SNT>
+<SNT> creator nationality </SNT> <SNT> series starring </SNT>
+<SNT> series starring creator nationality </SNT>
+<SNT> country mainIngredients region </SNT>
+<SNT> alternativeName country ingredient region </SNT>
+<SNT> region dishVariation </SNT> <SNT> ingredient mainIngredients </SNT>
+<SNT> course mainIngredients </SNT> <SNT> region ingredient </SNT>
+<SNT> region country mainIngredients </SNT>
+<SNT> region country mainIngredients </SNT>
+<SNT> mainIngredients country region </SNT>
+<SNT> country region mainIngredients </SNT>
+<SNT> alternativeName mainIngredients region country </SNT>
+<SNT> country ethnicGroup </SNT> <SNT> ethnicGroup region </SNT>
+<SNT> mainIngredients ingredient country region </SNT>
+<SNT> country leaderName capital ethnicGroup </SNT>
+<SNT> country alternativeName </SNT> <SNT> dishVariation ingredient </SNT>
+<SNT> alternativeName ingredient country dishVariation </SNT>
+<SNT> alternativeName mainIngredients country </SNT>
+<SNT> region country </SNT> <SNT> mainIngredients </SNT>
+<SNT> region mainIngredients </SNT>
+<SNT> region dishVariation isPartOf ingredient </SNT>
+<SNT> mainIngredients dishVariation course region </SNT>
+<SNT> ingredient dishVariation region isPartOf </SNT>
+<SNT> region country </SNT> <SNT> mainIngredients </SNT>
+<SNT> mainIngredients dishVariation country </SNT>
+<SNT> country dishVariation ingredient dishVariation </SNT>
+<SNT> leaderName region language country </SNT>
+<SNT> country mainIngredients </SNT>
+<SNT> region country mainIngredients </SNT>
+<SNT> region language </SNT> <SNT> country </SNT> <SNT> leaderName </SNT>
+<SNT> country leaderName currency leaderName </SNT>
+<SNT> leaderName demonym </SNT> <SNT> country leaderName </SNT>
+<SNT> leaderName country region leaderName </SNT>
+<SNT> region leaderName country leaderName </SNT>
+<SNT> dishVariation course ingredient order </SNT>
+<SNT> mainIngredients region country </SNT>
+<SNT> region country mainIngredients </SNT>
+<SNT> country region capital leaderName </SNT>
+<SNT> country leaderName ingredient region </SNT>
+<SNT> country capital leaderName leaderName </SNT>
+<SNT> region ethnicGroup </SNT> <SNT> country leaderName </SNT>
+<SNT> country leaderName </SNT> <SNT> region ethnicGroup </SNT>
+<SNT> ethnicGroup ethnicGroup language </SNT>
+<SNT> leaderName ethnicGroup </SNT> <SNT> currency country </SNT>
+<SNT> has_to_its_north location municipality has_to_its_southeast </SNT>
+<SNT> has_to_its_west location </SNT> <SNT> has_to_its_southeast category </SNT>
+<SNT> dedicatedTo location capital designer </SNT>
+<SNT> legislature </SNT> <SNT> location leader capital </SNT>
+<SNT> leader material </SNT> <SNT> location dedicatedTo </SNT>
+<SNT> leaderName location leaderTitle dedicatedTo </SNT>
+<SNT> ground fullname season numberOfMembers </SNT>
+<SNT> placeOfBirth manager club club </SNT>
+<SNT> club placeOfBirth manager club </SNT>
+<SNT> location leader language leader </SNT>
+<SNT> numberOfMembers season </SNT> <SNT> ground fullname </SNT>
+<SNT> ground numberOfMembers fullname season </SNT>
+<SNT> ground fullname season numberOfMembers </SNT>
+<SNT> season fullname ground numberOfMembers </SNT>
+<SNT> ground location </SNT> <SNT> league champions </SNT>
+<SNT> champions </SNT> <SNT> league numberOfMembers ground </SNT>
+<SNT> manager owner club club </SNT>
+<SNT> country league nickname champions </SNT>
+<SNT> league season </SNT> <SNT> country champions </SNT>
+<SNT> fullname numberOfMembers season </SNT> <SNT> manager </SNT>
+<SNT> champions ground league country </SNT>
+<SNT> language ground leader capital </SNT>
+<SNT> ground capital </SNT> <SNT> leader officialLanguage </SNT>
+<SNT> champions fullname league ground </SNT>
+<SNT> dean country academicStaffSize </SNT>
+<SNT> country leaderTitle established numberOfStudents </SNT>
+<SNT> established city dean academicStaffSize </SNT>
+<SNT> was_given_the_'Technical_Campus'_status_by affiliation city location </SNT>
+<SNT> campus numberOfPostgraduateStudents country </SNT>
+<SNT> country established director affiliation </SNT>
+<SNT> capital country leaderName ethnicGroup </SNT>
+<SNT> affiliation country established academicStaffSize </SNT>
+<SNT> country academicStaffSize </SNT> <SNT> established numberOfStudents </SNT>
+<SNT> author language </SNT> <SNT> followedBy precededBy </SNT>
+<SNT> ISBN_number author mediaType numberOfPages </SNT>
+<SNT> publisher country capital leaderName </SNT>
+<SNT> author OCLC_number mediaType ISBN_number </SNT>
+<SNT> country publisher precededBy followedBy </SNT>
+<SNT> LibraryofCongressClassification mediaType </SNT> <SNT> ISBN_number OCLC_number </SNT>
+<SNT> country ethnicGroup </SNT> <SNT> language spokenIn </SNT>
+<SNT> OCLC_number mediaType numberOfPages ISBN_number </SNT>
+<SNT> author mediaType ISBN_number OCLC_number </SNT>
+<SNT> abbreviation LCCN_number academicDiscipline ISSN_number </SNT>
+<SNT> publisher city affiliation </SNT>
+<SNT> country language capital ethnicGroup </SNT>
+<SNT> abbreviation ISSN_number </SNT> <SNT> frequency academicDiscipline </SNT>
+<SNT> firstPublicationYear academicDiscipline </SNT>
+<SNT> country publisher </SNT> <SNT> language spokenIn </SNT>
+<SNT> country spokenIn </SNT> <SNT> ethnicGroup language </SNT>
+<SNT> country language </SNT> <SNT> spokenIn ethnicGroup </SNT>
+<SNT> country publisher leaderName leaderName </SNT>
+<SNT> spokenIn country language ethnicGroup </SNT>
+<SNT> country ethnicGroup </SNT> <SNT> language spokenIn </SNT>
+<SNT> language country </SNT> <SNT> ethnicGroup leaderName </SNT>
+<SNT> runwayLength </SNT>
+<SNT> ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) cityServed runwayName runwayLength </SNT>
+<SNT> cityServed elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier </SNT> <SNT> runwayName runwayLength </SNT>
+<SNT> operatingOrganisation runwayName </SNT> <SNT> elevationAboveTheSeaLevel_(in_metres) runwayLength </SNT>
+<SNT> location ICAO_Location_Identifier leaderName isPartOf </SNT>
+<SNT> location leaderName </SNT> <SNT> nativeName isPartOf isPartOf </SNT>
+<SNT> operatingOrganisation transportAircraft attackAircraft battles aircraftFighter </SNT>
+<SNT> operatingOrganisation aircraftFighter </SNT> <SNT> battles attackAircraft transportAircraft </SNT>
+<SNT> operatingOrganisation transportAircraft battles battles attackAircraft </SNT>
+<SNT> attackAircraft operatingOrganisation battles transportAircraft </SNT>
+<SNT> leaderName operatingOrganisation location country </SNT> <SNT> cityServed </SNT>
+<SNT> cityServed location leaderName country operatingOrganisation </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) cityServed location runwayName runwayLength </SNT>
+<SNT> location capital largestCity language country </SNT>
+<SNT> largestCity </SNT> <SNT> location language </SNT> <SNT> demonym capital </SNT>
+<SNT> location cityServed </SNT> <SNT> elevationAboveTheSeaLevel_(in_metres) isPartOf </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) location country isPartOf runwayLength </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) operatingOrganisation owner cityServed </SNT> <SNT> runwayLength </SNT>
+<SNT> elevationAboveTheSeaLevel_(in_metres) location cityServed </SNT> <SNT> runwayName runwayLength </SNT>
+<SNT> isPartOf cityServed location isPartOf country </SNT>
+<SNT> operatingOrganisation runwayName elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength </SNT>
+<SNT> location runwayName </SNT> <SNT> operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength </SNT>
+<SNT> ICAO_Location_Identifier operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength </SNT>
+<SNT> cityServed leaderName country </SNT> <SNT> leaderName </SNT>
+<SNT> isPartOf cityServed cityServed isPartOf country </SNT>
+<SNT> birthPlace occupation nationality was_a_crew_member_of operator </SNT>
+<SNT> almaMater deathDate </SNT> <SNT> birthDate birthPlace </SNT> <SNT> deathPlace </SNT>
+<SNT> almaMater birthPlace occupation deathPlace </SNT>
+<SNT> was_selected_by_NASA was_a_crew_member_of birthPlace operator </SNT>
+<SNT> commander was_a_crew_member_of backup_pilot operator timeInSpace </SNT>
+<SNT> birthPlace higher </SNT> <SNT> birthDate awards deathPlace </SNT>
+<SNT> compete_in president birthPlace affiliation </SNT> <SNT> almaMater </SNT>
+<SNT> deathPlace birthPlace almaMater deathDate </SNT>
+<SNT> birthPlace almaMater affiliations compete_in </SNT>
+<SNT> affiliations birthPlace </SNT> <SNT> deathPlace almaMater </SNT>
+<SNT> dateOfRetirement </SNT> <SNT> operator commander </SNT> <SNT> was_a_crew_member_of backup_pilot </SNT>
+<SNT> capital location </SNT> <SNT> leaderName currency leaderName </SNT>
+<SNT> location floorArea floorCount buildingStartDate cost </SNT>
+<SNT> country location floorCount isPartOf leaderName </SNT>
+<SNT> location leaderTitle isPartOf </SNT> <SNT> country owner </SNT>
+<SNT> buildingStartDate architecturalStyle </SNT> <SNT> address completionDate location </SNT>
+<SNT> location capital </SNT> <SNT> currency country </SNT> <SNT> language </SNT>
+<SNT> location country </SNT> <SNT> capital leaderName currency </SNT>
+<SNT> leaderName location country isPartOf ethnicGroup </SNT>
+<SNT> location leaderTitle leaderName </SNT> <SNT> location country </SNT>
+<SNT> leaderTitle location location country leaderName </SNT>
+<SNT> bedCount country state leaderName </SNT>
+<SNT> significantProject architect birthPlace significantBuilding significantBuilding </SNT>
+<SNT> significantBuilding birthPlace architect significantProject significantBuilding </SNT>
+<SNT> location architecturalStyle yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> yearOfConstruction location added_to_the_National_Register_of_Historic_Places </SNT> <SNT> architecturalStyle ReferenceNumber_in_the_National_Register_of_Historic_Places </SNT>
+<SNT> isPartOf location leaderName country </SNT>
+<SNT> birthPlace postalCode architect leaderName governingBody </SNT>
+<SNT> leaderName location </SNT> <SNT> isPartOf leaderName country </SNT>
+<SNT> ethnicGroup location leaderTitle language leaderName </SNT>
+<SNT> leaderName ethnicGroup </SNT> <SNT> leaderTitle location language </SNT>
+<SNT> creator starring lastAired </SNT> <SNT> firstAired broadcastedBy </SNT>
+<SNT> starring creator creator series </SNT>
+<SNT> region alternativeName </SNT> <SNT> country mainIngredients </SNT>
+<SNT> mainIngredients region course </SNT>
+<SNT> country leaderName region language currency </SNT>
+<SNT> country capital leaderName </SNT> <SNT> language demonym </SNT>
+<SNT> demonym </SNT> <SNT> region country </SNT> <SNT> leaderName </SNT> <SNT> leaderName </SNT>
+<SNT> country </SNT> <SNT> region capital </SNT> <SNT> ethnicGroup ethnicGroup </SNT>
+<SNT> country </SNT> <SNT> region leaderName </SNT> <SNT> ethnicGroup ethnicGroup </SNT>
+<SNT> mainIngredients region </SNT>
+<SNT> language leaderName </SNT> <SNT> country capital </SNT> <SNT> ethnicGroup </SNT>
+<SNT> region country leaderName </SNT> <SNT> language leaderName </SNT>
+<SNT> dishVariation ingredient region isPartOf leaderName </SNT>
+<SNT> family country ingredient genus region </SNT>
+<SNT> family country ingredient region order </SNT>
+<SNT> leaderName ingredient country language leaderName </SNT>
+<SNT> country foundationPlace creator language leaderName </SNT>
+<SNT> leaderName region </SNT> <SNT> country leaderName language </SNT>
+<SNT> alternativeName mainIngredients country region </SNT>
+<SNT> leaderName </SNT> <SNT> region demonym </SNT> <SNT> leaderName country </SNT>
+<SNT> region country leaderName </SNT>
+<SNT> country dishVariation course leaderName region </SNT>
+<SNT> region dishVariation </SNT> <SNT> ingredient leaderName </SNT>
+<SNT> dishVariation region isPartOf leaderName </SNT> <SNT> ingredient </SNT>
+<SNT> country region </SNT> <SNT> leaderName capital language </SNT>
+<SNT> country leaderName capital leaderName demonym </SNT>
+<SNT> country ethnicGroup leaderName </SNT> <SNT> region language </SNT>
+<SNT> language country </SNT> <SNT> officialLanguage ethnicGroup ethnicGroup </SNT>
+<SNT> region country leaderName language leaderName </SNT>
+<SNT> currency </SNT> <SNT> country leaderName </SNT> <SNT> demonym language </SNT>
+<SNT> has_to_its_north has_to_its_west location municipality </SNT>
+<SNT> capital leaderTitle location leaderName legislature </SNT>
+<SNT> designer dedicatedTo </SNT> <SNT> nativeName location leaderName </SNT>
+<SNT> nativeName designer </SNT> <SNT> location dedicatedTo material </SNT>
+<SNT> designer material </SNT> <SNT> location dedicatedTo leaderTitle </SNT>
+<SNT> manager </SNT> <SNT> ground club </SNT> <SNT> leader club </SNT>
+<SNT> league </SNT> <SNT> club champions </SNT> <SNT> manager club </SNT>
+<SNT> ground country </SNT> <SNT> league location </SNT> <SNT> champions </SNT>
+<SNT> location league champions </SNT> <SNT> ground country </SNT>
+<SNT> manager numberOfMembers country </SNT> <SNT> league champions </SNT>
+<SNT> academicStaffSize </SNT> <SNT> city country </SNT> <SNT> dean </SNT> <SNT> numberOfStudents </SNT>
+<SNT> established leaderName location country numberOfStudents </SNT>
+<SNT> state </SNT> <SNT> city has_to_its_west </SNT> <SNT> affiliation has_to_its_northeast </SNT>
+<SNT> campus established numberOfPostgraduateStudents country </SNT>
+<SNT> city affiliation state </SNT> <SNT> has_to_its_west founder </SNT>
+<SNT> city leaderName </SNT> <SNT> capital country </SNT>
+<SNT> country affiliation academicStaffSize </SNT> <SNT> established numberOfStudents </SNT>
+<SNT> followedBy ethnicGroup </SNT> <SNT> country location publisher </SNT>
+<SNT> precededBy publisher </SNT> <SNT> country followedBy </SNT> <SNT> ethnicGroup </SNT>
+<SNT> followedBy precededBy country followedBy precededBy </SNT>
+<SNT> nickname city affiliation publisher </SNT>
+<SNT> publisher city nickname state affiliation </SNT>
+<SNT> language ethnicGroup spokenIn country leaderName </SNT>
+<SNT> capital spokenIn </SNT> <SNT> ethnicGroup country language </SNT>
+<SNT> ethnicGroup language country </SNT> <SNT> leaderName spokenIn </SNT>
+<SNT> leaderName country language </SNT> <SNT> capital leaderName </SNT>
+<SNT> parentCompany country publisher </SNT> <SNT> leaderName leaderName </SNT>
+<SNT> language country leaderName </SNT> <SNT> ethnicGroup spokenIn </SNT>
+<SNT> leaderName language country </SNT> <SNT> ethnicGroup spokenIn </SNT>
+<SNT> nationality birthPlace commander was_a_crew_member_of operator status </SNT>
+<SNT> birthPlace </SNT> <SNT> almaMater birthDate nationality was_selected_by_NASA </SNT> <SNT> deathPlace </SNT>
+<SNT> deathPlace birthPlace birthDate was_selected_by_NASA </SNT> <SNT> almaMater </SNT>
+<SNT> operator birthDate deathPlace </SNT> <SNT> birthPlace was_a_crew_member_of dateOfRetirement </SNT>
+<SNT> was_awarded deathDate birthPlace awards higher </SNT>
+<SNT> almaMater alternativeNames birthPlace was_a_crew_member_of birthDate occupation </SNT>
+<SNT> birthDate was_selected_by_NASA birthPlace was_a_crew_member_of </SNT> <SNT> almaMater status </SNT>
+<SNT> occupation </SNT> <SNT> almaMater was_selected_by_NASA </SNT> <SNT> was_a_crew_member_of operator </SNT>
+<SNT> nationality </SNT> <SNT> birthPlace deathPlace </SNT> <SNT> deathDate almaMater </SNT>
+<SNT> birthPlace </SNT> <SNT> birthDate deathPlace </SNT> <SNT> almaMater affiliations </SNT>
+<SNT> was_a_crew_member_of occupation birthPlace birthDate almaMater </SNT> <SNT> dateOfRetirement </SNT>
+<SNT> material location capital leaderName designer inaugurationDate </SNT>
+<SNT> dedicatedTo designer location leaderTitle leaderName </SNT>
+<SNT> nearestCity district established owningOrganisation category </SNT>
+<SNT> location country district category established owningOrganisation </SNT>
+<SNT> established location </SNT> <SNT> leaderTitle country leaderName numberOfStudents </SNT>
+<SNT> director established city campus </SNT> <SNT> state country </SNT>
+<SNT> city president established country affiliation </SNT> <SNT> director </SNT>
+<SNT> state was_given_the_'Technical_Campus'_status_by location has_to_its_west </SNT> <SNT> sportsOffered sportsGoverningBody </SNT>
+<SNT> was_given_the_'Technical_Campus'_status_by </SNT> <SNT> city sportsOffered location </SNT> <SNT> affiliation sportsGoverningBody </SNT>
+<SNT> country leaderTitle patronSaint </SNT> <SNT> leaderName </SNT> <SNT> capital ethnicGroup </SNT>
+<SNT> city </SNT> <SNT> established academicStaffSize affiliation </SNT> <SNT> leaderName country </SNT>
+<SNT> established numberOfStudents </SNT> <SNT> affiliation academicStaffSize city country </SNT>
+<SNT> occupation </SNT> <SNT> nationality birthPlace birthDate was_a_crew_member_of operator </SNT> <SNT> status </SNT>
+<SNT> birthPlace operator </SNT> <SNT> almaMater </SNT> <SNT> was_a_crew_member_of commander occupation </SNT>
+<SNT> nationality birthPlace was_a_crew_member_of almaMater deathPlace </SNT> <SNT> birthDate was_selected_by_NASA </SNT>
+<SNT> birthPlace almaMater nationality occupation </SNT> <SNT> birthDate deathPlace </SNT>
+<SNT> awards higher </SNT> <SNT> occupation birthDate deathPlace </SNT>
+<SNT> status </SNT> <SNT> alternativeNames birthPlace was_a_crew_member_of </SNT> <SNT> almaMater occupation nationality </SNT>
+<SNT> leaderName birthPlace isPartOf </SNT> <SNT> nationality was_a_crew_member_of operator </SNT> <SNT> backup_pilot </SNT>
+<SNT> birthPlace was_selected_by_NASA </SNT> <SNT> was_a_crew_member_of birthDate almaMater operator </SNT> <SNT> status </SNT>
+<SNT> was_selected_by_NASA almaMater birthPlace was_a_crew_member_of operator backup_pilot </SNT>
+<SNT> birthPlace birthDate affiliation </SNT> <SNT> occupation almaMater deathPlace </SNT>
+<SNT> occupation birthPlace almaMater status birthDate deathDate </SNT>
+<SNT> nationality </SNT> <SNT> birthDate birthPlace </SNT> <SNT> occupation almaMater </SNT>
+<SNT> country municipality </SNT> <SNT> has_to_its_north has_to_its_southeast location established category </SNT>
+<SNT> designer material location leaderName currency capital inaugurationDate </SNT>
+<SNT> capital </SNT> <SNT> leaderTitle location </SNT> <SNT> dedicatedTo </SNT> <SNT> designer material legislature </SNT>
+<SNT> affiliation established </SNT> <SNT> campus </SNT> <SNT> president </SNT>
+<SNT> campus </SNT> <SNT> country </SNT> <SNT> affiliation numberOfPostgraduateStudents </SNT> <SNT> established motto </SNT>
+<SNT> campus city </SNT> <SNT> president </SNT> <SNT> established country </SNT> <SNT> director affiliation </SNT>
+<SNT> established president campus city </SNT> <SNT> numberOfPostgraduateStudents affiliation </SNT>
+<SNT> country </SNT> <SNT> city state largestCity academicStaffSize river </SNT> <SNT> has_to_its_northwest </SNT>
+<SNT> capital country leaderName leaderTitle ethnicGroup city anthem </SNT>
+<SNT> established state campus </SNT> <SNT> affiliation country </SNT> <SNT> director city </SNT>
