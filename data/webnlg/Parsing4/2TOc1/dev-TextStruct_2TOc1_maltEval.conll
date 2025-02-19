@@ -1,0 +1,2876 @@
+1	cityServed	_	_	_	dom_ID=0	2	intra	2	intra	
+2	isPartOf	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	runwayLength	_	_	_	dom_ID=2	2	intra	2	intra	
+2	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_feet)	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	battles	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	battles	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	operatingOrganisation	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	runwayLength	_	_	_	dom_ID=2	2	intra	2	intra	
+2	1st_runway_SurfaceType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	headquarter	_	_	_	dom_ID=2	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	4th_runway_SurfaceType	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	capital	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	2	intra	2	intra	
+2	cityServed	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	cityServed	_	_	_	dom_ID=0	2	intra	2	intra	
+2	isPartOf	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	order	_	_	_	dom_ID=0	2	intra	2	intra	
+2	2nd_runway_SurfaceType	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	3rd_runway_SurfaceType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	class	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	runwayLength	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	cityServed	_	_	_	dom_ID=2	2	intra	2	intra	
+2	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	runwayLength	_	_	_	dom_ID=0	2	intra	2	intra	
+2	cityServed	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	2	intra	2	intra	
+2	isPartOf	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	dateOfRetirement	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	birthPlace	_	_	_	dom_ID=0	2	intra	2	intra	
+2	nationality	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	status	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	occupation	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=1	2	intra	2	intra	
+2	operator	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=0	2	intra	2	intra	
+2	occupation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	floorCount	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	2	intra	2	intra	
+2	floorCount	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	2	intra	2	intra	
+2	architect	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	owner	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	owner	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	floorCount	_	_	_	dom_ID=1	2	intra	2	intra	
+2	tenant	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	height	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	currentTenants	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	2	intra	2	intra	
+2	architecturalStyle	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=0	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	address	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	buildingStartDate	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=0	2	intra	2	intra	
+2	owner	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	architect	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	tenant	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	capital	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	yearOfConstruction	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	creator	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	creator	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	creator	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	alternativeName	_	_	_	dom_ID=0	2	intra	2	intra	
+2	creator	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	starring	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	broadcastedBy	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	starring	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	nationality	_	_	_	dom_ID=1	2	intra	2	intra	
+2	creator	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	alternativeName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	creator	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	creator	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	creator	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	creator	_	_	_	dom_ID=1	2	intra	2	intra	
+2	creator	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=1	2	intra	2	intra	
+2	region	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=1	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	region	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	capital	_	_	_	dom_ID=0	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=1	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	region	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	course	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	alternativeName	_	_	_	dom_ID=2	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=1	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=1	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	course	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	creator	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	genus	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ethnicGroup	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=0	2	intra	2	intra	
+2	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=1	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	similarDish	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	division	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	order	_	_	_	dom_ID=2	2	intra	2	intra	
+2	mainIngredients	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	course	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	course	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	course	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	dishVariation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	inaugurationDate	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	material	_	_	_	dom_ID=1	2	intra	2	intra	
+2	dedicatedTo	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	nativeName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	material	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	material	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	dedicatedTo	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	champions	_	_	_	dom_ID=1	2	intra	2	intra	
+2	league	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=0	2	intra	2	intra	
+2	league	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leader	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	club	_	_	_	dom_ID=1	2	intra	2	intra	
+2	manager	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	league	_	_	_	dom_ID=2	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	club	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	club	_	_	_	dom_ID=2	2	intra	2	intra	
+2	manager	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	numberOfMembers	_	_	_	dom_ID=1	2	intra	2	intra	
+2	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=0	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	club	_	_	_	dom_ID=0	2	intra	2	intra	
+2	manager	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	league	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	league	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	club	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	owner	_	_	_	dom_ID=0	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	leader	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	season	_	_	_	dom_ID=2	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	fullname	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	numberOfMembers	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	dom_ID=2	2	intra	2	intra	
+2	fullname	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	dom_ID=1	2	intra	2	intra	
+2	club	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	campus	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	director	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	officialSchoolColour	_	_	_	dom_ID=1	2	inter	2	inter	
+2	was_given_the_'Technical_Campus'_status_by	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	sportsGoverningBody	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	sportsOffered	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	affiliation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	headquarters	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	state	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	has_to_its_west	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	author	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	author	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	author	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	abbreviation	_	_	_	dom_ID=1	2	intra	2	intra	
+2	CODEN_code	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	author	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	numberOfPages	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	OCLC_number	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ISBN_number	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	publisher	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	author	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	OCLC_number	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=1	2	intra	2	intra	
+2	mediaType	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	numberOfPages	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	precededBy	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=1	2	intra	2	intra	
+2	followedBy	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	precededBy	_	_	_	dom_ID=1	2	intra	2	intra	
+2	precededBy	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	publisher	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	founder	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	abbreviation	_	_	_	dom_ID=1	2	intra	2	intra	
+2	CODEN_code	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	publisher	_	_	_	dom_ID=1	2	intra	2	intra	
+2	affiliation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	dom_ID=0	2	intra	2	intra	
+2	author	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	mediaType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	numberOfPages	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	family	_	_	_	dom_ID=2	2	intra	2	intra	
+2	academicDiscipline	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	isPartOf	_	_	_	dom_ID=2	3	intra	3	intra	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	cityServed	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	runwayLength	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	cityServed	_	_	_	dom_ID=3	3	intra	3	intra	
+3	cityServed	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	runwayName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=3	1	intra	1	intra	
+3	runwayLength	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	ICAO_Location_Identifier	_	_	_	dom_ID=3	2	intra	2	intra	
+2	location	_	_	_	dom_ID=3	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	3	intra	3	intra	
+2	runwayLength	_	_	_	dom_ID=1	1	intra	1	intra	
+3	operatingOrganisation	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	battles	_	_	_	dom_ID=0	2	intra	2	intra	
+2	battles	_	_	_	dom_ID=0	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	battles	_	_	_	dom_ID=1	3	intra	3	intra	
+2	battles	_	_	_	dom_ID=1	1	intra	1	intra	
+3	operatingOrganisation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	operatingOrganisation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	battles	_	_	_	dom_ID=0	3	intra	3	intra	
+3	battles	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	runwayLength	_	_	_	dom_ID=0	2	intra	2	intra	
+2	1st_runway_SurfaceType	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	dom_ID=1	3	intra	3	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	3	intra	3	intra	
+2	runwayLength	_	_	_	dom_ID=1	1	intra	1	intra	
+3	cityServed	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	largestCity	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	runwayLength	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	runwayName	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=0	2	intra	2	intra	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	cityServed	_	_	_	dom_ID=0	2	intra	2	intra	
+2	operatingOrganisation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	isPartOf	_	_	_	dom_ID=2	3	intra	3	intra	
+2	cityServed	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	isPartOf	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=2	3	intra	3	intra	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	isPartOf	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	division	_	_	_	dom_ID=2	2	intra	2	intra	
+2	order	_	_	_	dom_ID=2	3	intra	3	intra	
+3	3rd_runway_SurfaceType	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	runwayLength	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+2	cityServed	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	runwayName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=0	1	intra	1	intra	
+3	country	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	cityServed	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=1	3	intra	3	intra	
+3	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	2nd_runway_SurfaceType	_	_	_	dom_ID=2	3	inter	3	inter	
+2	order	_	_	_	dom_ID=1	3	intra	3	intra	
+3	class	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	commander	_	_	_	dom_ID=0	1	intra	1	intra	
+3	operator	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	deathDate	_	_	_	dom_ID=2	3	intra	3	intra	
+2	senators	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	deathPlace	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	almaMater	_	_	_	dom_ID=3	3	intra	3	intra	
+2	was_a_crew_member_of	_	_	_	dom_ID=3	1	intra	1	intra	
+3	alternativeNames	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	dom_ID=1	3	intra	3	intra	
+2	was_a_crew_member_of	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	timeInSpace	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	awards	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	fossil	_	_	_	dom_ID=0	3	intra	3	intra	
+3	deathPlace	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	deathPlace	_	_	_	dom_ID=3	2	intra	2	intra	
+2	deathDate	_	_	_	dom_ID=3	3	intra	3	intra	
+3	was_selected_by_NASA	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	dom_ID=0	2	intra	2	intra	
+2	birthDate	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	birthDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	dom_ID=3	3	intra	3	intra	
+3	birthPlace	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+3	capital	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=3	2	intra	2	intra	
+2	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=1	3	intra	3	intra	
+2	ethnicGroup	_	_	_	dom_ID=1	3	inter	3	inter	
+3	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	3	intra	3	intra	
+2	location	_	_	_	dom_ID=3	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	isPartOf	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=0	3	intra	3	intra	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	completionDate	_	_	_	dom_ID=2	3	intra	3	intra	
+3	architect	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	architect	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=2	1	intra	1	intra	
+3	completionDate	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	owner	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	3	intra	3	intra	
+3	location	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	architect	_	_	_	dom_ID=1	3	intra	3	intra	
+2	tenant	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	location	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	owner	_	_	_	dom_ID=2	3	intra	3	intra	
+2	architect	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	completionDate	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	currentTenants	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	height	_	_	_	dom_ID=2	1	intra	1	intra	
+3	floorArea	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	completionDate	_	_	_	dom_ID=3	3	intra	3	intra	
+2	architecturalStyle	_	_	_	dom_ID=3	1	intra	1	intra	
+3	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	inaugurationDate	_	_	_	dom_ID=1	3	intra	3	intra	
+2	floorArea	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	floorCount	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	buildingStartDate	_	_	_	dom_ID=0	2	inter	2	inter	
+2	owner	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	location	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=2	3	intra	3	intra	
+2	chancellor	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	owner	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=0	2	intra	2	intra	
+2	currentTenants	_	_	_	dom_ID=0	3	intra	3	intra	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	owner	_	_	_	dom_ID=3	2	intra	2	intra	
+2	location	_	_	_	dom_ID=3	3	intra	3	intra	
+3	buildingStartDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=2	3	intra	3	intra	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	bedCount	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	2	inter	2	inter	
+2	state	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=2	3	intra	3	intra	
+3	yearOfConstruction	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=1	2	inter	2	inter	
+2	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=0	3	intra	3	intra	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	3	intra	3	intra	
+2	isPartOf	_	_	_	dom_ID=0	1	intra	1	intra	
+3	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	creator	_	_	_	dom_ID=1	2	intra	2	intra	
+2	creator	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	nationality	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	broadcastedBy	_	_	_	dom_ID=1	2	intra	2	intra	
+2	locationCity	_	_	_	dom_ID=0	3	intra	3	intra	
+3	keyPerson	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	firstAired	_	_	_	dom_ID=1	3	intra	3	intra	
+2	broadcastedBy	_	_	_	dom_ID=1	1	intra	1	intra	
+3	starring	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	creator	_	_	_	dom_ID=3	3	intra	3	intra	
+2	creator	_	_	_	dom_ID=3	1	intra	1	intra	
+3	firstAppearanceInFilm	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	fullName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	creator	_	_	_	dom_ID=3	1	intra	1	intra	
+3	creator	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	creator	_	_	_	dom_ID=0	3	intra	3	intra	
+2	creator	_	_	_	dom_ID=0	1	intra	1	intra	
+3	alternativeName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	creator	_	_	_	dom_ID=1	3	intra	3	intra	
+2	alternativeName	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	creator	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	creator	_	_	_	dom_ID=2	2	intra	2	intra	
+2	alternativeName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	creator	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	alternativeName	_	_	_	dom_ID=2	3	intra	3	intra	
+2	ingredient	_	_	_	dom_ID=2	1	intra	1	intra	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=1	1	inter	1	inter	
+3	country	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=3	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	1	inter	1	inter	
+3	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	leaderName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=3	1	intra	1	intra	
+3	country	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	ingredient	_	_	_	dom_ID=3	3	intra	3	intra	
+2	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	region	_	_	_	dom_ID=1	3	intra	3	intra	
+3	ingredient	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=0	3	intra	3	intra	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	ingredient	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=3	2	intra	2	intra	
+2	region	_	_	_	dom_ID=3	3	intra	3	intra	
+3	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	1	intra	1	intra	
+3	mainIngredients	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	mainIngredients	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	region	_	_	_	dom_ID=2	3	intra	3	intra	
+3	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	3	intra	3	intra	
+3	mainIngredients	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=0	3	inter	3	inter	
+2	capital	_	_	_	dom_ID=0	1	intra	1	intra	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+3	ethnicGroup	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	ingredient	_	_	_	dom_ID=0	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	3	intra	3	intra	
+3	dishVariation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	region	_	_	_	dom_ID=2	3	intra	3	intra	
+3	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	region	_	_	_	dom_ID=2	1	intra	1	intra	
+3	country	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	dishVariation	_	_	_	dom_ID=0	2	inter	2	inter	
+2	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	course	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	course	_	_	_	dom_ID=1	2	inter	2	inter	
+2	dishVariation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	ingredient	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	region	_	_	_	dom_ID=3	3	intra	3	intra	
+2	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	ingredient	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+3	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	protein	_	_	_	dom_ID=0	2	intra	2	intra	
+2	carbohydrate	_	_	_	dom_ID=0	3	intra	3	intra	
+3	dishVariation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	currency	_	_	_	dom_ID=0	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=0	3	intra	3	intra	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=1	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	region	_	_	_	dom_ID=2	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	mainIngredients	_	_	_	dom_ID=0	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+3	demonym	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+3	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	dom_ID=1	2	intra	2	intra	
+2	region	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=3	3	intra	3	intra	
+3	mainIngredients	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ingredient	_	_	_	dom_ID=0	3	intra	3	intra	
+3	course	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=1	3	intra	3	intra	
+2	country	_	_	_	dom_ID=1	1	intra	1	intra	
+3	ingredient	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	genus	_	_	_	dom_ID=1	3	intra	3	intra	
+2	family	_	_	_	dom_ID=1	1	intra	1	intra	
+3	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	ingredient	_	_	_	dom_ID=3	3	intra	3	intra	
+2	dishVariation	_	_	_	dom_ID=0	1	intra	1	intra	
+3	course	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	capital	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=2	3	intra	3	intra	
+2	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=2	2	intra	2	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	region	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	language	_	_	_	dom_ID=1	3	intra	3	intra	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	has_to_its_southwest	_	_	_	dom_ID=3	3	intra	3	intra	
+3	has_to_its_west	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	dedicatedTo	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leader	_	_	_	dom_ID=0	1	inter	1	inter	
+3	location	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	designer	_	_	_	dom_ID=0	3	intra	3	intra	
+2	dedicatedTo	_	_	_	dom_ID=0	1	intra	1	intra	
+3	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=2	1	intra	1	intra	
+3	designer	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	location	_	_	_	dom_ID=1	3	intra	3	intra	
+2	nativeName	_	_	_	dom_ID=1	1	intra	1	intra	
+3	designer	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	numberOfMembers	_	_	_	dom_ID=3	3	intra	3	intra	
+2	ground	_	_	_	dom_ID=3	1	intra	1	intra	
+3	league	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	dom_ID=2	3	inter	3	inter	
+2	club	_	_	_	dom_ID=0	3	intra	3	intra	
+3	club	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	season	_	_	_	dom_ID=1	3	intra	3	intra	
+2	numberOfMembers	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	league	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	leader	_	_	_	dom_ID=1	1	intra	1	intra	
+3	leader	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	club	_	_	_	dom_ID=0	3	intra	3	intra	
+2	club	_	_	_	dom_ID=0	1	intra	1	intra	
+3	manager	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	club	_	_	_	dom_ID=2	3	intra	3	intra	
+2	club	_	_	_	dom_ID=2	1	intra	1	intra	
+3	manager	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	club	_	_	_	dom_ID=3	3	intra	3	intra	
+2	club	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	manager	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	ground	_	_	_	dom_ID=0	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=0	3	intra	3	intra	
+3	fullname	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	manager	_	_	_	dom_ID=1	3	intra	3	intra	
+2	club	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	club	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	numberOfMembers	_	_	_	dom_ID=1	3	intra	3	intra	
+2	ground	_	_	_	dom_ID=1	1	intra	1	intra	
+3	fullname	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	league	_	_	_	dom_ID=3	3	intra	3	intra	
+2	ground	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	numberOfMembers	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	numberOfMembers	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	league	_	_	_	dom_ID=1	1	intra	1	intra	
+3	season	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	champions	_	_	_	dom_ID=1	3	intra	3	intra	
+3	league	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	fullname	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	season	_	_	_	dom_ID=2	1	intra	1	intra	
+3	numberOfMembers	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	manager	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	club	_	_	_	dom_ID=0	1	intra	1	intra	
+3	club	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	champions	_	_	_	dom_ID=1	3	inter	3	inter	
+2	league	_	_	_	dom_ID=0	3	intra	3	intra	
+3	ground	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	champions	_	_	_	dom_ID=0	2	inter	2	inter	
+2	league	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	champions	_	_	_	dom_ID=1	3	intra	3	intra	
+3	league	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	numberOfMembers	_	_	_	dom_ID=2	2	intra	2	intra	
+2	league	_	_	_	dom_ID=2	3	intra	3	intra	
+3	champions	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	leader	_	_	_	dom_ID=0	2	intra	2	intra	
+2	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	demonym	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	mayor	_	_	_	dom_ID=3	2	intra	2	intra	
+2	location	_	_	_	dom_ID=0	3	intra	3	intra	
+3	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	dean	_	_	_	dom_ID=2	2	inter	2	inter	
+2	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	numberOfStudents	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	city	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	motto	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	city	_	_	_	dom_ID=0	3	intra	3	intra	
+3	president	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	sportsOffered	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	sportsGoverningBody	_	_	_	dom_ID=2	1	inter	1	inter	
+3	established	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	largestCity	_	_	_	dom_ID=0	1	inter	1	inter	
+3	river	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+2	country	_	_	_	dom_ID=1	3	inter	3	inter	
+3	leaderTitle	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	patronSaint	_	_	_	dom_ID=1	2	inter	2	inter	
+2	latinName	_	_	_	dom_ID=3	3	inter	3	inter	
+3	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	academicStaffSize	_	_	_	dom_ID=2	3	inter	3	inter	
+2	numberOfStudents	_	_	_	dom_ID=2	1	intra	1	intra	
+3	established	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	author	_	_	_	dom_ID=2	1	inter	1	inter	
+3	mediaType	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	author	_	_	_	dom_ID=2	1	intra	1	intra	
+3	precededBy	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	numberOfPages	_	_	_	dom_ID=1	2	intra	2	intra	
+2	author	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	mediaType	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=2	2	intra	2	intra	
+2	author	_	_	_	dom_ID=2	3	intra	3	intra	
+3	mediaType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	author	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	mediaType	_	_	_	dom_ID=1	3	intra	3	intra	
+3	numberOfPages	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	dom_ID=3	2	intra	2	intra	
+2	academicDiscipline	_	_	_	dom_ID=3	3	intra	3	intra	
+3	abbreviation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	ISSN_number	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	abbreviation	_	_	_	dom_ID=0	3	intra	3	intra	
+3	academicDiscipline	_	_	_	dom_ID=0	1	inter	1	inter	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	publisher	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	editor	_	_	_	dom_ID=0	3	intra	3	intra	
+2	publisher	_	_	_	dom_ID=0	1	intra	1	intra	
+3	residence	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	abbreviation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	CODEN_code	_	_	_	dom_ID=2	1	intra	1	intra	
+3	editor	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	ISBN_number	_	_	_	dom_ID=2	3	intra	3	intra	
+2	OCLC_number	_	_	_	dom_ID=2	1	intra	1	intra	
+3	mediaType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	followedBy	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	spokenIn	_	_	_	dom_ID=2	3	intra	3	intra	
+3	language	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	publisher	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	ethnicGroup	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	publisher	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=1	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	LibraryofCongressClassification	_	_	_	dom_ID=2	2	intra	2	intra	
+2	OCLC_number	_	_	_	dom_ID=2	3	intra	3	intra	
+3	mediaType	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	numberOfPages	_	_	_	dom_ID=2	2	intra	2	intra	
+2	ISBN_number	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	mediaType	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	OCLC_number	_	_	_	dom_ID=1	2	intra	2	intra	
+2	mediaType	_	_	_	dom_ID=1	3	intra	3	intra	
+3	author	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	mediaType	_	_	_	dom_ID=2	3	intra	3	intra	
+2	ISBN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+3	author	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	precededBy	_	_	_	dom_ID=1	3	intra	3	intra	
+3	precededBy	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	LCCN_number	_	_	_	dom_ID=3	3	intra	3	intra	
+2	ISSN_number	_	_	_	dom_ID=3	1	intra	1	intra	
+3	abbreviation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	ISSN_number	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	academicDiscipline	_	_	_	dom_ID=2	1	inter	1	inter	
+3	abbreviation	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ISSN_number	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	LCCN_number	_	_	_	dom_ID=3	1	intra	1	intra	
+3	abbreviation	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	abbreviation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ISSN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	mediaType	_	_	_	dom_ID=2	2	intra	2	intra	
+2	author	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	OCLC_number	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	author	_	_	_	dom_ID=1	2	intra	2	intra	
+2	ISBN_number	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	mediaType	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	academicDiscipline	_	_	_	dom_ID=0	2	intra	2	intra	
+2	abbreviation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	ISSN_number	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	ISSN_number	_	_	_	dom_ID=0	2	inter	2	inter	
+2	firstPublicationYear	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	abbreviation	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	founder	_	_	_	dom_ID=3	3	intra	3	intra	
+2	abbreviation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	publisher	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=3	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=2	1	intra	1	intra	
+3	publisher	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	ethnicGroup	_	_	_	dom_ID=2	3	intra	3	intra	
+2	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	language	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=2	3	intra	3	intra	
+3	ethnicGroup	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	3	intra	3	intra	
+2	runwayLength	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	cityServed	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	locationCity	_	_	_	dom_ID=2	4	intra	4	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=4	2	intra	2	intra	
+4	operatingOrganisation	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=3	3	intra	3	intra	
+2	runwayName	_	_	_	dom_ID=3	3	inter	3	inter	
+3	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	runwayLength	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	dom_ID=1	1	intra	1	intra	
+3	isPartOf	_	_	_	dom_ID=1	2	intra	2	intra	
+4	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=4	3	intra	3	intra	
+
+1	isPartOf	_	_	_	dom_ID=2	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=2	4	intra	4	intra	
+3	isPartOf	_	_	_	dom_ID=2	2	intra	2	intra	
+4	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	attackAircraft	_	_	_	dom_ID=1	4	intra	4	intra	
+2	battles	_	_	_	dom_ID=1	3	intra	3	intra	
+3	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	aircraftFighter	_	_	_	dom_ID=1	3	inter	3	inter	
+
+1	attackAircraft	_	_	_	dom_ID=4	4	inter	4	inter	
+2	battles	_	_	_	dom_ID=4	4	intra	4	intra	
+3	aircraftFighter	_	_	_	dom_ID=4	1	intra	1	intra	
+4	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	attackAircraft	_	_	_	dom_ID=1	4	intra	4	intra	
+2	aircraftFighter	_	_	_	dom_ID=1	1	intra	1	intra	
+3	battles	_	_	_	dom_ID=1	4	inter	4	inter	
+4	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	battles	_	_	_	dom_ID=4	3	intra	3	intra	
+2	aircraftFighter	_	_	_	dom_ID=4	4	intra	4	intra	
+3	operatingOrganisation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	attackAircraft	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	operatingOrganisation	_	_	_	dom_ID=1	3	intra	3	intra	
+2	leaderTitle	_	_	_	dom_ID=0	4	intra	4	intra	
+3	headquarter	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	location	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	cityServed	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	4	intra	4	intra	
+3	location	_	_	_	dom_ID=2	1	intra	1	intra	
+4	runwayLength	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	runwayLength	_	_	_	dom_ID=0	3	inter	3	inter	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	3	intra	3	intra	
+3	cityServed	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	runwayName	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=2	2	inter	2	inter	
+2	demonym	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	language	_	_	_	dom_ID=1	2	intra	2	intra	
+4	capital	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=4	3	intra	3	intra	
+3	demonym	_	_	_	dom_ID=4	1	inter	1	inter	
+4	country	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	demonym	_	_	_	dom_ID=2	4	intra	4	intra	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	language	_	_	_	dom_ID=2	1	intra	1	intra	
+4	country	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=0	4	intra	4	intra	
+2	capital	_	_	_	dom_ID=0	4	inter	4	inter	
+3	largestCity	_	_	_	dom_ID=0	2	intra	2	intra	
+4	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=0	2	intra	2	intra	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=3	4	intra	4	intra	
+4	isPartOf	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	cityServed	_	_	_	dom_ID=4	2	intra	2	intra	
+2	country	_	_	_	dom_ID=3	3	intra	3	intra	
+3	leaderName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	runwayLength	_	_	_	dom_ID=3	4	intra	4	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=3	1	intra	1	intra	
+4	cityServed	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	location	_	_	_	dom_ID=2	3	intra	3	intra	
+2	isPartOf	_	_	_	dom_ID=1	4	intra	4	intra	
+3	cityServed	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	isPartOf	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	order	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	class	_	_	_	dom_ID=3	1	intra	1	intra	
+3	order	_	_	_	dom_ID=3	2	intra	2	intra	
+4	3rd_runway_SurfaceType	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	3rd_runway_SurfaceType	_	_	_	dom_ID=2	4	intra	4	intra	
+3	runwayLength	_	_	_	dom_ID=2	1	intra	1	intra	
+4	runwayName	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	runwayLength	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=4	1	intra	1	intra	
+3	country	_	_	_	dom_ID=3	4	intra	4	intra	
+4	isPartOf	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=3	4	inter	4	inter	
+2	locationCity	_	_	_	dom_ID=0	4	intra	4	intra	
+3	country	_	_	_	dom_ID=1	2	intra	2	intra	
+4	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	3	intra	3	intra	
+2	location	_	_	_	dom_ID=4	1	intra	1	intra	
+3	isPartOf	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	runwayLength	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	order	_	_	_	dom_ID=3	2	intra	2	intra	
+2	class	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	2nd_runway_SurfaceType	_	_	_	dom_ID=2	4	intra	4	intra	
+4	division	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	nationality	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	dom_ID=1	1	intra	1	intra	
+3	operator	_	_	_	dom_ID=4	2	intra	2	intra	
+4	commander	_	_	_	dom_ID=4	3	intra	3	intra	
+
+1	birthDate	_	_	_	dom_ID=1	2	intra	2	intra	
+2	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	dateOfRetirement	_	_	_	dom_ID=1	4	intra	4	intra	
+4	almaMater	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	birthPlace	_	_	_	dom_ID=1	3	intra	3	intra	
+2	occupation	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	deathPlace	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	birthPlace	_	_	_	dom_ID=0	2	intra	2	intra	
+2	occupation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	operator	_	_	_	dom_ID=1	4	intra	4	intra	
+4	was_a_crew_member_of	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	backup_pilot	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	dom_ID=1	1	intra	1	intra	
+3	commander	_	_	_	dom_ID=2	2	intra	2	intra	
+4	operator	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	birthPlace	_	_	_	dom_ID=2	2	inter	2	inter	
+2	nationality	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+4	isPartOf	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	birthPlace	_	_	_	dom_ID=0	2	intra	2	intra	
+2	almaMater	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	birthDate	_	_	_	dom_ID=0	1	intra	1	intra	
+4	deathPlace	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	occupation	_	_	_	dom_ID=3	2	inter	2	inter	
+2	almaMater	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	deathDate	_	_	_	dom_ID=3	4	intra	4	intra	
+4	deathPlace	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	affiliations	_	_	_	dom_ID=4	2	intra	2	intra	
+2	almaMater	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	deathPlace	_	_	_	dom_ID=2	2	inter	2	inter	
+4	isPartOf	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	deathPlace	_	_	_	dom_ID=3	3	intra	3	intra	
+2	birthDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	birthPlace	_	_	_	dom_ID=3	2	intra	2	intra	
+4	deathDate	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	commander	_	_	_	dom_ID=0	4	intra	4	intra	
+2	dateOfRetirement	_	_	_	dom_ID=1	3	intra	3	intra	
+3	was_a_crew_member_of	_	_	_	dom_ID=1	1	intra	1	intra	
+4	backup_pilot	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=4	4	intra	4	intra	
+3	capital	_	_	_	dom_ID=4	1	intra	1	intra	
+4	location	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	ethnicGroup	_	_	_	dom_ID=4	4	intra	4	intra	
+2	location	_	_	_	dom_ID=2	3	intra	3	intra	
+3	capital	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	ethnicGroup	_	_	_	dom_ID=4	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	governingBody	_	_	_	dom_ID=0	3	intra	3	intra	
+3	isPartOf	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	floorCount	_	_	_	dom_ID=3	4	intra	4	intra	
+2	buildingStartDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	floorArea	_	_	_	dom_ID=3	1	intra	1	intra	
+4	architecturalStyle	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	isPartOf	_	_	_	dom_ID=0	2	intra	2	intra	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=0	4	intra	4	intra	
+4	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+2	country	_	_	_	dom_ID=3	3	intra	3	intra	
+3	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	owner	_	_	_	dom_ID=1	3	inter	3	inter	
+
+1	leaderName	_	_	_	dom_ID=2	4	inter	4	inter	
+2	location	_	_	_	dom_ID=4	4	intra	4	intra	
+3	isPartOf	_	_	_	dom_ID=2	2	intra	2	intra	
+4	owner	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	tenant	_	_	_	dom_ID=3	4	intra	4	intra	
+2	owner	_	_	_	dom_ID=3	4	inter	4	inter	
+3	floorCount	_	_	_	dom_ID=3	2	intra	2	intra	
+4	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	owner	_	_	_	dom_ID=3	2	intra	2	intra	
+2	architect	_	_	_	dom_ID=3	4	inter	4	inter	
+3	tenant	_	_	_	dom_ID=3	4	intra	4	intra	
+4	floorCount	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	completionDate	_	_	_	dom_ID=4	3	intra	3	intra	
+2	architecturalStyle	_	_	_	dom_ID=4	4	intra	4	intra	
+3	buildingStartDate	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	location	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	capital	_	_	_	dom_ID=4	4	intra	4	intra	
+3	language	_	_	_	dom_ID=4	2	intra	2	intra	
+4	country	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	completionDate	_	_	_	dom_ID=0	2	intra	2	intra	
+2	buildingStartDate	_	_	_	dom_ID=0	4	intra	4	intra	
+3	architecturalStyle	_	_	_	dom_ID=0	4	inter	4	inter	
+4	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	architect	_	_	_	dom_ID=3	4	inter	4	inter	
+2	currentTenants	_	_	_	dom_ID=3	4	intra	4	intra	
+3	location	_	_	_	dom_ID=3	1	intra	1	intra	
+4	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	currentTenants	_	_	_	dom_ID=2	4	intra	4	intra	
+2	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	completionDate	_	_	_	dom_ID=2	2	intra	2	intra	
+4	country	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	leaderName	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=4	1	intra	1	intra	
+3	country	_	_	_	dom_ID=1	2	intra	2	intra	
+4	location	_	_	_	dom_ID=1	3	intra	3	intra	
+
+1	address	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=0	4	intra	4	intra	
+3	country	_	_	_	dom_ID=0	2	intra	2	intra	
+4	location	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=4	2	intra	2	intra	
+2	location	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=2	2	inter	2	inter	
+4	country	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	state	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	architect	_	_	_	dom_ID=4	2	intra	2	intra	
+2	birthPlace	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	significantBuilding	_	_	_	dom_ID=2	4	intra	4	intra	
+4	significantBuilding	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	architect	_	_	_	dom_ID=2	3	intra	3	intra	
+2	significantBuilding	_	_	_	dom_ID=1	4	intra	4	intra	
+3	significantBuilding	_	_	_	dom_ID=1	2	intra	2	intra	
+4	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	isPartOf	_	_	_	dom_ID=2	2	inter	2	inter	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=2	2	intra	2	intra	
+4	isPartOf	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	hometown	_	_	_	dom_ID=4	3	intra	3	intra	
+2	postalCode	_	_	_	dom_ID=2	4	intra	4	intra	
+3	architect	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	leaderName	_	_	_	dom_ID=2	3	inter	3	inter	
+
+1	isPartOf	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=3	1	inter	1	inter	
+3	country	_	_	_	dom_ID=4	4	intra	4	intra	
+4	location	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=4	3	intra	3	intra	
+3	leaderName	_	_	_	dom_ID=0	1	inter	1	inter	
+4	capital	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	broadcastedBy	_	_	_	dom_ID=3	2	intra	2	intra	
+2	starring	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	firstAired	_	_	_	dom_ID=3	1	intra	1	intra	
+4	creator	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	creator	_	_	_	dom_ID=0	4	intra	4	intra	
+2	alternativeName	_	_	_	dom_ID=0	1	intra	1	intra	
+3	nationality	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	creator	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	series	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	nationality	_	_	_	dom_ID=4	4	intra	4	intra	
+3	starring	_	_	_	dom_ID=0	1	intra	1	intra	
+4	creator	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	nationality	_	_	_	dom_ID=3	2	intra	2	intra	
+2	creator	_	_	_	dom_ID=2	4	intra	4	intra	
+3	series	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	starring	_	_	_	dom_ID=1	3	intra	3	intra	
+
+1	series	_	_	_	dom_ID=2	3	intra	3	intra	
+2	nationality	_	_	_	dom_ID=4	4	intra	4	intra	
+3	starring	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	creator	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	region	_	_	_	dom_ID=1	3	intra	3	intra	
+3	mainIngredients	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=3	4	intra	4	intra	
+2	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	alternativeName	_	_	_	dom_ID=3	2	intra	2	intra	
+4	region	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	region	_	_	_	dom_ID=2	2	intra	2	intra	
+2	mainIngredients	_	_	_	dom_ID=2	4	intra	4	intra	
+3	dishVariation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	ingredient	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	course	_	_	_	dom_ID=3	4	intra	4	intra	
+2	ingredient	_	_	_	dom_ID=3	1	intra	1	intra	
+3	mainIngredients	_	_	_	dom_ID=3	4	inter	4	inter	
+4	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	dom_ID=2	1	inter	1	inter	
+3	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	dom_ID=3	1	inter	1	inter	
+3	country	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	dom_ID=2	3	intra	3	intra	
+2	region	_	_	_	dom_ID=2	3	inter	3	inter	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	3	intra	3	intra	
+2	mainIngredients	_	_	_	dom_ID=0	3	inter	3	inter	
+3	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	alternativeName	_	_	_	dom_ID=0	3	inter	3	inter	
+2	country	_	_	_	dom_ID=0	3	intra	3	intra	
+3	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	mainIngredients	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=4	2	inter	2	inter	
+2	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	region	_	_	_	dom_ID=3	2	intra	2	intra	
+4	ethnicGroup	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	dom_ID=0	3	inter	3	inter	
+2	ingredient	_	_	_	dom_ID=0	1	intra	1	intra	
+3	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=2	1	intra	1	intra	
+3	ethnicGroup	_	_	_	dom_ID=2	1	inter	1	inter	
+4	capital	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	ingredient	_	_	_	dom_ID=1	4	intra	4	intra	
+3	alternativeName	_	_	_	dom_ID=1	2	intra	2	intra	
+4	dishVariation	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	alternativeName	_	_	_	dom_ID=0	4	intra	4	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	dishVariation	_	_	_	dom_ID=0	2	intra	2	intra	
+4	ingredient	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	mainIngredients	_	_	_	dom_ID=0	3	intra	3	intra	
+2	alternativeName	_	_	_	dom_ID=0	3	inter	3	inter	
+3	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=1	3	inter	3	inter	
+2	region	_	_	_	dom_ID=1	1	intra	1	intra	
+3	mainIngredients	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	dom_ID=0	2	inter	2	inter	
+2	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	region	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	dishVariation	_	_	_	dom_ID=1	1	inter	1	inter	
+3	isPartOf	_	_	_	dom_ID=3	1	intra	1	intra	
+4	ingredient	_	_	_	dom_ID=4	2	intra	2	intra	
+
+1	mainIngredients	_	_	_	dom_ID=4	4	intra	4	intra	
+2	region	_	_	_	dom_ID=4	3	intra	3	intra	
+3	dishVariation	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	course	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	ingredient	_	_	_	dom_ID=1	3	intra	3	intra	
+2	isPartOf	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	dishVariation	_	_	_	dom_ID=2	2	inter	2	inter	
+4	region	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	region	_	_	_	dom_ID=2	3	intra	3	intra	
+2	mainIngredients	_	_	_	dom_ID=2	3	inter	3	inter	
+3	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	dom_ID=0	2	inter	2	inter	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	dishVariation	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	ingredient	_	_	_	dom_ID=2	3	intra	3	intra	
+2	dishVariation	_	_	_	dom_ID=0	4	inter	4	inter	
+3	dishVariation	_	_	_	dom_ID=2	2	intra	2	intra	
+4	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+2	region	_	_	_	dom_ID=0	3	inter	3	inter	
+3	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	language	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	mainIngredients	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	mainIngredients	_	_	_	dom_ID=0	1	inter	1	inter	
+
+1	language	_	_	_	dom_ID=4	4	intra	4	intra	
+2	country	_	_	_	dom_ID=3	4	inter	4	inter	
+3	leaderName	_	_	_	dom_ID=4	2	inter	2	inter	
+4	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=3	4	intra	4	intra	
+2	currency	_	_	_	dom_ID=3	3	inter	3	inter	
+3	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	leaderName	_	_	_	dom_ID=0	4	inter	4	inter	
+2	leaderName	_	_	_	dom_ID=0	1	intra	1	intra	
+3	demonym	_	_	_	dom_ID=0	4	intra	4	intra	
+4	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	leaderName	_	_	_	dom_ID=2	3	inter	3	inter	
+2	leaderName	_	_	_	dom_ID=2	1	intra	1	intra	
+3	region	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=4	3	intra	3	intra	
+
+1	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=4	3	intra	3	intra	
+3	leaderName	_	_	_	dom_ID=0	1	inter	1	inter	
+4	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	dishVariation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	order	_	_	_	dom_ID=1	3	intra	3	intra	
+3	ingredient	_	_	_	dom_ID=3	1	inter	1	inter	
+4	course	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	mainIngredients	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	3	intra	3	intra	
+3	region	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	region	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=0	1	intra	1	intra	
+3	mainIngredients	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	region	_	_	_	dom_ID=2	2	intra	2	intra	
+2	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	capital	_	_	_	dom_ID=0	2	inter	2	inter	
+4	leaderName	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=3	3	inter	3	inter	
+3	region	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	ingredient	_	_	_	dom_ID=1	3	intra	3	intra	
+
+1	capital	_	_	_	dom_ID=3	2	inter	2	inter	
+2	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+4	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=0	1	intra	1	intra	
+3	ethnicGroup	_	_	_	dom_ID=4	4	intra	4	intra	
+4	country	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=4	3	intra	3	intra	
+3	leaderName	_	_	_	dom_ID=1	1	inter	1	inter	
+4	region	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=3	2	intra	2	intra	
+2	language	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	ethnicGroup	_	_	_	dom_ID=3	2	inter	2	inter	
+
+1	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+2	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+3	ethnicGroup	_	_	_	dom_ID=3	2	inter	2	inter	
+4	currency	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	has_to_its_north	_	_	_	dom_ID=1	3	intra	3	intra	
+2	municipality	_	_	_	dom_ID=2	4	intra	4	intra	
+3	has_to_its_southeast	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	location	_	_	_	dom_ID=2	3	inter	3	inter	
+
+1	has_to_its_southeast	_	_	_	dom_ID=3	2	intra	2	intra	
+2	has_to_its_west	_	_	_	dom_ID=3	4	intra	4	intra	
+3	category	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	location	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	location	_	_	_	dom_ID=4	3	intra	3	intra	
+2	dedicatedTo	_	_	_	dom_ID=4	1	intra	1	intra	
+3	capital	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	designer	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	location	_	_	_	dom_ID=2	4	inter	4	inter	
+2	legislature	_	_	_	dom_ID=4	4	intra	4	intra	
+3	leader	_	_	_	dom_ID=4	2	intra	2	intra	
+4	capital	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	leader	_	_	_	dom_ID=2	4	intra	4	intra	
+2	dedicatedTo	_	_	_	dom_ID=4	3	intra	3	intra	
+3	material	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	location	_	_	_	dom_ID=4	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=3	4	intra	4	intra	
+2	leaderTitle	_	_	_	dom_ID=0	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=0	2	intra	2	intra	
+4	dedicatedTo	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=3	2	intra	2	intra	
+2	fullname	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	numberOfMembers	_	_	_	dom_ID=3	1	intra	1	intra	
+4	season	_	_	_	dom_ID=3	2	inter	2	inter	
+
+1	placeOfBirth	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	manager	_	_	_	dom_ID=4	1	intra	1	intra	
+3	club	_	_	_	dom_ID=1	1	inter	1	inter	
+4	club	_	_	_	dom_ID=1	3	intra	3	intra	
+
+1	club	_	_	_	dom_ID=0	3	intra	3	intra	
+2	placeOfBirth	_	_	_	dom_ID=0	4	intra	4	intra	
+3	club	_	_	_	dom_ID=0	2	intra	2	intra	
+4	manager	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=4	2	intra	2	intra	
+2	location	_	_	_	dom_ID=3	3	intra	3	intra	
+3	leader	_	_	_	dom_ID=4	4	intra	4	intra	
+4	leader	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	season	_	_	_	dom_ID=1	4	inter	4	inter	
+2	numberOfMembers	_	_	_	dom_ID=1	1	intra	1	intra	
+3	fullname	_	_	_	dom_ID=1	4	intra	4	intra	
+4	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=0	3	inter	3	inter	
+2	season	_	_	_	dom_ID=0	3	intra	3	intra	
+3	fullname	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	numberOfMembers	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	ground	_	_	_	dom_ID=0	2	intra	2	intra	
+2	fullname	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	numberOfMembers	_	_	_	dom_ID=0	4	intra	4	intra	
+4	season	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	season	_	_	_	dom_ID=1	4	intra	4	intra	
+2	fullname	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	numberOfMembers	_	_	_	dom_ID=1	2	intra	2	intra	
+4	ground	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	champions	_	_	_	dom_ID=4	4	intra	4	intra	
+2	location	_	_	_	dom_ID=0	3	intra	3	intra	
+3	ground	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	league	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	numberOfMembers	_	_	_	dom_ID=2	3	intra	3	intra	
+2	league	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	ground	_	_	_	dom_ID=2	4	intra	4	intra	
+4	champions	_	_	_	dom_ID=4	2	intra	2	intra	
+
+1	club	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	owner	_	_	_	dom_ID=1	4	intra	4	intra	
+3	club	_	_	_	dom_ID=3	1	intra	1	intra	
+4	manager	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	league	_	_	_	dom_ID=0	3	intra	3	intra	
+2	country	_	_	_	dom_ID=4	1	intra	1	intra	
+3	nickname	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	champions	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	league	_	_	_	dom_ID=3	2	intra	2	intra	
+2	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+3	season	_	_	_	dom_ID=3	2	inter	2	inter	
+4	champions	_	_	_	dom_ID=4	3	inter	3	inter	
+
+1	fullname	_	_	_	dom_ID=2	2	intra	2	intra	
+2	numberOfMembers	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	manager	_	_	_	dom_ID=2	2	inter	2	inter	
+4	season	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	ground	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	league	_	_	_	dom_ID=3	1	inter	1	inter	
+3	champions	_	_	_	dom_ID=0	2	intra	2	intra	
+4	country	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	language	_	_	_	dom_ID=2	4	intra	4	intra	
+2	capital	_	_	_	dom_ID=2	3	intra	3	intra	
+3	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	leader	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	leader	_	_	_	dom_ID=3	3	intra	3	intra	
+2	ground	_	_	_	dom_ID=0	4	intra	4	intra	
+3	capital	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	officialLanguage	_	_	_	dom_ID=3	3	inter	3	inter	
+
+1	champions	_	_	_	dom_ID=3	2	intra	2	intra	
+2	league	_	_	_	dom_ID=2	4	inter	4	inter	
+3	ground	_	_	_	dom_ID=2	4	intra	4	intra	
+4	fullname	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	dean	_	_	_	dom_ID=0	3	intra	3	intra	
+3	academicStaffSize	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	dom_ID=4	4	inter	4	inter	
+3	established	_	_	_	dom_ID=1	1	intra	1	intra	
+4	numberOfStudents	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	established	_	_	_	dom_ID=0	2	intra	2	intra	
+2	dean	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	city	_	_	_	dom_ID=0	4	intra	4	intra	
+4	academicStaffSize	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	was_given_the_'Technical_Campus'_status_by	_	_	_	dom_ID=2	2	intra	2	intra	
+2	city	_	_	_	dom_ID=1	4	intra	4	intra	
+3	location	_	_	_	dom_ID=4	1	intra	1	intra	
+4	affiliation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	campus	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	numberOfPostgraduateStudents	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	country	_	_	_	dom_ID=2	2	intra	2	intra	
+2	director	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	affiliation	_	_	_	dom_ID=2	4	intra	4	intra	
+4	established	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=3	1	inter	1	inter	
+3	capital	_	_	_	dom_ID=3	1	intra	1	intra	
+4	ethnicGroup	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	established	_	_	_	dom_ID=1	1	inter	1	inter	
+3	affiliation	_	_	_	dom_ID=1	1	intra	1	intra	
+4	academicStaffSize	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=0	4	intra	4	intra	
+2	numberOfStudents	_	_	_	dom_ID=0	3	intra	3	intra	
+3	academicStaffSize	_	_	_	dom_ID=0	4	inter	4	inter	
+4	established	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	followedBy	_	_	_	dom_ID=4	4	intra	4	intra	
+2	language	_	_	_	dom_ID=1	1	intra	1	intra	
+3	precededBy	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	author	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	ISBN_number	_	_	_	dom_ID=0	4	intra	4	intra	
+2	numberOfPages	_	_	_	dom_ID=0	3	intra	3	intra	
+3	author	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	mediaType	_	_	_	dom_ID=0	3	inter	3	inter	
+
+1	publisher	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=0	4	intra	4	intra	
+4	capital	_	_	_	dom_ID=0	1	inter	1	inter	
+
+1	author	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	ISBN_number	_	_	_	dom_ID=2	1	inter	1	inter	
+3	mediaType	_	_	_	dom_ID=2	1	intra	1	intra	
+4	OCLC_number	_	_	_	dom_ID=2	2	inter	2	inter	
+
+1	country	_	_	_	dom_ID=1	2	intra	2	intra	
+2	publisher	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	followedBy	_	_	_	dom_ID=1	4	intra	4	intra	
+4	precededBy	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	ISBN_number	_	_	_	dom_ID=0	4	inter	4	inter	
+2	LibraryofCongressClassification	_	_	_	dom_ID=0	4	intra	4	intra	
+3	OCLC_number	_	_	_	dom_ID=0	1	intra	1	intra	
+4	mediaType	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ethnicGroup	_	_	_	dom_ID=4	3	intra	3	intra	
+2	spokenIn	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=1	2	inter	2	inter	
+4	language	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	OCLC_number	_	_	_	dom_ID=4	4	inter	4	inter	
+2	numberOfPages	_	_	_	dom_ID=4	4	intra	4	intra	
+3	ISBN_number	_	_	_	dom_ID=4	1	intra	1	intra	
+4	mediaType	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	ISBN_number	_	_	_	dom_ID=3	2	intra	2	intra	
+2	mediaType	_	_	_	dom_ID=3	4	intra	4	intra	
+3	OCLC_number	_	_	_	dom_ID=3	1	intra	1	intra	
+4	author	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	abbreviation	_	_	_	dom_ID=2	4	inter	4	inter	
+2	LCCN_number	_	_	_	dom_ID=2	4	intra	4	intra	
+3	ISSN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+4	academicDiscipline	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	publisher	_	_	_	dom_ID=2	3	intra	3	intra	
+2	affiliation	_	_	_	dom_ID=3	3	inter	3	inter	
+3	city	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	4	intra	4	intra	
+2	capital	_	_	_	dom_ID=2	1	intra	1	intra	
+3	ethnicGroup	_	_	_	dom_ID=2	2	intra	2	intra	
+4	language	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	frequency	_	_	_	dom_ID=2	3	inter	3	inter	
+2	academicDiscipline	_	_	_	dom_ID=2	3	intra	3	intra	
+3	abbreviation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	ISSN_number	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	academicDiscipline	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	firstPublicationYear	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	language	_	_	_	dom_ID=2	3	intra	3	intra	
+2	publisher	_	_	_	dom_ID=3	4	intra	4	intra	
+3	spokenIn	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=1	3	inter	3	inter	
+
+1	ethnicGroup	_	_	_	dom_ID=3	3	inter	3	inter	
+2	spokenIn	_	_	_	dom_ID=1	3	intra	3	intra	
+3	language	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	ethnicGroup	_	_	_	dom_ID=3	1	intra	1	intra	
+3	language	_	_	_	dom_ID=3	1	inter	1	inter	
+4	spokenIn	_	_	_	dom_ID=4	3	intra	3	intra	
+
+1	country	_	_	_	dom_ID=1	2	inter	2	inter	
+2	leaderName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	publisher	_	_	_	dom_ID=1	1	intra	1	intra	
+4	leaderName	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	spokenIn	_	_	_	dom_ID=4	4	intra	4	intra	
+2	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	ethnicGroup	_	_	_	dom_ID=0	2	intra	2	intra	
+4	language	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	spokenIn	_	_	_	dom_ID=2	3	intra	3	intra	
+2	ethnicGroup	_	_	_	dom_ID=1	4	inter	4	inter	
+3	language	_	_	_	dom_ID=1	2	intra	2	intra	
+4	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=1	3	inter	3	inter	
+2	leaderName	_	_	_	dom_ID=1	3	intra	3	intra	
+3	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	ethnicGroup	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	runwayLength	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	ICAO_Location_Identifier	_	_	_	dom_ID=1	2	intra	2	intra	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	3	intra	3	intra	
+3	cityServed	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	runwayName	_	_	_	dom_ID=1	3	inter	3	inter	
+5	runwayLength	_	_	_	dom_ID=1	4	intra	4	intra	
+
+1	runwayName	_	_	_	dom_ID=2	2	intra	2	intra	
+2	ICAO_Location_Identifier	_	_	_	dom_ID=2	4	inter	4	inter	
+3	runwayLength	_	_	_	dom_ID=2	5	intra	5	intra	
+4	cityServed	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	2	inter	2	inter	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	4	intra	4	intra	
+2	runwayName	_	_	_	dom_ID=2	3	intra	3	intra	
+3	runwayLength	_	_	_	dom_ID=2	1	intra	1	intra	
+4	operatingOrganisation	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	dom_ID=0	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=0	1	inter	1	inter	
+4	ICAO_Location_Identifier	_	_	_	dom_ID=4	2	intra	2	intra	
+
+1	leaderName	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	isPartOf	_	_	_	dom_ID=4	1	intra	1	intra	
+3	location	_	_	_	dom_ID=0	1	inter	1	inter	
+4	isPartOf	_	_	_	dom_ID=4	2	intra	2	intra	
+5	nativeName	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	transportAircraft	_	_	_	dom_ID=3	1	inter	1	inter	
+3	aircraftFighter	_	_	_	dom_ID=3	2	intra	2	intra	
+4	attackAircraft	_	_	_	dom_ID=3	3	intra	3	intra	
+5	battles	_	_	_	dom_ID=3	2	inter	2	inter	
+
+1	aircraftFighter	_	_	_	dom_ID=4	4	inter	4	inter	
+2	operatingOrganisation	_	_	_	dom_ID=1	3	inter	3	inter	
+3	battles	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+4	transportAircraft	_	_	_	dom_ID=4	2	inter	2	inter	
+5	attackAircraft	_	_	_	dom_ID=4	4	intra	4	intra	
+
+1	battles	_	_	_	dom_ID=4	3	intra	3	intra	
+2	transportAircraft	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+3	battles	_	_	_	dom_ID=4	4	inter	4	inter	
+4	attackAircraft	_	_	_	dom_ID=4	2	inter	2	inter	
+5	operatingOrganisation	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=0	2	intra	2	intra	
+2	battles	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	attackAircraft	_	_	_	dom_ID=1	4	intra	4	intra	
+4	transportAircraft	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	leaderName	_	_	_	dom_ID=1	5	inter	5	inter	
+2	country	_	_	_	dom_ID=4	3	intra	3	intra	
+3	cityServed	_	_	_	dom_ID=3	4	intra	4	intra	
+4	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	operatingOrganisation	_	_	_	dom_ID=3	4	inter	4	inter	
+
+1	cityServed	_	_	_	dom_ID=3	2	inter	2	inter	
+2	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=0	5	intra	5	intra	
+4	country	_	_	_	dom_ID=1	1	intra	1	intra	
+5	location	_	_	_	dom_ID=3	4	intra	4	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	5	inter	5	inter	
+2	cityServed	_	_	_	dom_ID=1	5	intra	5	intra	
+3	runwayLength	_	_	_	dom_ID=1	1	intra	1	intra	
+4	runwayName	_	_	_	dom_ID=1	3	intra	3	intra	
+5	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	capital	_	_	_	dom_ID=2	4	intra	4	intra	
+3	country	_	_	_	dom_ID=2	1	intra	1	intra	
+4	largestCity	_	_	_	dom_ID=2	1	inter	1	inter	
+5	language	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	largestCity	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=4	5	intra	5	intra	
+3	capital	_	_	_	dom_ID=4	1	intra	1	intra	
+4	location	_	_	_	dom_ID=1	1	inter	1	inter	
+5	demonym	_	_	_	dom_ID=4	4	intra	4	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	2	intra	2	intra	
+2	cityServed	_	_	_	dom_ID=2	3	intra	3	intra	
+3	isPartOf	_	_	_	dom_ID=1	4	intra	4	intra	
+4	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=2	4	intra	4	intra	
+2	country	_	_	_	dom_ID=0	5	intra	5	intra	
+3	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	runwayLength	_	_	_	dom_ID=2	3	inter	3	inter	
+5	isPartOf	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	4	intra	4	intra	
+2	operatingOrganisation	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	runwayLength	_	_	_	dom_ID=1	1	intra	1	intra	
+4	cityServed	_	_	_	dom_ID=1	2	inter	2	inter	
+5	owner	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	cityServed	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	runwayName	_	_	_	dom_ID=1	1	inter	1	inter	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	1	intra	1	intra	
+4	location	_	_	_	dom_ID=1	3	intra	3	intra	
+5	runwayLength	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	cityServed	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=5	1	intra	1	intra	
+3	isPartOf	_	_	_	dom_ID=4	4	intra	4	intra	
+4	isPartOf	_	_	_	dom_ID=4	2	intra	2	intra	
+5	country	_	_	_	dom_ID=4	3	intra	3	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	3rd_runway_SurfaceType	_	_	_	dom_ID=5	4	intra	4	intra	
+3	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=5	1	intra	1	intra	
+4	runwayLength	_	_	_	dom_ID=5	5	intra	5	intra	
+5	runwayName	_	_	_	dom_ID=5	1	inter	1	inter	
+
+1	operatingOrganisation	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=3	1	inter	1	inter	
+3	runwayName	_	_	_	dom_ID=3	4	intra	4	intra	
+4	runwayLength	_	_	_	dom_ID=3	2	intra	2	intra	
+5	location	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	operatingOrganisation	_	_	_	dom_ID=1	5	intra	5	intra	
+2	elevationAboveTheSeaLevel_(in_metres)	_	_	_	dom_ID=1	5	inter	5	inter	
+3	runwayName	_	_	_	dom_ID=1	2	intra	2	intra	
+4	ICAO_Location_Identifier	_	_	_	dom_ID=1	3	intra	3	intra	
+5	runwayLength	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	cityServed	_	_	_	dom_ID=1	2	intra	2	intra	
+2	leaderName	_	_	_	dom_ID=5	3	inter	3	inter	
+3	leaderName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	isPartOf	_	_	_	dom_ID=3	4	intra	4	intra	
+2	cityServed	_	_	_	dom_ID=4	5	intra	5	intra	
+3	country	_	_	_	dom_ID=3	1	intra	1	intra	
+4	isPartOf	_	_	_	dom_ID=3	5	inter	5	inter	
+5	cityServed	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	dom_ID=2	5	intra	5	intra	
+2	operator	_	_	_	dom_ID=5	4	intra	4	intra	
+3	occupation	_	_	_	dom_ID=2	5	inter	5	inter	
+4	was_a_crew_member_of	_	_	_	dom_ID=2	3	intra	3	intra	
+5	nationality	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	almaMater	_	_	_	dom_ID=0	3	intra	3	intra	
+2	deathPlace	_	_	_	dom_ID=0	5	inter	5	inter	
+3	birthDate	_	_	_	dom_ID=0	5	intra	5	intra	
+4	deathDate	_	_	_	dom_ID=0	2	intra	2	intra	
+5	birthPlace	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	occupation	_	_	_	dom_ID=1	3	intra	3	intra	
+3	almaMater	_	_	_	dom_ID=1	1	inter	1	inter	
+4	deathPlace	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	was_selected_by_NASA	_	_	_	dom_ID=1	3	intra	3	intra	
+2	operator	_	_	_	dom_ID=4	4	intra	4	intra	
+3	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	was_a_crew_member_of	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	operator	_	_	_	dom_ID=1	2	intra	2	intra	
+2	was_a_crew_member_of	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	timeInSpace	_	_	_	dom_ID=3	1	intra	1	intra	
+4	commander	_	_	_	dom_ID=1	2	inter	2	inter	
+5	backup_pilot	_	_	_	dom_ID=1	4	intra	4	intra	
+
+1	higher	_	_	_	dom_ID=0	5	intra	5	intra	
+2	birthPlace	_	_	_	dom_ID=1	3	intra	3	intra	
+3	birthDate	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	deathPlace	_	_	_	dom_ID=1	1	intra	1	intra	
+5	awards	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	compete_in	_	_	_	dom_ID=5	3	intra	3	intra	
+2	president	_	_	_	dom_ID=5	3	inter	3	inter	
+3	affiliation	_	_	_	dom_ID=5	5	inter	5	inter	
+4	almaMater	_	_	_	dom_ID=4	5	intra	5	intra	
+5	birthPlace	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	deathPlace	_	_	_	dom_ID=2	2	intra	2	intra	
+2	deathDate	_	_	_	dom_ID=2	3	intra	3	intra	
+3	almaMater	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	birthPlace	_	_	_	dom_ID=2	3	inter	3	inter	
+
+1	birthPlace	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	dom_ID=4	1	inter	1	inter	
+3	compete_in	_	_	_	dom_ID=2	2	inter	2	inter	
+4	affiliations	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	affiliations	_	_	_	dom_ID=0	2	intra	2	intra	
+2	almaMater	_	_	_	dom_ID=3	3	intra	3	intra	
+3	birthPlace	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	deathPlace	_	_	_	dom_ID=3	3	inter	3	inter	
+
+1	dateOfRetirement	_	_	_	dom_ID=3	4	intra	4	intra	
+2	backup_pilot	_	_	_	dom_ID=5	3	intra	3	intra	
+3	commander	_	_	_	dom_ID=5	5	inter	5	inter	
+4	operator	_	_	_	dom_ID=5	5	intra	5	intra	
+5	was_a_crew_member_of	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+
+1	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=0	1	inter	1	inter	
+3	leaderName	_	_	_	dom_ID=1	2	intra	2	intra	
+4	currency	_	_	_	dom_ID=1	5	intra	5	intra	
+5	capital	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	floorArea	_	_	_	dom_ID=5	5	intra	5	intra	
+3	buildingStartDate	_	_	_	dom_ID=5	1	inter	1	inter	
+4	cost	_	_	_	dom_ID=5	1	intra	1	intra	
+5	floorCount	_	_	_	dom_ID=5	3	intra	3	intra	
+
+1	country	_	_	_	dom_ID=0	2	intra	2	intra	
+2	isPartOf	_	_	_	dom_ID=0	4	intra	4	intra	
+3	floorCount	_	_	_	dom_ID=2	5	intra	5	intra	
+4	leaderName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+5	location	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	leaderTitle	_	_	_	dom_ID=0	4	inter	4	inter	
+2	location	_	_	_	dom_ID=2	4	intra	4	intra	
+3	isPartOf	_	_	_	dom_ID=0	1	intra	1	intra	
+4	owner	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	country	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	architecturalStyle	_	_	_	dom_ID=0	3	intra	3	intra	
+2	buildingStartDate	_	_	_	dom_ID=0	4	intra	4	intra	
+3	address	_	_	_	dom_ID=0	5	intra	5	intra	
+4	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+5	completionDate	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	currency	_	_	_	dom_ID=3	3	intra	3	intra	
+2	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	language	_	_	_	dom_ID=3	5	intra	5	intra	
+4	country	_	_	_	dom_ID=0	2	inter	2	inter	
+5	capital	_	_	_	dom_ID=3	4	intra	4	intra	
+
+1	country	_	_	_	dom_ID=4	3	inter	3	inter	
+2	location	_	_	_	dom_ID=4	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	currency	_	_	_	dom_ID=5	5	intra	5	intra	
+5	capital	_	_	_	dom_ID=5	3	intra	3	intra	
+
+1	leaderName	_	_	_	dom_ID=0	4	intra	4	intra	
+2	location	_	_	_	dom_ID=1	3	intra	3	intra	
+3	country	_	_	_	dom_ID=1	4	inter	4	inter	
+4	ethnicGroup	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+5	isPartOf	_	_	_	dom_ID=5	2	intra	2	intra	
+
+1	location	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=2	5	intra	5	intra	
+3	location	_	_	_	dom_ID=0	1	intra	1	intra	
+4	country	_	_	_	dom_ID=0	3	intra	3	intra	
+5	leaderTitle	_	_	_	dom_ID=5	1	inter	1	inter	
+
+1	leaderTitle	_	_	_	dom_ID=0	5	intra	5	intra	
+2	location	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	location	_	_	_	dom_ID=1	2	intra	2	intra	
+4	leaderName	_	_	_	dom_ID=5	1	intra	1	intra	
+5	country	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	bedCount	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+3	state	_	_	_	dom_ID=1	1	intra	1	intra	
+4	country	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	significantProject	_	_	_	dom_ID=2	2	intra	2	intra	
+2	significantBuilding	_	_	_	dom_ID=2	4	intra	4	intra	
+3	birthPlace	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	significantBuilding	_	_	_	dom_ID=2	5	intra	5	intra	
+5	architect	_	_	_	dom_ID=5	3	intra	3	intra	
+
+1	birthPlace	_	_	_	dom_ID=5	2	intra	2	intra	
+2	architect	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	significantProject	_	_	_	dom_ID=5	1	intra	1	intra	
+4	significantBuilding	_	_	_	dom_ID=5	3	intra	3	intra	
+5	significantBuilding	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	location	_	_	_	dom_ID=1	5	inter	5	inter	
+2	architecturalStyle	_	_	_	dom_ID=1	1	inter	1	inter	
+3	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=1	4	intra	4	intra	
+4	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=1	1	intra	1	intra	
+5	yearOfConstruction	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	yearOfConstruction	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	ReferenceNumber_in_the_National_Register_of_Historic_Places	_	_	_	dom_ID=4	3	intra	3	intra	
+3	added_to_the_National_Register_of_Historic_Places	_	_	_	dom_ID=4	1	inter	1	inter	
+4	location	_	_	_	dom_ID=4	5	intra	5	intra	
+5	architecturalStyle	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	isPartOf	_	_	_	dom_ID=2	2	inter	2	inter	
+2	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=2	2	intra	2	intra	
+4	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	architect	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=1	1	inter	1	inter	
+3	postalCode	_	_	_	dom_ID=1	5	intra	5	intra	
+4	governingBody	_	_	_	dom_ID=1	2	intra	2	intra	
+5	birthPlace	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	location	_	_	_	dom_ID=1	2	intra	2	intra	
+2	isPartOf	_	_	_	dom_ID=3	3	intra	3	intra	
+3	country	_	_	_	dom_ID=3	4	inter	4	inter	
+4	leaderName	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+5	leaderName	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=0	3	intra	3	intra	
+2	leaderTitle	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=0	4	intra	4	intra	
+4	language	_	_	_	dom_ID=0	2	intra	2	intra	
+5	location	_	_	_	dom_ID=5	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=3	3	intra	3	intra	
+3	ethnicGroup	_	_	_	dom_ID=3	1	inter	1	inter	
+4	location	_	_	_	dom_ID=1	2	intra	2	intra	
+5	leaderTitle	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	firstAired	_	_	_	dom_ID=1	3	intra	3	intra	
+2	starring	_	_	_	dom_ID=1	5	intra	5	intra	
+3	broadcastedBy	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	lastAired	_	_	_	dom_ID=1	1	intra	1	intra	
+5	creator	_	_	_	dom_ID=1	3	inter	3	inter	
+
+1	starring	_	_	_	dom_ID=4	2	intra	2	intra	
+2	series	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+3	creator	_	_	_	dom_ID=1	4	intra	4	intra	
+4	creator	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	country	_	_	_	dom_ID=4	4	intra	4	intra	
+2	alternativeName	_	_	_	dom_ID=4	4	inter	4	inter	
+3	mainIngredients	_	_	_	dom_ID=4	1	intra	1	intra	
+4	region	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	mainIngredients	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	course	_	_	_	dom_ID=3	3	intra	3	intra	
+3	region	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=2	3	intra	3	intra	
+2	language	_	_	_	dom_ID=1	4	intra	4	intra	
+3	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	currency	_	_	_	dom_ID=1	3	inter	3	inter	
+5	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	capital	_	_	_	dom_ID=5	3	intra	3	intra	
+2	language	_	_	_	dom_ID=5	5	intra	5	intra	
+3	leaderName	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=4	3	inter	3	inter	
+5	demonym	_	_	_	dom_ID=5	1	intra	1	intra	
+
+1	demonym	_	_	_	dom_ID=1	5	intra	5	intra	
+2	leaderName	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+4	region	_	_	_	dom_ID=3	2	intra	2	intra	
+5	country	_	_	_	dom_ID=3	2	inter	2	inter	
+
+1	country	_	_	_	dom_ID=3	4	intra	4	intra	
+2	ethnicGroup	_	_	_	dom_ID=2	3	intra	3	intra	
+3	ethnicGroup	_	_	_	dom_ID=2	5	intra	5	intra	
+4	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	capital	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=3	3	inter	3	inter	
+2	ethnicGroup	_	_	_	dom_ID=1	3	intra	3	intra	
+3	ethnicGroup	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	region	_	_	_	dom_ID=3	1	intra	1	intra	
+5	leaderName	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	mainIngredients	_	_	_	dom_ID=2	2	inter	2	inter	
+2	region	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=5	4	intra	4	intra	
+2	ethnicGroup	_	_	_	dom_ID=5	3	intra	3	intra	
+3	leaderName	_	_	_	dom_ID=5	4	inter	4	inter	
+4	country	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+5	capital	_	_	_	dom_ID=5	1	intra	1	intra	
+
+1	language	_	_	_	dom_ID=3	2	intra	2	intra	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	leaderName	_	_	_	dom_ID=4	5	intra	5	intra	
+4	leaderName	_	_	_	dom_ID=3	1	intra	1	intra	
+5	region	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	dishVariation	_	_	_	dom_ID=4	5	inter	5	inter	
+2	ingredient	_	_	_	dom_ID=0	1	intra	1	intra	
+3	isPartOf	_	_	_	dom_ID=2	5	intra	5	intra	
+4	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+5	region	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	family	_	_	_	dom_ID=0	4	intra	4	intra	
+2	region	_	_	_	dom_ID=5	3	intra	3	intra	
+3	country	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	ingredient	_	_	_	dom_ID=5	3	inter	3	inter	
+5	genus	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	family	_	_	_	dom_ID=2	2	inter	2	inter	
+2	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	order	_	_	_	dom_ID=2	1	intra	1	intra	
+4	ingredient	_	_	_	dom_ID=0	5	intra	5	intra	
+5	region	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	ingredient	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=5	2	intra	2	intra	
+4	leaderName	_	_	_	dom_ID=5	3	intra	3	intra	
+5	language	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	country	_	_	_	dom_ID=4	3	intra	3	intra	
+2	foundationPlace	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	creator	_	_	_	dom_ID=4	2	intra	2	intra	
+4	leaderName	_	_	_	dom_ID=5	1	intra	1	intra	
+5	language	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	region	_	_	_	dom_ID=2	5	intra	5	intra	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	language	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	leaderName	_	_	_	dom_ID=5	3	intra	3	intra	
+5	leaderName	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	mainIngredients	_	_	_	dom_ID=2	3	inter	3	inter	
+2	country	_	_	_	dom_ID=2	4	intra	4	intra	
+3	alternativeName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	region	_	_	_	dom_ID=2	3	intra	3	intra	
+
+1	leaderName	_	_	_	dom_ID=3	2	intra	2	intra	
+2	demonym	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	region	_	_	_	dom_ID=2	5	intra	5	intra	
+4	country	_	_	_	dom_ID=2	2	inter	2	inter	
+5	leaderName	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	region	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderName	_	_	_	dom_ID=2	1	inter	1	inter	
+3	country	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=0	4	intra	4	intra	
+2	dishVariation	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	course	_	_	_	dom_ID=0	2	inter	2	inter	
+4	region	_	_	_	dom_ID=0	3	intra	3	intra	
+5	leaderName	_	_	_	dom_ID=3	3	inter	3	inter	
+
+1	region	_	_	_	dom_ID=3	2	inter	2	inter	
+2	leaderName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	dishVariation	_	_	_	dom_ID=4	1	intra	1	intra	
+4	ingredient	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	dishVariation	_	_	_	dom_ID=5	5	intra	5	intra	
+2	isPartOf	_	_	_	dom_ID=4	4	intra	4	intra	
+3	ingredient	_	_	_	dom_ID=3	1	intra	1	intra	
+4	leaderName	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+5	region	_	_	_	dom_ID=3	4	inter	4	inter	
+
+1	region	_	_	_	dom_ID=0	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=3	4	intra	4	intra	
+3	language	_	_	_	dom_ID=3	2	intra	2	intra	
+4	capital	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	country	_	_	_	dom_ID=0	1	intra	1	intra	
+
+1	leaderName	_	_	_	dom_ID=1	5	intra	5	intra	
+2	capital	_	_	_	dom_ID=1	3	inter	3	inter	
+3	country	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	demonym	_	_	_	dom_ID=1	3	intra	3	intra	
+5	leaderName	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	country	_	_	_	dom_ID=0	2	inter	2	inter	
+2	leaderName	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	region	_	_	_	dom_ID=0	4	intra	4	intra	
+4	language	_	_	_	dom_ID=5	2	intra	2	intra	
+5	ethnicGroup	_	_	_	dom_ID=2	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	officialLanguage	_	_	_	dom_ID=2	5	intra	5	intra	
+3	ethnicGroup	_	_	_	dom_ID=2	1	inter	1	inter	
+4	ethnicGroup	_	_	_	dom_ID=2	3	intra	3	intra	
+5	language	_	_	_	dom_ID=2	4	intra	4	intra	
+
+1	region	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	language	_	_	_	dom_ID=2	5	intra	5	intra	
+3	leaderName	_	_	_	dom_ID=2	1	inter	1	inter	
+4	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+5	country	_	_	_	dom_ID=5	1	intra	1	intra	
+
+1	currency	_	_	_	dom_ID=5	4	intra	4	intra	
+2	demonym	_	_	_	dom_ID=5	5	intra	5	intra	
+3	leaderName	_	_	_	dom_ID=5	1	intra	1	intra	
+4	country	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+5	language	_	_	_	dom_ID=5	3	intra	3	intra	
+
+1	has_to_its_north	_	_	_	dom_ID=3	4	intra	4	intra	
+2	municipality	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	location	_	_	_	dom_ID=2	2	intra	2	intra	
+4	has_to_its_west	_	_	_	dom_ID=3	2	inter	2	inter	
+
+1	leaderTitle	_	_	_	dom_ID=1	4	intra	4	intra	
+2	location	_	_	_	dom_ID=2	4	inter	4	inter	
+3	leaderName	_	_	_	dom_ID=1	1	intra	1	intra	
+4	capital	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+5	legislature	_	_	_	dom_ID=1	2	intra	2	intra	
+
+1	designer	_	_	_	dom_ID=2	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=4	5	inter	5	inter	
+3	dedicatedTo	_	_	_	dom_ID=2	4	intra	4	intra	
+4	location	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	nativeName	_	_	_	dom_ID=2	4	inter	4	inter	
+
+1	designer	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=5	3	intra	3	intra	
+3	material	_	_	_	dom_ID=5	1	intra	1	intra	
+4	dedicatedTo	_	_	_	dom_ID=5	5	intra	5	intra	
+5	nativeName	_	_	_	dom_ID=5	1	inter	1	inter	
+
+1	designer	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	material	_	_	_	dom_ID=3	1	intra	1	intra	
+3	dedicatedTo	_	_	_	dom_ID=3	2	intra	2	intra	
+4	leaderTitle	_	_	_	dom_ID=1	5	intra	5	intra	
+5	location	_	_	_	dom_ID=3	1	inter	1	inter	
+
+1	manager	_	_	_	dom_ID=2	5	inter	5	inter	
+2	club	_	_	_	dom_ID=1	1	intra	1	intra	
+3	ground	_	_	_	dom_ID=2	5	intra	5	intra	
+4	club	_	_	_	dom_ID=1	2	intra	2	intra	
+5	leader	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	league	_	_	_	dom_ID=2	5	intra	5	intra	
+2	manager	_	_	_	dom_ID=2	5	inter	5	inter	
+3	club	_	_	_	dom_ID=4	2	intra	2	intra	
+4	club	_	_	_	dom_ID=4	3	intra	3	intra	
+5	champions	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+
+1	ground	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=4	1	inter	1	inter	
+3	country	_	_	_	dom_ID=5	4	intra	4	intra	
+4	league	_	_	_	dom_ID=1	2	inter	2	inter	
+5	champions	_	_	_	dom_ID=5	4	inter	4	inter	
+
+1	ground	_	_	_	dom_ID=0	4	intra	4	intra	
+2	champions	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=2	2	intra	2	intra	
+4	league	_	_	_	dom_ID=0	2	inter	2	inter	
+5	location	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	league	_	_	_	dom_ID=5	3	inter	3	inter	
+2	numberOfMembers	_	_	_	dom_ID=5	1	intra	1	intra	
+3	champions	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=1	3	intra	3	intra	
+5	manager	_	_	_	dom_ID=5	2	intra	2	intra	
+
+1	academicStaffSize	_	_	_	dom_ID=3	5	intra	5	intra	
+2	dean	_	_	_	dom_ID=3	4	inter	4	inter	
+3	numberOfStudents	_	_	_	dom_ID=3	1	intra	1	intra	
+4	city	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	country	_	_	_	dom_ID=3	4	intra	4	intra	
+
+1	leaderName	_	_	_	dom_ID=4	4	inter	4	inter	
+2	location	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	country	_	_	_	dom_ID=5	2	intra	2	intra	
+4	established	_	_	_	dom_ID=5	2	inter	2	inter	
+5	numberOfStudents	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	affiliation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	state	_	_	_	dom_ID=0	3	intra	3	intra	
+3	city	_	_	_	dom_ID=0	1	intra	1	intra	
+4	has_to_its_northeast	_	_	_	dom_ID=2	1	inter	1	inter	
+5	has_to_its_west	_	_	_	dom_ID=2	4	intra	4	intra	
+
+1	campus	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	numberOfPostgraduateStudents	_	_	_	dom_ID=0	4	intra	4	intra	
+3	country	_	_	_	dom_ID=0	1	intra	1	intra	
+4	established	_	_	_	dom_ID=0	1	inter	1	inter	
+
+1	affiliation	_	_	_	dom_ID=3	5	intra	5	intra	
+2	city	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+3	state	_	_	_	dom_ID=3	4	intra	4	intra	
+4	founder	_	_	_	dom_ID=4	2	intra	2	intra	
+5	has_to_its_west	_	_	_	dom_ID=2	2	inter	2	inter	
+
+1	capital	_	_	_	dom_ID=0	4	inter	4	inter	
+2	leaderName	_	_	_	dom_ID=0	1	intra	1	intra	
+3	country	_	_	_	dom_ID=1	4	intra	4	intra	
+4	city	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	academicStaffSize	_	_	_	dom_ID=0	3	intra	3	intra	
+3	numberOfStudents	_	_	_	dom_ID=0	1	inter	1	inter	
+4	affiliation	_	_	_	dom_ID=0	1	intra	1	intra	
+5	established	_	_	_	dom_ID=0	2	intra	2	intra	
+
+1	followedBy	_	_	_	dom_ID=1	4	intra	4	intra	
+2	location	_	_	_	dom_ID=2	5	intra	5	intra	
+3	ethnicGroup	_	_	_	dom_ID=2	2	intra	2	intra	
+4	publisher	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+5	country	_	_	_	dom_ID=1	4	inter	4	inter	
+
+1	precededBy	_	_	_	dom_ID=1	2	inter	2	inter	
+2	ethnicGroup	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	publisher	_	_	_	dom_ID=4	5	intra	5	intra	
+4	country	_	_	_	dom_ID=1	2	intra	2	intra	
+5	followedBy	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	followedBy	_	_	_	dom_ID=2	5	intra	5	intra	
+2	precededBy	_	_	_	dom_ID=1	4	intra	4	intra	
+3	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+4	precededBy	_	_	_	dom_ID=0	3	intra	3	intra	
+5	followedBy	_	_	_	dom_ID=0	3	inter	3	inter	
+
+1	affiliation	_	_	_	dom_ID=0	4	intra	4	intra	
+2	city	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	nickname	_	_	_	dom_ID=0	2	intra	2	intra	
+4	publisher	_	_	_	dom_ID=1	2	inter	2	inter	
+
+1	publisher	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+2	state	_	_	_	dom_ID=2	3	intra	3	intra	
+3	city	_	_	_	dom_ID=2	1	intra	1	intra	
+4	affiliation	_	_	_	dom_ID=2	5	intra	5	intra	
+5	nickname	_	_	_	dom_ID=2	1	inter	1	inter	
+
+1	ethnicGroup	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+2	country	_	_	_	dom_ID=3	1	inter	1	inter	
+3	spokenIn	_	_	_	dom_ID=1	4	intra	4	intra	
+4	language	_	_	_	dom_ID=3	2	inter	2	inter	
+5	leaderName	_	_	_	dom_ID=5	1	intra	1	intra	
+
+1	capital	_	_	_	dom_ID=4	4	inter	4	inter	
+2	language	_	_	_	dom_ID=4	4	intra	4	intra	
+3	spokenIn	_	_	_	dom_ID=0	2	intra	2	intra	
+4	country	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	ethnicGroup	_	_	_	dom_ID=4	1	intra	1	intra	
+
+1	ethnicGroup	_	_	_	dom_ID=0	5	intra	5	intra	
+2	country	_	_	_	dom_ID=2	1	intra	1	intra	
+3	spokenIn	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+4	language	_	_	_	dom_ID=0	3	intra	3	intra	
+5	leaderName	_	_	_	dom_ID=0	4	intra	4	intra	
+
+1	leaderName	_	_	_	dom_ID=2	3	intra	3	intra	
+2	language	_	_	_	dom_ID=2	3	inter	3	inter	
+3	leaderName	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=0	5	intra	5	intra	
+5	capital	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	parentCompany	_	_	_	dom_ID=3	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=2	4	intra	4	intra	
+3	publisher	_	_	_	dom_ID=0	5	inter	5	inter	
+4	leaderName	_	_	_	dom_ID=2	5	intra	5	intra	
+5	country	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+
+1	language	_	_	_	dom_ID=3	3	intra	3	intra	
+2	leaderName	_	_	_	dom_ID=2	3	inter	3	inter	
+3	spokenIn	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+4	country	_	_	_	dom_ID=3	1	intra	1	intra	
+5	ethnicGroup	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	language	_	_	_	dom_ID=1	4	inter	4	inter	
+2	spokenIn	_	_	_	dom_ID=4	1	intra	1	intra	
+3	leaderName	_	_	_	dom_ID=1	4	intra	4	intra	
+4	country	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	ethnicGroup	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	nationality	_	_	_	dom_ID=6	0	ROOT	0	ROOT	
+2	birthPlace	_	_	_	dom_ID=6	1	inter	1	inter	
+3	operator	_	_	_	dom_ID=1	4	intra	4	intra	
+4	was_a_crew_member_of	_	_	_	dom_ID=6	1	intra	1	intra	
+5	status	_	_	_	dom_ID=6	2	intra	2	intra	
+6	commander	_	_	_	dom_ID=1	3	intra	3	intra	
+
+1	birthPlace	_	_	_	dom_ID=1	4	intra	4	intra	
+2	deathPlace	_	_	_	dom_ID=1	3	inter	3	inter	
+3	almaMater	_	_	_	dom_ID=1	6	inter	6	inter	
+4	birthDate	_	_	_	dom_ID=1	6	intra	6	intra	
+5	was_selected_by_NASA	_	_	_	dom_ID=1	3	intra	3	intra	
+6	nationality	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	deathPlace	_	_	_	dom_ID=2	4	inter	4	inter	
+2	birthDate	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	was_selected_by_NASA	_	_	_	dom_ID=2	4	intra	4	intra	
+4	almaMater	_	_	_	dom_ID=2	2	inter	2	inter	
+5	birthPlace	_	_	_	dom_ID=2	2	intra	2	intra	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=4	6	inter	6	inter	
+2	operator	_	_	_	dom_ID=5	1	intra	1	intra	
+3	deathPlace	_	_	_	dom_ID=4	1	inter	1	inter	
+4	birthPlace	_	_	_	dom_ID=4	6	intra	6	intra	
+5	dateOfRetirement	_	_	_	dom_ID=4	2	intra	2	intra	
+6	birthDate	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+
+1	was_awarded	_	_	_	dom_ID=2	4	inter	4	inter	
+2	higher	_	_	_	dom_ID=4	3	intra	3	intra	
+3	awards	_	_	_	dom_ID=2	1	inter	1	inter	
+4	birthPlace	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	deathDate	_	_	_	dom_ID=2	3	inter	3	inter	
+
+1	almaMater	_	_	_	dom_ID=0	6	intra	6	intra	
+2	was_a_crew_member_of	_	_	_	dom_ID=0	1	intra	1	intra	
+3	birthDate	_	_	_	dom_ID=0	5	intra	5	intra	
+4	occupation	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+5	birthPlace	_	_	_	dom_ID=0	4	intra	4	intra	
+6	alternativeNames	_	_	_	dom_ID=0	4	inter	4	inter	
+
+1	almaMater	_	_	_	dom_ID=6	4	inter	4	inter	
+2	birthDate	_	_	_	dom_ID=6	4	intra	4	intra	
+3	was_selected_by_NASA	_	_	_	dom_ID=6	1	intra	1	intra	
+4	birthPlace	_	_	_	dom_ID=6	0	ROOT	0	ROOT	
+5	was_a_crew_member_of	_	_	_	dom_ID=6	1	inter	1	inter	
+6	status	_	_	_	dom_ID=6	5	intra	5	intra	
+
+1	occupation	_	_	_	dom_ID=0	4	intra	4	intra	
+2	operator	_	_	_	dom_ID=4	5	intra	5	intra	
+3	was_selected_by_NASA	_	_	_	dom_ID=0	4	inter	4	inter	
+4	almaMater	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+5	was_a_crew_member_of	_	_	_	dom_ID=0	3	intra	3	intra	
+
+1	nationality	_	_	_	dom_ID=4	4	intra	4	intra	
+2	deathPlace	_	_	_	dom_ID=4	5	intra	5	intra	
+3	almaMater	_	_	_	dom_ID=4	1	intra	1	intra	
+4	birthPlace	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+5	deathDate	_	_	_	dom_ID=4	4	inter	4	inter	
+
+1	birthPlace	_	_	_	dom_ID=3	4	intra	4	intra	
+2	affiliations	_	_	_	dom_ID=4	5	intra	5	intra	
+3	deathPlace	_	_	_	dom_ID=3	1	intra	1	intra	
+4	birthDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+5	almaMater	_	_	_	dom_ID=3	4	inter	4	inter	
+
+1	was_a_crew_member_of	_	_	_	dom_ID=5	2	intra	2	intra	
+2	occupation	_	_	_	dom_ID=5	4	intra	4	intra	
+3	birthPlace	_	_	_	dom_ID=5	6	intra	6	intra	
+4	almaMater	_	_	_	dom_ID=5	6	inter	6	inter	
+5	dateOfRetirement	_	_	_	dom_ID=5	4	inter	4	inter	
+6	birthDate	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+
+1	material	_	_	_	dom_ID=4	5	intra	5	intra	
+2	capital	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	location	_	_	_	dom_ID=4	2	inter	2	inter	
+4	leaderName	_	_	_	dom_ID=5	2	intra	2	intra	
+5	designer	_	_	_	dom_ID=4	3	inter	3	inter	
+6	inaugurationDate	_	_	_	dom_ID=4	5	inter	5	inter	
+
+1	designer	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	location	_	_	_	dom_ID=4	1	intra	1	intra	
+3	leaderTitle	_	_	_	dom_ID=3	4	inter	4	inter	
+4	dedicatedTo	_	_	_	dom_ID=4	1	inter	1	inter	
+5	leaderName	_	_	_	dom_ID=3	3	intra	3	intra	
+
+1	nearestCity	_	_	_	dom_ID=5	2	intra	2	intra	
+2	district	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	established	_	_	_	dom_ID=0	2	inter	2	inter	
+4	category	_	_	_	dom_ID=0	3	intra	3	intra	
+5	owningOrganisation	_	_	_	dom_ID=0	3	inter	3	inter	
+
+1	country	_	_	_	dom_ID=6	2	intra	2	intra	
+2	location	_	_	_	dom_ID=2	3	intra	3	intra	
+3	district	_	_	_	dom_ID=6	0	ROOT	0	ROOT	
+4	category	_	_	_	dom_ID=6	5	inter	5	inter	
+5	established	_	_	_	dom_ID=6	3	inter	3	inter	
+6	owningOrganisation	_	_	_	dom_ID=6	4	intra	4	intra	
+
+1	location	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	leaderTitle	_	_	_	dom_ID=4	3	inter	3	inter	
+3	numberOfStudents	_	_	_	dom_ID=3	1	inter	1	inter	
+4	country	_	_	_	dom_ID=3	1	intra	1	intra	
+5	leaderName	_	_	_	dom_ID=4	2	intra	2	intra	
+6	established	_	_	_	dom_ID=3	4	intra	4	intra	
+
+1	established	_	_	_	dom_ID=5	4	inter	4	inter	
+2	campus	_	_	_	dom_ID=5	1	inter	1	inter	
+3	state	_	_	_	dom_ID=5	6	intra	6	intra	
+4	city	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+5	director	_	_	_	dom_ID=5	1	intra	1	intra	
+6	country	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	city	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+2	affiliation	_	_	_	dom_ID=2	1	inter	1	inter	
+3	president	_	_	_	dom_ID=2	2	inter	2	inter	
+4	director	_	_	_	dom_ID=2	3	intra	3	intra	
+5	country	_	_	_	dom_ID=2	1	intra	1	intra	
+6	established	_	_	_	dom_ID=2	5	intra	5	intra	
+
+1	state	_	_	_	dom_ID=6	0	ROOT	0	ROOT	
+2	was_given_the_'Technical_Campus'_status_by	_	_	_	dom_ID=6	1	intra	1	intra	
+3	sportsGoverningBody	_	_	_	dom_ID=1	5	intra	5	intra	
+4	has_to_its_west	_	_	_	dom_ID=0	5	inter	5	inter	
+5	sportsOffered	_	_	_	dom_ID=6	1	inter	1	inter	
+6	location	_	_	_	dom_ID=3	2	intra	2	intra	
+
+1	was_given_the_'Technical_Campus'_status_by	_	_	_	dom_ID=1	6	inter	6	inter	
+2	sportsGoverningBody	_	_	_	dom_ID=6	4	intra	4	intra	
+3	location	_	_	_	dom_ID=5	1	intra	1	intra	
+4	sportsOffered	_	_	_	dom_ID=1	1	inter	1	inter	
+5	city	_	_	_	dom_ID=2	6	intra	6	intra	
+6	affiliation	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+
+1	patronSaint	_	_	_	dom_ID=1	3	inter	3	inter	
+2	leaderName	_	_	_	dom_ID=1	3	intra	3	intra	
+3	leaderTitle	_	_	_	dom_ID=1	5	inter	5	inter	
+4	country	_	_	_	dom_ID=4	1	intra	1	intra	
+5	capital	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+6	ethnicGroup	_	_	_	dom_ID=1	5	intra	5	intra	
+
+1	city	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	academicStaffSize	_	_	_	dom_ID=3	1	inter	1	inter	
+3	established	_	_	_	dom_ID=3	5	intra	5	intra	
+4	affiliation	_	_	_	dom_ID=3	2	intra	2	intra	
+5	country	_	_	_	dom_ID=3	1	intra	1	intra	
+6	leaderName	_	_	_	dom_ID=6	2	inter	2	inter	
+
+1	numberOfStudents	_	_	_	dom_ID=4	6	intra	6	intra	
+2	affiliation	_	_	_	dom_ID=4	6	inter	6	inter	
+3	established	_	_	_	dom_ID=4	5	intra	5	intra	
+4	city	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+5	country	_	_	_	dom_ID=4	4	intra	4	intra	
+6	academicStaffSize	_	_	_	dom_ID=4	4	inter	4	inter	
+
+1	occupation	_	_	_	dom_ID=1	5	inter	5	inter	
+2	status	_	_	_	dom_ID=1	1	inter	1	inter	
+3	nationality	_	_	_	dom_ID=1	7	intra	7	intra	
+4	was_a_crew_member_of	_	_	_	dom_ID=1	1	intra	1	intra	
+5	birthDate	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+6	operator	_	_	_	dom_ID=3	4	intra	4	intra	
+7	birthPlace	_	_	_	dom_ID=1	5	intra	5	intra	
+
+1	operator	_	_	_	dom_ID=0	6	intra	6	intra	
+2	birthPlace	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+3	occupation	_	_	_	dom_ID=5	2	inter	2	inter	
+4	almaMater	_	_	_	dom_ID=5	2	intra	2	intra	
+5	commander	_	_	_	dom_ID=0	1	intra	1	intra	
+6	was_a_crew_member_of	_	_	_	dom_ID=5	3	intra	3	intra	
+
+1	nationality	_	_	_	dom_ID=7	2	intra	2	intra	
+2	birthPlace	_	_	_	dom_ID=7	4	intra	4	intra	
+3	almaMater	_	_	_	dom_ID=7	4	inter	4	inter	
+4	birthDate	_	_	_	dom_ID=7	0	ROOT	0	ROOT	
+5	deathPlace	_	_	_	dom_ID=7	6	inter	6	inter	
+6	was_selected_by_NASA	_	_	_	dom_ID=7	3	inter	3	inter	
+7	was_a_crew_member_of	_	_	_	dom_ID=7	6	intra	6	intra	
+
+1	birthDate	_	_	_	dom_ID=3	0	ROOT	0	ROOT	
+2	almaMater	_	_	_	dom_ID=3	1	inter	1	inter	
+3	occupation	_	_	_	dom_ID=3	2	inter	2	inter	
+4	deathPlace	_	_	_	dom_ID=3	3	intra	3	intra	
+5	nationality	_	_	_	dom_ID=3	6	intra	6	intra	
+6	birthPlace	_	_	_	dom_ID=3	1	intra	1	intra	
+
+1	higher	_	_	_	dom_ID=5	2	intra	2	intra	
+2	awards	_	_	_	dom_ID=2	5	intra	5	intra	
+3	birthDate	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+4	deathPlace	_	_	_	dom_ID=2	3	inter	3	inter	
+5	occupation	_	_	_	dom_ID=2	4	inter	4	inter	
+
+1	status	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	was_a_crew_member_of	_	_	_	dom_ID=1	7	intra	7	intra	
+3	birthPlace	_	_	_	dom_ID=1	4	intra	4	intra	
+4	alternativeNames	_	_	_	dom_ID=1	5	intra	5	intra	
+5	occupation	_	_	_	dom_ID=1	6	intra	6	intra	
+6	nationality	_	_	_	dom_ID=1	1	intra	1	intra	
+7	almaMater	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	leaderName	_	_	_	dom_ID=3	3	inter	3	inter	
+2	was_a_crew_member_of	_	_	_	dom_ID=2	5	intra	5	intra	
+3	backup_pilot	_	_	_	dom_ID=4	5	inter	5	inter	
+4	isPartOf	_	_	_	dom_ID=6	7	intra	7	intra	
+5	nationality	_	_	_	dom_ID=2	7	inter	7	inter	
+6	operator	_	_	_	dom_ID=4	2	intra	2	intra	
+7	birthPlace	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	was_selected_by_NASA	_	_	_	dom_ID=2	6	inter	6	inter	
+2	birthPlace	_	_	_	dom_ID=2	7	intra	7	intra	
+3	operator	_	_	_	dom_ID=3	5	intra	5	intra	
+4	status	_	_	_	dom_ID=2	1	inter	1	inter	
+5	was_a_crew_member_of	_	_	_	dom_ID=2	1	intra	1	intra	
+6	almaMater	_	_	_	dom_ID=2	7	inter	7	inter	
+7	birthDate	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	was_selected_by_NASA	_	_	_	dom_ID=1	6	intra	6	intra	
+2	almaMater	_	_	_	dom_ID=1	4	intra	4	intra	
+3	backup_pilot	_	_	_	dom_ID=3	1	intra	1	intra	
+4	birthPlace	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+5	was_a_crew_member_of	_	_	_	dom_ID=1	4	inter	4	inter	
+6	operator	_	_	_	dom_ID=3	5	intra	5	intra	
+
+1	almaMater	_	_	_	dom_ID=2	4	inter	4	inter	
+2	occupation	_	_	_	dom_ID=2	1	inter	1	inter	
+3	affiliation	_	_	_	dom_ID=5	1	intra	1	intra	
+4	birthDate	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+5	deathPlace	_	_	_	dom_ID=2	2	intra	2	intra	
+6	birthPlace	_	_	_	dom_ID=2	4	intra	4	intra	
+
+1	occupation	_	_	_	dom_ID=0	2	inter	2	inter	
+2	birthPlace	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	almaMater	_	_	_	dom_ID=0	4	intra	4	intra	
+4	birthDate	_	_	_	dom_ID=0	2	intra	2	intra	
+5	status	_	_	_	dom_ID=0	1	intra	1	intra	
+6	deathDate	_	_	_	dom_ID=0	5	intra	5	intra	
+
+1	birthPlace	_	_	_	dom_ID=5	3	intra	3	intra	
+2	almaMater	_	_	_	dom_ID=5	1	intra	1	intra	
+3	birthDate	_	_	_	dom_ID=5	0	ROOT	0	ROOT	
+4	nationality	_	_	_	dom_ID=5	3	inter	3	inter	
+5	occupation	_	_	_	dom_ID=5	4	intra	4	intra	
+
+1	has_to_its_north	_	_	_	dom_ID=4	0	ROOT	0	ROOT	
+2	category	_	_	_	dom_ID=7	5	intra	5	intra	
+3	municipality	_	_	_	dom_ID=7	1	inter	1	inter	
+4	has_to_its_southeast	_	_	_	dom_ID=4	1	intra	1	intra	
+5	established	_	_	_	dom_ID=7	6	intra	6	intra	
+6	location	_	_	_	dom_ID=7	3	intra	3	intra	
+7	country	_	_	_	dom_ID=7	2	intra	2	intra	
+
+1	material	_	_	_	dom_ID=1	2	intra	2	intra	
+2	location	_	_	_	dom_ID=1	6	inter	6	inter	
+3	leaderName	_	_	_	dom_ID=2	4	intra	4	intra	
+4	currency	_	_	_	dom_ID=2	6	intra	6	intra	
+5	designer	_	_	_	dom_ID=1	7	intra	7	intra	
+6	capital	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+7	inaugurationDate	_	_	_	dom_ID=1	1	intra	1	intra	
+
+1	capital	_	_	_	dom_ID=2	2	inter	2	inter	
+2	legislature	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+3	dedicatedTo	_	_	_	dom_ID=1	1	inter	1	inter	
+4	leaderTitle	_	_	_	dom_ID=2	2	intra	2	intra	
+5	material	_	_	_	dom_ID=1	6	intra	6	intra	
+6	location	_	_	_	dom_ID=1	1	intra	1	intra	
+7	designer	_	_	_	dom_ID=1	5	intra	5	intra	
+
+1	affiliation	_	_	_	dom_ID=0	3	intra	3	intra	
+2	campus	_	_	_	dom_ID=0	0	ROOT	0	ROOT	
+3	established	_	_	_	dom_ID=0	4	intra	4	intra	
+4	president	_	_	_	dom_ID=0	2	inter	2	inter	
+
+1	campus	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	motto	_	_	_	dom_ID=1	6	intra	6	intra	
+3	country	_	_	_	dom_ID=1	1	intra	1	intra	
+4	numberOfPostgraduateStudents	_	_	_	dom_ID=1	2	intra	2	intra	
+5	affiliation	_	_	_	dom_ID=1	3	intra	3	intra	
+6	established	_	_	_	dom_ID=1	1	inter	1	inter	
+
+1	campus	_	_	_	dom_ID=7	4	inter	4	inter	
+2	director	_	_	_	dom_ID=7	4	intra	4	intra	
+3	established	_	_	_	dom_ID=7	5	intra	5	intra	
+4	president	_	_	_	dom_ID=7	6	inter	6	inter	
+5	country	_	_	_	dom_ID=7	6	intra	6	intra	
+6	city	_	_	_	dom_ID=7	0	ROOT	0	ROOT	
+7	affiliation	_	_	_	dom_ID=7	3	intra	3	intra	
+
+1	established	_	_	_	dom_ID=6	5	inter	5	inter	
+2	campus	_	_	_	dom_ID=6	5	intra	5	intra	
+3	affiliation	_	_	_	dom_ID=6	6	intra	6	intra	
+4	city	_	_	_	dom_ID=4	3	intra	3	intra	
+5	president	_	_	_	dom_ID=6	0	ROOT	0	ROOT	
+6	numberOfPostgraduateStudents	_	_	_	dom_ID=6	1	intra	1	intra	
+
+1	country	_	_	_	dom_ID=7	3	intra	3	intra	
+2	has_to_its_northwest	_	_	_	dom_ID=0	4	intra	4	intra	
+3	city	_	_	_	dom_ID=7	0	ROOT	0	ROOT	
+4	state	_	_	_	dom_ID=7	1	intra	1	intra	
+5	academicStaffSize	_	_	_	dom_ID=7	3	inter	3	inter	
+6	river	_	_	_	dom_ID=5	5	inter	5	inter	
+7	largestCity	_	_	_	dom_ID=5	6	intra	6	intra	
+
+1	capital	_	_	_	dom_ID=1	7	inter	7	inter	
+2	leaderName	_	_	_	dom_ID=1	4	intra	4	intra	
+3	country	_	_	_	dom_ID=2	7	intra	7	intra	
+4	leaderTitle	_	_	_	dom_ID=1	1	intra	1	intra	
+5	anthem	_	_	_	dom_ID=1	6	intra	6	intra	
+6	ethnicGroup	_	_	_	dom_ID=1	1	inter	1	inter	
+7	city	_	_	_	dom_ID=2	0	ROOT	0	ROOT	
+
+1	established	_	_	_	dom_ID=1	0	ROOT	0	ROOT	
+2	campus	_	_	_	dom_ID=1	1	inter	1	inter	
+3	country	_	_	_	dom_ID=1	7	intra	7	intra	
+4	city	_	_	_	dom_ID=4	5	intra	5	intra	
+5	affiliation	_	_	_	dom_ID=1	6	intra	6	intra	
+6	director	_	_	_	dom_ID=1	2	inter	2	inter	
+7	state	_	_	_	dom_ID=1	1	intra	1	intra	
+
