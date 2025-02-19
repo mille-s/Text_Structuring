@@ -158,5 +158,5 @@ Contains files from the original Castro et al's experiments, and some files extr
 
 - orderingANDstructuring_gold-test.json:
   - 1,408 data points
-  - created with the [notebook in this repo](https://github.com/mille-s/Text_Structuring/blob/main/Parsers_training.ipynb): (Cell “Make reference file structuring grouped”); I just combined the outputs of the datatpoints that have the same ID in structuring_gold-test.json.
+  - created with [this code](https://github.com/mille-s/Text_Structuring/blob/main/code/orderANDstruct_makeRefFile.py); I just combined the outputs of the datatpoints that have the same ID in structuring_gold-test.json.
   - all possible orderings/structurings given a WebNLG input.
