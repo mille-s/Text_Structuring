@@ -138,7 +138,7 @@ Code adapted from Castro et al's evaluation code. It replicates exactly their re
 Contains all feature configuration files for the different parsers used in the experiments.
 
 ### webnlg
-Contains the WebNLG dataset converted to CoNLL-U format for training parsers on it.
+Contains one folder for each series of experiments (e.g. _Parsing4_). Each folder contains the WebNLG dataset converted to CoNLL-U format for training (all folders whose name starts with a 2 or a 3) and evaluating (folder whose name starts with a 0) parsers on it. It also contains a folder with the parser outputs converted to the format needed to evaluate the ordering and structuring (_Files4CastroEval_).
 
 ### castro_files
 Contains files from the original Castro et al's experiments, and some files extracted from it.
